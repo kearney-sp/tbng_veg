@@ -710,8 +710,8 @@ west fork,control,ungulate ex,2018-08-01,SD,2018,20,0,14.1
 west fork,control,ungulate ex,2018-08-01,Subshrub,2018,20,0,44.1
 west fork,control,ungulate ex,2018-08-01,Total,2018,20,10,122.34
 west fork,control,ungulate ex,2018-08-01,VUOC,2018,20,0,0.02
-west fork,control,ungulate ex,2019-08-07,AnnGrass,2019,27,1,0.02
-west fork,control,ungulate ex,2019-08-07,Brome,2019,27,1,0.0
+west fork,control,ungulate ex,2019-08-07,AnnGrass,2019,27,1,
+west fork,control,ungulate ex,2019-08-07,Brome,2019,27,1,
 west fork,control,ungulate ex,2019-08-07,C3,2019,27,0,0.0
 west fork,control,ungulate ex,2019-08-07,C4,2019,27,0,6.2
 west fork,control,ungulate ex,2019-08-07,Forb,2019,27,3,3.0
@@ -856,7 +856,7 @@ west fork,prairie dog,livestock ex,2018-08-01,Total,2018,18,18,133.6199999999999
 west fork,prairie dog,livestock ex,2018-08-01,VUOC,2018,18,0,0.0
 west fork,prairie dog,livestock ex,2019-08-07,AnnGrass,2019,24,0,0.0
 west fork,prairie dog,livestock ex,2019-08-07,Brome,2019,24,0,0.0
-west fork,prairie dog,livestock ex,2019-08-07,C3,2019,24,13,0.0
+west fork,prairie dog,livestock ex,2019-08-07,C3,2019,24,13,
 west fork,prairie dog,livestock ex,2019-08-07,C4,2019,24,0,0.0
 west fork,prairie dog,livestock ex,2019-08-07,Forb,2019,24,5,41.2
 west fork,prairie dog,livestock ex,2019-08-07,SD,2019,24,6,15.2
