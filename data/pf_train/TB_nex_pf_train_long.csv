@@ -1,1270 +1,1270 @@
-Site,Disturbance,Exclosure,Date,FG,Year,Total Hits,hits,weight
-lake creek,control,livestock ex,2017-07-25,AnnGrass,2017,18,10,33.54
-lake creek,control,livestock ex,2017-07-25,Brome,2017,18,10,22.68
-lake creek,control,livestock ex,2017-07-25,C3,2017,18,1,21.479999999999997
-lake creek,control,livestock ex,2017-07-25,C4,2017,18,6,29.959999999999997
-lake creek,control,livestock ex,2017-07-25,Forb,2017,18,1,18.06
-lake creek,control,livestock ex,2017-07-25,SD,2017,18,0,0.0
-lake creek,control,livestock ex,2017-07-25,Subshrub,2017,18,0,0.0
-lake creek,control,livestock ex,2017-07-25,Total,2017,18,18,103.04
-lake creek,control,livestock ex,2017-07-25,VUOC,2017,18,0,10.86
-lake creek,control,livestock ex,2018-08-06,AnnGrass,2018,36,17,44.9
-lake creek,control,livestock ex,2018-08-06,Brome,2018,36,17,44.9
-lake creek,control,livestock ex,2018-08-06,C3,2018,36,6,40.66
-lake creek,control,livestock ex,2018-08-06,C4,2018,36,5,34.38
-lake creek,control,livestock ex,2018-08-06,Forb,2018,36,8,35.8
-lake creek,control,livestock ex,2018-08-06,SD,2018,36,0,33.14
-lake creek,control,livestock ex,2018-08-06,Subshrub,2018,36,0,0.0
-lake creek,control,livestock ex,2018-08-06,Total,2018,36,36,188.88
-lake creek,control,livestock ex,2018-08-06,VUOC,2018,36,0,0.0
-lake creek,control,livestock ex,2019-07-31,AnnGrass,2019,23,20,44.92
-lake creek,control,livestock ex,2019-07-31,Brome,2019,23,20,44.9
-lake creek,control,livestock ex,2019-07-31,C3,2019,23,0,0.0
-lake creek,control,livestock ex,2019-07-31,C4,2019,23,1,71.3
-lake creek,control,livestock ex,2019-07-31,Forb,2019,23,2,18.7
-lake creek,control,livestock ex,2019-07-31,SD,2019,23,0,3.6
-lake creek,control,livestock ex,2019-07-31,Subshrub,2019,23,0,0.0
-lake creek,control,livestock ex,2019-07-31,Total,2019,23,23,138.52
-lake creek,control,livestock ex,2019-07-31,VUOC,2019,23,0,0.02
-lake creek,control,livestock ex,2020-08-03,AnnGrass,2020,13,7,13.9
-lake creek,control,livestock ex,2020-08-03,Brome,2020,13,7,13.9
-lake creek,control,livestock ex,2020-08-03,C3,2020,13,0,0.0
-lake creek,control,livestock ex,2020-08-03,C4,2020,13,3,45.36
-lake creek,control,livestock ex,2020-08-03,Forb,2020,13,0,0.3
-lake creek,control,livestock ex,2020-08-03,SD,2020,13,3,23.8
-lake creek,control,livestock ex,2020-08-03,Subshrub,2020,13,0,0.0
-lake creek,control,livestock ex,2020-08-03,Total,2020,13,13,83.36
-lake creek,control,livestock ex,2020-08-03,VUOC,2020,13,0,0.0
-lake creek,control,out,2017-07-25,AnnGrass,2017,11,2,22.120000000000005
-lake creek,control,out,2017-07-25,Brome,2017,11,2,11.220000000000002
-lake creek,control,out,2017-07-25,C3,2017,11,3,24.160000000000004
-lake creek,control,out,2017-07-25,C4,2017,11,6,28.2
-lake creek,control,out,2017-07-25,Forb,2017,11,0,11.46
-lake creek,control,out,2017-07-25,SD,2017,11,0,0.0
-lake creek,control,out,2017-07-25,Subshrub,2017,11,0,0.0
-lake creek,control,out,2017-07-25,Total,2017,11,11,85.94
-lake creek,control,out,2017-07-25,VUOC,2017,11,0,10.9
-lake creek,control,out,2018-08-06,AnnGrass,2018,23,3,3.38
-lake creek,control,out,2018-08-06,Brome,2018,23,3,3.38
-lake creek,control,out,2018-08-06,C3,2018,23,0,13.44
-lake creek,control,out,2018-08-06,C4,2018,23,16,22.64
-lake creek,control,out,2018-08-06,Forb,2018,23,4,29.56
-lake creek,control,out,2018-08-06,SD,2018,23,0,6.5
-lake creek,control,out,2018-08-06,Subshrub,2018,23,0,0.0
-lake creek,control,out,2018-08-06,Total,2018,23,23,75.52
-lake creek,control,out,2018-08-06,VUOC,2018,23,0,0.0
-lake creek,control,out,2019-07-31,AnnGrass,2019,32,13,43.2
-lake creek,control,out,2019-07-31,Brome,2019,32,13,43.2
-lake creek,control,out,2019-07-31,C3,2019,32,5,20.5
-lake creek,control,out,2019-07-31,C4,2019,32,0,14.0
-lake creek,control,out,2019-07-31,Forb,2019,32,7,22.2
-lake creek,control,out,2019-07-31,SD,2019,32,0,2.3
-lake creek,control,out,2019-07-31,Subshrub,2019,32,0,0.0
-lake creek,control,out,2019-07-31,Total,2019,32,25,102.2
-lake creek,control,out,2019-07-31,VUOC,2019,32,0,0.0
-lake creek,control,out,2020-08-03,AnnGrass,2020,4,1,2.0218
-lake creek,control,out,2020-08-03,Brome,2020,4,1,2.02
-lake creek,control,out,2020-08-03,C3,2020,4,0,1.72
-lake creek,control,out,2020-08-03,C4,2020,4,1,19.66
-lake creek,control,out,2020-08-03,Forb,2020,4,0,0.04
-lake creek,control,out,2020-08-03,SD,2020,4,2,15.98
-lake creek,control,out,2020-08-03,Subshrub,2020,4,0,0.0
-lake creek,control,out,2020-08-03,Total,2020,4,4,39.4218
-lake creek,control,out,2020-08-03,VUOC,2020,4,0,0.0018
-lake creek,control,ungulate ex,2017-07-25,AnnGrass,2017,37,7,11.160000000000004
-lake creek,control,ungulate ex,2017-07-25,Brome,2017,37,7,11.160000000000004
-lake creek,control,ungulate ex,2017-07-25,C3,2017,37,3,64.11999999999999
-lake creek,control,ungulate ex,2017-07-25,C4,2017,37,23,39.78000000000001
-lake creek,control,ungulate ex,2017-07-25,Forb,2017,37,4,23.2
-lake creek,control,ungulate ex,2017-07-25,SD,2017,37,0,0.0
-lake creek,control,ungulate ex,2017-07-25,Subshrub,2017,37,0,0.0
-lake creek,control,ungulate ex,2017-07-25,Total,2017,37,37,138.26
-lake creek,control,ungulate ex,2017-07-25,VUOC,2017,37,0,0.0
-lake creek,control,ungulate ex,2018-08-06,AnnGrass,2018,28,11,32.46
-lake creek,control,ungulate ex,2018-08-06,Brome,2018,28,11,32.46
-lake creek,control,ungulate ex,2018-08-06,C3,2018,28,11,140.56
-lake creek,control,ungulate ex,2018-08-06,C4,2018,28,0,15.58
-lake creek,control,ungulate ex,2018-08-06,Forb,2018,28,2,39.6
-lake creek,control,ungulate ex,2018-08-06,SD,2018,28,4,41.16
-lake creek,control,ungulate ex,2018-08-06,Subshrub,2018,28,0,0.0
-lake creek,control,ungulate ex,2018-08-06,Total,2018,28,28,269.36
-lake creek,control,ungulate ex,2018-08-06,VUOC,2018,28,0,0.0
-lake creek,control,ungulate ex,2019-07-31,AnnGrass,2019,47,18,77.3
-lake creek,control,ungulate ex,2019-07-31,Brome,2019,47,18,77.3
-lake creek,control,ungulate ex,2019-07-31,C3,2019,47,9,57.2
-lake creek,control,ungulate ex,2019-07-31,C4,2019,47,1,9.1
-lake creek,control,ungulate ex,2019-07-31,Forb,2019,47,14,65.7
-lake creek,control,ungulate ex,2019-07-31,SD,2019,47,5,2.2
-lake creek,control,ungulate ex,2019-07-31,Subshrub,2019,47,0,0.0
-lake creek,control,ungulate ex,2019-07-31,Total,2019,47,47,211.5
-lake creek,control,ungulate ex,2019-07-31,VUOC,2019,47,0,0.0
-lake creek,control,ungulate ex,2020-08-03,AnnGrass,2020,29,18,39.7
-lake creek,control,ungulate ex,2020-08-03,Brome,2020,29,18,39.7
-lake creek,control,ungulate ex,2020-08-03,C3,2020,29,6,45.3
-lake creek,control,ungulate ex,2020-08-03,C4,2020,29,0,10.1
-lake creek,control,ungulate ex,2020-08-03,Forb,2020,29,0,1.4
-lake creek,control,ungulate ex,2020-08-03,SD,2020,29,5,53.5
-lake creek,control,ungulate ex,2020-08-03,Subshrub,2020,29,0,0.0
-lake creek,control,ungulate ex,2020-08-03,Total,2020,29,29,150.0
-lake creek,control,ungulate ex,2020-08-03,VUOC,2020,29,0,0.0
-lake creek,fire,livestock ex,2017-07-20,AnnGrass,2017,18,0,13.48
-lake creek,fire,livestock ex,2017-07-20,Brome,2017,18,0,0.0
-lake creek,fire,livestock ex,2017-07-20,C3,2017,18,7,53.00000000000001
-lake creek,fire,livestock ex,2017-07-20,C4,2017,18,11,46.699999999999996
-lake creek,fire,livestock ex,2017-07-20,Forb,2017,18,0,22.06
-lake creek,fire,livestock ex,2017-07-20,SD,2017,18,0,0.0
-lake creek,fire,livestock ex,2017-07-20,Subshrub,2017,18,0,0.0
-lake creek,fire,livestock ex,2017-07-20,Total,2017,18,18,135.24
-lake creek,fire,livestock ex,2017-07-20,VUOC,2017,18,0,13.48
-lake creek,fire,livestock ex,2018-07-30,AnnGrass,2018,38,10,19.02
-lake creek,fire,livestock ex,2018-07-30,Brome,2018,38,1,2.7
-lake creek,fire,livestock ex,2018-07-30,C3,2018,38,9,47.72
-lake creek,fire,livestock ex,2018-07-30,C4,2018,38,2,31.82
-lake creek,fire,livestock ex,2018-07-30,Forb,2018,38,11,114.44
-lake creek,fire,livestock ex,2018-07-30,SD,2018,38,6,21.96
-lake creek,fire,livestock ex,2018-07-30,Subshrub,2018,38,0,0.0
-lake creek,fire,livestock ex,2018-07-30,Total,2018,38,38,234.96
-lake creek,fire,livestock ex,2018-07-30,VUOC,2018,38,9,16.32
-lake creek,fire,livestock ex,2019-07-31,AnnGrass,2019,48,18,30.0
-lake creek,fire,livestock ex,2019-07-31,Brome,2019,48,18,29.2
-lake creek,fire,livestock ex,2019-07-31,C3,2019,48,0,4.7
-lake creek,fire,livestock ex,2019-07-31,C4,2019,48,20,88.7
-lake creek,fire,livestock ex,2019-07-31,Forb,2019,48,10,34.0
-lake creek,fire,livestock ex,2019-07-31,SD,2019,48,0,1.3
-lake creek,fire,livestock ex,2019-07-31,Subshrub,2019,48,0,0.0
-lake creek,fire,livestock ex,2019-07-31,Total,2019,48,48,158.70000000000005
-lake creek,fire,livestock ex,2019-07-31,VUOC,2019,48,0,0.8
-lake creek,fire,livestock ex,2020-08-03,AnnGrass,2020,25,6,17.3
-lake creek,fire,livestock ex,2020-08-03,Brome,2020,25,6,17.3
-lake creek,fire,livestock ex,2020-08-03,C3,2020,25,2,8.68
-lake creek,fire,livestock ex,2020-08-03,C4,2020,25,4,26.16
-lake creek,fire,livestock ex,2020-08-03,Forb,2020,25,0,0.86
-lake creek,fire,livestock ex,2020-08-03,SD,2020,25,13,53.2
-lake creek,fire,livestock ex,2020-08-03,Subshrub,2020,25,0,0.0
-lake creek,fire,livestock ex,2020-08-03,Total,2020,25,25,106.2
-lake creek,fire,livestock ex,2020-08-03,VUOC,2020,25,0,0.0
-lake creek,fire,out,2017-07-20,AnnGrass,2017,25,4,6.979999999999997
-lake creek,fire,out,2017-07-20,Brome,2017,25,0,3.1199999999999974
-lake creek,fire,out,2017-07-20,C3,2017,25,9,75.22
-lake creek,fire,out,2017-07-20,C4,2017,25,0,0.35999999999999943
-lake creek,fire,out,2017-07-20,Forb,2017,25,12,53.1
-lake creek,fire,out,2017-07-20,SD,2017,25,0,0.0
-lake creek,fire,out,2017-07-20,Subshrub,2017,25,0,0.0
-lake creek,fire,out,2017-07-20,Total,2017,25,25,135.65999999999997
-lake creek,fire,out,2017-07-20,VUOC,2017,25,4,3.8599999999999994
-lake creek,fire,out,2018-07-30,AnnGrass,2018,26,0,1.92
-lake creek,fire,out,2018-07-30,Brome,2018,26,0,1.64
-lake creek,fire,out,2018-07-30,C3,2018,26,2,8.66
-lake creek,fire,out,2018-07-30,C4,2018,26,13,31.22
-lake creek,fire,out,2018-07-30,Forb,2018,26,11,81.02
-lake creek,fire,out,2018-07-30,SD,2018,26,0,4.2
-lake creek,fire,out,2018-07-30,Subshrub,2018,26,0,0.0
-lake creek,fire,out,2018-07-30,Total,2018,26,26,127.02
-lake creek,fire,out,2018-07-30,VUOC,2018,26,0,0.28
-lake creek,fire,out,2019-07-31,AnnGrass,2019,23,1,0.62
-lake creek,fire,out,2019-07-31,Brome,2019,23,1,0.6
-lake creek,fire,out,2019-07-31,C3,2019,23,12,79.2
-lake creek,fire,out,2019-07-31,C4,2019,23,5,39.6
-lake creek,fire,out,2019-07-31,Forb,2019,23,3,62.1
-lake creek,fire,out,2019-07-31,SD,2019,23,0,1.2
-lake creek,fire,out,2019-07-31,Subshrub,2019,23,0,0.0
-lake creek,fire,out,2019-07-31,Total,2019,23,21,182.72
-lake creek,fire,out,2019-07-31,VUOC,2019,23,0,0.02
-lake creek,fire,out,2020-08-03,AnnGrass,2020,10,1,9.12
-lake creek,fire,out,2020-08-03,Brome,2020,10,1,9.12
-lake creek,fire,out,2020-08-03,C3,2020,10,8,63.9
-lake creek,fire,out,2020-08-03,C4,2020,10,0,0.36
-lake creek,fire,out,2020-08-03,Forb,2020,10,0,0.22
-lake creek,fire,out,2020-08-03,SD,2020,10,1,50.9
-lake creek,fire,out,2020-08-03,Subshrub,2020,10,0,0.0
-lake creek,fire,out,2020-08-03,Total,2020,10,10,124.49999999999999
-lake creek,fire,out,2020-08-03,VUOC,2020,10,0,0.0
-lake creek,fire,ungulate ex,2017-07-20,AnnGrass,2017,22,1,11.84
-lake creek,fire,ungulate ex,2017-07-20,Brome,2017,22,0,0.1800000000000015
-lake creek,fire,ungulate ex,2017-07-20,C3,2017,22,4,12.620000000000001
-lake creek,fire,ungulate ex,2017-07-20,C4,2017,22,6,27.839999999999996
-lake creek,fire,ungulate ex,2017-07-20,Forb,2017,22,11,67.69999999999999
-lake creek,fire,ungulate ex,2017-07-20,SD,2017,22,0,0.0
-lake creek,fire,ungulate ex,2017-07-20,Subshrub,2017,22,0,0.0
-lake creek,fire,ungulate ex,2017-07-20,Total,2017,22,22,119.99999999999997
-lake creek,fire,ungulate ex,2017-07-20,VUOC,2017,22,1,11.659999999999998
-lake creek,fire,ungulate ex,2018-07-30,AnnGrass,2018,34,0,0.22
-lake creek,fire,ungulate ex,2018-07-30,Brome,2018,34,0,0.0
-lake creek,fire,ungulate ex,2018-07-30,C3,2018,34,0,8.28
-lake creek,fire,ungulate ex,2018-07-30,C4,2018,34,7,25.62
-lake creek,fire,ungulate ex,2018-07-30,Forb,2018,34,21,81.58
-lake creek,fire,ungulate ex,2018-07-30,SD,2018,34,6,11.7
-lake creek,fire,ungulate ex,2018-07-30,Subshrub,2018,34,0,0.0
-lake creek,fire,ungulate ex,2018-07-30,Total,2018,34,34,127.39999999999999
-lake creek,fire,ungulate ex,2018-07-30,VUOC,2018,34,0,0.22
-lake creek,fire,ungulate ex,2019-07-31,AnnGrass,2019,14,0,1.5
-lake creek,fire,ungulate ex,2019-07-31,Brome,2019,14,0,1.5
-lake creek,fire,ungulate ex,2019-07-31,C3,2019,14,7,87.0
-lake creek,fire,ungulate ex,2019-07-31,C4,2019,14,5,28.7
-lake creek,fire,ungulate ex,2019-07-31,Forb,2019,14,2,54.6
-lake creek,fire,ungulate ex,2019-07-31,SD,2019,14,0,1.5
-lake creek,fire,ungulate ex,2019-07-31,Subshrub,2019,14,0,0.0
-lake creek,fire,ungulate ex,2019-07-31,Total,2019,14,14,173.3
-lake creek,fire,ungulate ex,2019-07-31,VUOC,2019,14,0,0.0
-lake creek,fire,ungulate ex,2020-08-03,AnnGrass,2020,16,0,0.44
-lake creek,fire,ungulate ex,2020-08-03,Brome,2020,16,0,0.44
-lake creek,fire,ungulate ex,2020-08-03,C3,2020,16,4,64.02
-lake creek,fire,ungulate ex,2020-08-03,C4,2020,16,0,4.26
-lake creek,fire,ungulate ex,2020-08-03,Forb,2020,16,0,0.0
-lake creek,fire,ungulate ex,2020-08-03,SD,2020,16,12,94.74
-lake creek,fire,ungulate ex,2020-08-03,Subshrub,2020,16,0,0.0
-lake creek,fire,ungulate ex,2020-08-03,Total,2020,16,16,163.45999999999998
-lake creek,fire,ungulate ex,2020-08-03,VUOC,2020,16,0,0.0
-lake creek,prairie dog,livestock ex,2017-07-25,AnnGrass,2017,24,5,32.919999999999995
-lake creek,prairie dog,livestock ex,2017-07-25,Brome,2017,24,5,17.619999999999997
-lake creek,prairie dog,livestock ex,2017-07-25,C3,2017,24,3,25.200000000000003
-lake creek,prairie dog,livestock ex,2017-07-25,C4,2017,24,2,21.759999999999998
-lake creek,prairie dog,livestock ex,2017-07-25,Forb,2017,24,7,56.760000000000005
-lake creek,prairie dog,livestock ex,2017-07-25,SD,2017,24,0,0.0
-lake creek,prairie dog,livestock ex,2017-07-25,Subshrub,2017,24,0,0.0
-lake creek,prairie dog,livestock ex,2017-07-25,Total,2017,24,17,136.64000000000001
-lake creek,prairie dog,livestock ex,2017-07-25,VUOC,2017,24,0,15.299999999999999
-lake creek,prairie dog,livestock ex,2018-07-30,AnnGrass,2018,27,8,31.12
-lake creek,prairie dog,livestock ex,2018-07-30,Brome,2018,27,8,30.8
-lake creek,prairie dog,livestock ex,2018-07-30,C3,2018,27,1,4.5
-lake creek,prairie dog,livestock ex,2018-07-30,C4,2018,27,3,17.12
-lake creek,prairie dog,livestock ex,2018-07-30,Forb,2018,27,15,41.28
-lake creek,prairie dog,livestock ex,2018-07-30,SD,2018,27,0,7.14
-lake creek,prairie dog,livestock ex,2018-07-30,Subshrub,2018,27,0,0.0
-lake creek,prairie dog,livestock ex,2018-07-30,Total,2018,27,27,101.16
-lake creek,prairie dog,livestock ex,2018-07-30,VUOC,2018,27,0,0.32
-lake creek,prairie dog,livestock ex,2019-07-31,AnnGrass,2019,37,26,55.5
-lake creek,prairie dog,livestock ex,2019-07-31,Brome,2019,37,26,53.6
-lake creek,prairie dog,livestock ex,2019-07-31,C3,2019,37,3,37.7
-lake creek,prairie dog,livestock ex,2019-07-31,C4,2019,37,4,59.7
-lake creek,prairie dog,livestock ex,2019-07-31,Forb,2019,37,3,56.3
-lake creek,prairie dog,livestock ex,2019-07-31,SD,2019,37,0,2.4
-lake creek,prairie dog,livestock ex,2019-07-31,Subshrub,2019,37,0,0.0
-lake creek,prairie dog,livestock ex,2019-07-31,Total,2019,37,36,211.60000000000002
-lake creek,prairie dog,livestock ex,2019-07-31,VUOC,2019,37,0,1.9
-lake creek,prairie dog,livestock ex,2020-08-03,AnnGrass,2020,14,7,17.5
-lake creek,prairie dog,livestock ex,2020-08-03,Brome,2020,14,7,17.4
-lake creek,prairie dog,livestock ex,2020-08-03,C3,2020,14,0,21.1
-lake creek,prairie dog,livestock ex,2020-08-03,C4,2020,14,0,2.36
-lake creek,prairie dog,livestock ex,2020-08-03,Forb,2020,14,0,0.68
-lake creek,prairie dog,livestock ex,2020-08-03,SD,2020,14,7,25.0
-lake creek,prairie dog,livestock ex,2020-08-03,Subshrub,2020,14,0,0.0
-lake creek,prairie dog,livestock ex,2020-08-03,Total,2020,14,14,66.64
-lake creek,prairie dog,livestock ex,2020-08-03,VUOC,2020,14,0,0.1
-lake creek,prairie dog,out,2017-07-25,AnnGrass,2017,18,0,0.0
-lake creek,prairie dog,out,2017-07-25,Brome,2017,18,0,0.0
-lake creek,prairie dog,out,2017-07-25,C3,2017,18,4,24.340000000000003
-lake creek,prairie dog,out,2017-07-25,C4,2017,18,0,25.479999999999997
-lake creek,prairie dog,out,2017-07-25,Forb,2017,18,14,75.96000000000001
-lake creek,prairie dog,out,2017-07-25,SD,2017,18,0,0.0
-lake creek,prairie dog,out,2017-07-25,Subshrub,2017,18,0,0.0
-lake creek,prairie dog,out,2017-07-25,Total,2017,18,18,125.78
-lake creek,prairie dog,out,2017-07-25,VUOC,2017,18,0,0.0
-lake creek,prairie dog,out,2018-07-30,AnnGrass,2018,21,2,2.42
-lake creek,prairie dog,out,2018-07-30,Brome,2018,21,0,0.0
-lake creek,prairie dog,out,2018-07-30,C3,2018,21,2,22.12
-lake creek,prairie dog,out,2018-07-30,C4,2018,21,8,26.58
-lake creek,prairie dog,out,2018-07-30,Forb,2018,21,9,127.58
-lake creek,prairie dog,out,2018-07-30,SD,2018,21,0,0.1
-lake creek,prairie dog,out,2018-07-30,Subshrub,2018,21,0,0.0
-lake creek,prairie dog,out,2018-07-30,Total,2018,21,21,178.79999999999998
-lake creek,prairie dog,out,2018-07-30,VUOC,2018,21,2,2.42
-lake creek,prairie dog,out,2019-07-31,AnnGrass,2019,26,1,0.8200000000000001
-lake creek,prairie dog,out,2019-07-31,Brome,2019,26,1,0.02
-lake creek,prairie dog,out,2019-07-31,C3,2019,26,3,29.8
-lake creek,prairie dog,out,2019-07-31,C4,2019,26,9,31.1
-lake creek,prairie dog,out,2019-07-31,Forb,2019,26,7,99.89999999999999
-lake creek,prairie dog,out,2019-07-31,SD,2019,26,0,0.9
-lake creek,prairie dog,out,2019-07-31,Subshrub,2019,26,0,3.2
-lake creek,prairie dog,out,2019-07-31,Total,2019,26,20,165.72
-lake creek,prairie dog,out,2019-07-31,VUOC,2019,26,0,0.8
-lake creek,prairie dog,out,2020-08-03,AnnGrass,2020,21,7,6.666
-lake creek,prairie dog,out,2020-08-03,Brome,2020,21,7,6.66
-lake creek,prairie dog,out,2020-08-03,C3,2020,21,0,6.64
-lake creek,prairie dog,out,2020-08-03,C4,2020,21,8,18.46
-lake creek,prairie dog,out,2020-08-03,Forb,2020,21,0,0.5
-lake creek,prairie dog,out,2020-08-03,SD,2020,21,6,15.62
-lake creek,prairie dog,out,2020-08-03,Subshrub,2020,21,0,0.0
-lake creek,prairie dog,out,2020-08-03,Total,2020,21,21,47.886
-lake creek,prairie dog,out,2020-08-03,VUOC,2020,21,0,0.006
-lake creek,prairie dog,ungulate ex,2017-07-25,AnnGrass,2017,11,0,19.58
-lake creek,prairie dog,ungulate ex,2017-07-25,Brome,2017,11,0,0.0
-lake creek,prairie dog,ungulate ex,2017-07-25,C3,2017,11,0,19.42
-lake creek,prairie dog,ungulate ex,2017-07-25,C4,2017,11,7,11.719999999999999
-lake creek,prairie dog,ungulate ex,2017-07-25,Forb,2017,11,4,85.18
-lake creek,prairie dog,ungulate ex,2017-07-25,SD,2017,11,0,0.0
-lake creek,prairie dog,ungulate ex,2017-07-25,Subshrub,2017,11,0,0.0
-lake creek,prairie dog,ungulate ex,2017-07-25,Total,2017,11,11,135.9
-lake creek,prairie dog,ungulate ex,2017-07-25,VUOC,2017,11,0,19.58
-lake creek,prairie dog,ungulate ex,2018-07-30,AnnGrass,2018,34,0,0.54
-lake creek,prairie dog,ungulate ex,2018-07-30,Brome,2018,34,0,0.06
-lake creek,prairie dog,ungulate ex,2018-07-30,C3,2018,34,0,0.88
-lake creek,prairie dog,ungulate ex,2018-07-30,C4,2018,34,11,32.18
-lake creek,prairie dog,ungulate ex,2018-07-30,Forb,2018,34,23,106.02
-lake creek,prairie dog,ungulate ex,2018-07-30,SD,2018,34,0,0.24
-lake creek,prairie dog,ungulate ex,2018-07-30,Subshrub,2018,34,0,0.0
-lake creek,prairie dog,ungulate ex,2018-07-30,Total,2018,34,34,139.85999999999999
-lake creek,prairie dog,ungulate ex,2018-07-30,VUOC,2018,34,0,0.48
-lake creek,prairie dog,ungulate ex,2019-07-31,AnnGrass,2019,30,1,18.6
-lake creek,prairie dog,ungulate ex,2019-07-31,Brome,2019,30,0,0.8
-lake creek,prairie dog,ungulate ex,2019-07-31,C3,2019,30,0,2.9
-lake creek,prairie dog,ungulate ex,2019-07-31,C4,2019,30,24,91.7
-lake creek,prairie dog,ungulate ex,2019-07-31,Forb,2019,30,5,90.3
-lake creek,prairie dog,ungulate ex,2019-07-31,SD,2019,30,0,2.0
-lake creek,prairie dog,ungulate ex,2019-07-31,Subshrub,2019,30,0,0.0
-lake creek,prairie dog,ungulate ex,2019-07-31,Total,2019,30,30,205.5
-lake creek,prairie dog,ungulate ex,2019-07-31,VUOC,2019,30,1,17.8
-lake creek,prairie dog,ungulate ex,2020-08-03,AnnGrass,2020,28,2,1.4200000000000002
-lake creek,prairie dog,ungulate ex,2020-08-03,Brome,2020,28,2,1.34
-lake creek,prairie dog,ungulate ex,2020-08-03,C3,2020,28,1,0.8
-lake creek,prairie dog,ungulate ex,2020-08-03,C4,2020,28,4,32.12
-lake creek,prairie dog,ungulate ex,2020-08-03,Forb,2020,28,8,39.9
-lake creek,prairie dog,ungulate ex,2020-08-03,SD,2020,28,13,28.3
-lake creek,prairie dog,ungulate ex,2020-08-03,Subshrub,2020,28,0,0.0
-lake creek,prairie dog,ungulate ex,2020-08-03,Total,2020,28,28,102.53999999999999
-lake creek,prairie dog,ungulate ex,2020-08-03,VUOC,2020,28,0,0.08
-steckley,control,livestock ex,2017-07-17,AnnGrass,2017,29,1,3.9400000000000013
-steckley,control,livestock ex,2017-07-17,Brome,2017,29,1,3.9400000000000013
-steckley,control,livestock ex,2017-07-17,C3,2017,29,10,72.25999999999999
-steckley,control,livestock ex,2017-07-17,C4,2017,29,0,0.0
-steckley,control,livestock ex,2017-07-17,Forb,2017,29,0,0.22000000000000064
-steckley,control,livestock ex,2017-07-17,SD,2017,29,0,0.0
-steckley,control,livestock ex,2017-07-17,Subshrub,2017,29,0,0.0
-steckley,control,livestock ex,2017-07-17,Total,2017,29,11,76.41999999999999
-steckley,control,livestock ex,2017-07-17,VUOC,2017,29,0,0.0
-steckley,control,livestock ex,2018-07-31,AnnGrass,2018,21,3,22.62
-steckley,control,livestock ex,2018-07-31,Brome,2018,21,3,22.62
-steckley,control,livestock ex,2018-07-31,C3,2018,21,13,125.3
-steckley,control,livestock ex,2018-07-31,C4,2018,21,0,0.0
-steckley,control,livestock ex,2018-07-31,Forb,2018,21,1,2.54
-steckley,control,livestock ex,2018-07-31,SD,2018,21,4,9.44
-steckley,control,livestock ex,2018-07-31,Subshrub,2018,21,0,0.0
-steckley,control,livestock ex,2018-07-31,Total,2018,21,21,159.89999999999998
-steckley,control,livestock ex,2018-07-31,VUOC,2018,21,0,0.0
-steckley,control,livestock ex,2019-07-29,AnnGrass,2019,34,15,126.1
-steckley,control,livestock ex,2019-07-29,Brome,2019,34,15,126.1
-steckley,control,livestock ex,2019-07-29,C3,2019,34,19,134.4
-steckley,control,livestock ex,2019-07-29,C4,2019,34,0,0.2
-steckley,control,livestock ex,2019-07-29,Forb,2019,34,0,3.8200000000000003
-steckley,control,livestock ex,2019-07-29,SD,2019,34,0,12.6
-steckley,control,livestock ex,2019-07-29,Subshrub,2019,34,0,0.0
-steckley,control,livestock ex,2019-07-29,Total,2019,34,34,277.12
-steckley,control,livestock ex,2019-07-29,VUOC,2019,34,0,0.0
-steckley,control,livestock ex,2020-08-10,AnnGrass,2020,21,2,6.08
-steckley,control,livestock ex,2020-08-10,Brome,2020,21,2,6.08
-steckley,control,livestock ex,2020-08-10,C3,2020,21,19,30.42
-steckley,control,livestock ex,2020-08-10,C4,2020,21,0,0.1
-steckley,control,livestock ex,2020-08-10,Forb,2020,21,0,0.24
-steckley,control,livestock ex,2020-08-10,SD,2020,21,0,32.56
-steckley,control,livestock ex,2020-08-10,Subshrub,2020,21,0,0.0
-steckley,control,livestock ex,2020-08-10,Total,2020,21,21,69.4
-steckley,control,livestock ex,2020-08-10,VUOC,2020,21,0,0.0
-steckley,control,out,2017-07-17,AnnGrass,2017,17,7,8.379999999999999
-steckley,control,out,2017-07-17,Brome,2017,17,7,8.379999999999999
-steckley,control,out,2017-07-17,C3,2017,17,10,78.12
-steckley,control,out,2017-07-17,C4,2017,17,0,0.0
-steckley,control,out,2017-07-17,Forb,2017,17,0,0.52
-steckley,control,out,2017-07-17,SD,2017,17,0,0.0
-steckley,control,out,2017-07-17,Subshrub,2017,17,0,0.0
-steckley,control,out,2017-07-17,Total,2017,17,17,87.02
-steckley,control,out,2017-07-17,VUOC,2017,17,0,0.0
-steckley,control,out,2018-07-31,AnnGrass,2018,43,17,62.42
-steckley,control,out,2018-07-31,Brome,2018,43,17,62.42
-steckley,control,out,2018-07-31,C3,2018,43,12,96.5
-steckley,control,out,2018-07-31,C4,2018,43,13,31.16
-steckley,control,out,2018-07-31,Forb,2018,43,0,3.52
-steckley,control,out,2018-07-31,SD,2018,43,0,20.54
-steckley,control,out,2018-07-31,Subshrub,2018,43,0,0.0
-steckley,control,out,2018-07-31,Total,2018,43,42,214.14
-steckley,control,out,2018-07-31,VUOC,2018,43,0,0.0
-steckley,control,out,2019-07-29,AnnGrass,2019,75,40,132.5
-steckley,control,out,2019-07-29,Brome,2019,75,40,132.5
-steckley,control,out,2019-07-29,C3,2019,75,25,221.1
-steckley,control,out,2019-07-29,C4,2019,75,0,1.3
-steckley,control,out,2019-07-29,Forb,2019,75,1,7.6000000000000005
-steckley,control,out,2019-07-29,SD,2019,75,9,0.9
-steckley,control,out,2019-07-29,Subshrub,2019,75,0,0.0
-steckley,control,out,2019-07-29,Total,2019,75,75,363.3999999999999
-steckley,control,out,2019-07-29,VUOC,2019,75,0,0.0
-steckley,control,out,2020-08-10,AnnGrass,2020,8,4,13.3
-steckley,control,out,2020-08-10,Brome,2020,8,4,13.3
-steckley,control,out,2020-08-10,C3,2020,8,1,31.2
-steckley,control,out,2020-08-10,C4,2020,8,3,3.64
-steckley,control,out,2020-08-10,Forb,2020,8,0,0.58
-steckley,control,out,2020-08-10,SD,2020,8,0,9.0
-steckley,control,out,2020-08-10,Subshrub,2020,8,0,0.0
-steckley,control,out,2020-08-10,Total,2020,8,8,57.72
-steckley,control,out,2020-08-10,VUOC,2020,8,0,0.0
-steckley,control,ungulate ex,2017-07-17,AnnGrass,2017,0,0,0.0
-steckley,control,ungulate ex,2017-07-17,Brome,2017,0,0,0.0
-steckley,control,ungulate ex,2017-07-17,C3,2017,0,0,3.7600000000000016
-steckley,control,ungulate ex,2017-07-17,C4,2017,0,0,31.640000000000008
-steckley,control,ungulate ex,2017-07-17,Forb,2017,0,0,0.0
-steckley,control,ungulate ex,2017-07-17,SD,2017,0,0,0.0
-steckley,control,ungulate ex,2017-07-17,Subshrub,2017,0,0,2.400000000000002
-steckley,control,ungulate ex,2017-07-17,Total,2017,0,0,37.80000000000001
-steckley,control,ungulate ex,2017-07-17,VUOC,2017,0,0,0.0
-steckley,control,ungulate ex,2018-07-31,AnnGrass,2018,22,0,0.16923
-steckley,control,ungulate ex,2018-07-31,Brome,2018,22,0,0.16
-steckley,control,ungulate ex,2018-07-31,C3,2018,22,2,23.44
-steckley,control,ungulate ex,2018-07-31,C4,2018,22,20,86.06
-steckley,control,ungulate ex,2018-07-31,Forb,2018,22,0,0.3
-steckley,control,ungulate ex,2018-07-31,SD,2018,22,0,8.54
-steckley,control,ungulate ex,2018-07-31,Subshrub,2018,22,0,0.0
-steckley,control,ungulate ex,2018-07-31,Total,2018,22,22,118.50923
-steckley,control,ungulate ex,2018-07-31,VUOC,2018,22,0,0.00923
-steckley,control,ungulate ex,2019-07-29,AnnGrass,2019,34,0,0.08
-steckley,control,ungulate ex,2019-07-29,Brome,2019,34,0,0.0
-steckley,control,ungulate ex,2019-07-29,C3,2019,34,1,14.3
-steckley,control,ungulate ex,2019-07-29,C4,2019,34,33,59.4
-steckley,control,ungulate ex,2019-07-29,Forb,2019,34,0,1.7999999999999998
-steckley,control,ungulate ex,2019-07-29,SD,2019,34,0,0.6
-steckley,control,ungulate ex,2019-07-29,Subshrub,2019,34,0,0.0
-steckley,control,ungulate ex,2019-07-29,Total,2019,34,34,76.18
-steckley,control,ungulate ex,2019-07-29,VUOC,2019,34,0,0.08
-steckley,control,ungulate ex,2020-08-10,AnnGrass,2020,8,0,0.455
-steckley,control,ungulate ex,2020-08-10,Brome,2020,8,0,0.44
-steckley,control,ungulate ex,2020-08-10,C3,2020,8,1,1.8
-steckley,control,ungulate ex,2020-08-10,C4,2020,8,7,19.32
-steckley,control,ungulate ex,2020-08-10,Forb,2020,8,0,0.0256
-steckley,control,ungulate ex,2020-08-10,SD,2020,8,0,12.48
-steckley,control,ungulate ex,2020-08-10,Subshrub,2020,8,0,0.0
-steckley,control,ungulate ex,2020-08-10,Total,2020,8,8,34.080600000000004
-steckley,control,ungulate ex,2020-08-10,VUOC,2020,8,0,0.015
-steckley,fire,livestock ex,2017-07-17,AnnGrass,2017,2,0,40.31999999999999
-steckley,fire,livestock ex,2017-07-17,Brome,2017,2,0,40.31999999999999
-steckley,fire,livestock ex,2017-07-17,C3,2017,2,2,47.519999999999996
-steckley,fire,livestock ex,2017-07-17,C4,2017,2,0,148.06
-steckley,fire,livestock ex,2017-07-17,Forb,2017,2,0,0.0
-steckley,fire,livestock ex,2017-07-17,SD,2017,2,0,0.0
-steckley,fire,livestock ex,2017-07-17,Subshrub,2017,2,0,0.0
-steckley,fire,livestock ex,2017-07-17,Total,2017,2,2,235.89999999999998
-steckley,fire,livestock ex,2017-07-17,VUOC,2017,2,0,0.0
-steckley,fire,livestock ex,2018-07-31,AnnGrass,2018,49,6,60.02
-steckley,fire,livestock ex,2018-07-31,Brome,2018,49,6,59.24
-steckley,fire,livestock ex,2018-07-31,C3,2018,49,7,24.74
-steckley,fire,livestock ex,2018-07-31,C4,2018,49,29,102.5
-steckley,fire,livestock ex,2018-07-31,Forb,2018,49,1,14.18
-steckley,fire,livestock ex,2018-07-31,SD,2018,49,6,74.92
-steckley,fire,livestock ex,2018-07-31,Subshrub,2018,49,0,0.0
-steckley,fire,livestock ex,2018-07-31,Total,2018,49,49,276.36
-steckley,fire,livestock ex,2018-07-31,VUOC,2018,49,0,0.78
-steckley,fire,livestock ex,2019-07-30,AnnGrass,2019,39,24,94.89999999999999
-steckley,fire,livestock ex,2019-07-30,Brome,2019,39,24,94.3
-steckley,fire,livestock ex,2019-07-30,C3,2019,39,3,10.4
-steckley,fire,livestock ex,2019-07-30,C4,2019,39,11,62.3
-steckley,fire,livestock ex,2019-07-30,Forb,2019,39,1,10.5
-steckley,fire,livestock ex,2019-07-30,SD,2019,39,0,2.1
-steckley,fire,livestock ex,2019-07-30,Subshrub,2019,39,0,0.0
-steckley,fire,livestock ex,2019-07-30,Total,2019,39,39,180.2
-steckley,fire,livestock ex,2019-07-30,VUOC,2019,39,0,0.6
-steckley,fire,out,2017-07-17,AnnGrass,2017,8,0,0.5800000000000001
-steckley,fire,out,2017-07-17,Brome,2017,8,0,0.5800000000000001
-steckley,fire,out,2017-07-17,C3,2017,8,8,53.6
-steckley,fire,out,2017-07-17,C4,2017,8,0,99.63999999999999
-steckley,fire,out,2017-07-17,Forb,2017,8,0,0.0
-steckley,fire,out,2017-07-17,SD,2017,8,0,0.0
-steckley,fire,out,2017-07-17,Subshrub,2017,8,0,0.0
-steckley,fire,out,2017-07-17,Total,2017,8,8,153.82
-steckley,fire,out,2017-07-17,VUOC,2017,8,0,0.0
-steckley,fire,out,2018-07-31,AnnGrass,2018,62,0,72.84
-steckley,fire,out,2018-07-31,Brome,2018,62,0,72.58
-steckley,fire,out,2018-07-31,C3,2018,62,7,118.46
-steckley,fire,out,2018-07-31,C4,2018,62,47,20.46
-steckley,fire,out,2018-07-31,Forb,2018,62,0,12.3
-steckley,fire,out,2018-07-31,SD,2018,62,8,67.9
-steckley,fire,out,2018-07-31,Subshrub,2018,62,0,0.0
-steckley,fire,out,2018-07-31,Total,2018,62,62,291.96000000000004
-steckley,fire,out,2018-07-31,VUOC,2018,62,0,0.26
-steckley,fire,out,2019-07-30,AnnGrass,2019,22,9,20.7
-steckley,fire,out,2019-07-30,Brome,2019,22,9,20.7
-steckley,fire,out,2019-07-30,C3,2019,22,5,30.7
-steckley,fire,out,2019-07-30,C4,2019,22,7,37.9
-steckley,fire,out,2019-07-30,Forb,2019,22,1,6.72
-steckley,fire,out,2019-07-30,SD,2019,22,0,0.3
-steckley,fire,out,2019-07-30,Subshrub,2019,22,0,0.0
-steckley,fire,out,2019-07-30,Total,2019,22,22,96.32
-steckley,fire,out,2019-07-30,VUOC,2019,22,0,0.0
-steckley,fire,ungulate ex,2017-07-17,AnnGrass,2017,21,8,33.440000000000005
-steckley,fire,ungulate ex,2017-07-17,Brome,2017,21,8,33.440000000000005
-steckley,fire,ungulate ex,2017-07-17,C3,2017,21,13,229.26000000000002
-steckley,fire,ungulate ex,2017-07-17,C4,2017,21,0,0.0
-steckley,fire,ungulate ex,2017-07-17,Forb,2017,21,0,1.3600000000000012
-steckley,fire,ungulate ex,2017-07-17,SD,2017,21,0,0.0
-steckley,fire,ungulate ex,2017-07-17,Subshrub,2017,21,0,0.0
-steckley,fire,ungulate ex,2017-07-17,Total,2017,21,21,264.06000000000006
-steckley,fire,ungulate ex,2017-07-17,VUOC,2017,21,0,0.0
-steckley,fire,ungulate ex,2018-07-31,AnnGrass,2018,50,37,114.67999999999999
-steckley,fire,ungulate ex,2018-07-31,Brome,2018,50,37,113.94
-steckley,fire,ungulate ex,2018-07-31,C3,2018,50,0,7.44
-steckley,fire,ungulate ex,2018-07-31,C4,2018,50,12,58.88
-steckley,fire,ungulate ex,2018-07-31,Forb,2018,50,1,8.36
-steckley,fire,ungulate ex,2018-07-31,SD,2018,50,0,42.04
-steckley,fire,ungulate ex,2018-07-31,Subshrub,2018,50,0,0.0
-steckley,fire,ungulate ex,2018-07-31,Total,2018,50,50,231.4
-steckley,fire,ungulate ex,2018-07-31,VUOC,2018,50,0,0.74
-steckley,fire,ungulate ex,2019-07-30,AnnGrass,2019,74,21,45.1
-steckley,fire,ungulate ex,2019-07-30,Brome,2019,74,21,45.1
-steckley,fire,ungulate ex,2019-07-30,C3,2019,74,47,384.0
-steckley,fire,ungulate ex,2019-07-30,C4,2019,74,0,13.6
-steckley,fire,ungulate ex,2019-07-30,Forb,2019,74,6,4.1
-steckley,fire,ungulate ex,2019-07-30,SD,2019,74,0,0.26
-steckley,fire,ungulate ex,2019-07-30,Subshrub,2019,74,0,0.0
-steckley,fire,ungulate ex,2019-07-30,Total,2019,74,74,447.06
-steckley,fire,ungulate ex,2019-07-30,VUOC,2019,74,0,0.0
-steckley,prairie dog,livestock ex,2017-07-17,AnnGrass,2017,24,0,0.0
-steckley,prairie dog,livestock ex,2017-07-17,Brome,2017,24,0,0.0
-steckley,prairie dog,livestock ex,2017-07-17,C3,2017,24,24,90.91999999999999
-steckley,prairie dog,livestock ex,2017-07-17,C4,2017,24,0,0.0
-steckley,prairie dog,livestock ex,2017-07-17,Forb,2017,24,0,1.42
-steckley,prairie dog,livestock ex,2017-07-17,SD,2017,24,0,0.0
-steckley,prairie dog,livestock ex,2017-07-17,Subshrub,2017,24,0,0.0
-steckley,prairie dog,livestock ex,2017-07-17,Total,2017,24,24,92.33999999999999
-steckley,prairie dog,livestock ex,2017-07-17,VUOC,2017,24,0,0.0
-steckley,prairie dog,livestock ex,2018-07-31,AnnGrass,2018,22,0,0.04
-steckley,prairie dog,livestock ex,2018-07-31,Brome,2018,22,0,0.0
-steckley,prairie dog,livestock ex,2018-07-31,C3,2018,22,19,246.12
-steckley,prairie dog,livestock ex,2018-07-31,C4,2018,22,0,0.0
-steckley,prairie dog,livestock ex,2018-07-31,Forb,2018,22,3,4.98
-steckley,prairie dog,livestock ex,2018-07-31,SD,2018,22,0,0.52
-steckley,prairie dog,livestock ex,2018-07-31,Subshrub,2018,22,0,0.0
-steckley,prairie dog,livestock ex,2018-07-31,Total,2018,22,22,251.66
-steckley,prairie dog,livestock ex,2018-07-31,VUOC,2018,22,0,0.04
-steckley,prairie dog,livestock ex,2019-07-29,AnnGrass,2019,66,0,0.92
-steckley,prairie dog,livestock ex,2019-07-29,Brome,2019,66,0,0.9
-steckley,prairie dog,livestock ex,2019-07-29,C3,2019,66,55,430.2
-steckley,prairie dog,livestock ex,2019-07-29,C4,2019,66,0,0.2
-steckley,prairie dog,livestock ex,2019-07-29,Forb,2019,66,9,12.8
-steckley,prairie dog,livestock ex,2019-07-29,SD,2019,66,2,0.5
-steckley,prairie dog,livestock ex,2019-07-29,Subshrub,2019,66,0,0.0
-steckley,prairie dog,livestock ex,2019-07-29,Total,2019,66,66,444.6199999999999
-steckley,prairie dog,livestock ex,2019-07-29,VUOC,2019,66,0,0.02
-steckley,prairie dog,livestock ex,2020-08-10,AnnGrass,2020,56,0,0.0
-steckley,prairie dog,livestock ex,2020-08-10,Brome,2020,56,0,0.0
-steckley,prairie dog,livestock ex,2020-08-10,C3,2020,56,10,29.5
-steckley,prairie dog,livestock ex,2020-08-10,C4,2020,56,0,0.0
-steckley,prairie dog,livestock ex,2020-08-10,Forb,2020,56,0,0.0
-steckley,prairie dog,livestock ex,2020-08-10,SD,2020,56,46,78.18
-steckley,prairie dog,livestock ex,2020-08-10,Subshrub,2020,56,0,0.0
-steckley,prairie dog,livestock ex,2020-08-10,Total,2020,56,56,107.68
-steckley,prairie dog,livestock ex,2020-08-10,VUOC,2020,56,0,0.0
-steckley,prairie dog,out,2017-07-17,AnnGrass,2017,25,0,0.0
-steckley,prairie dog,out,2017-07-17,Brome,2017,25,0,0.0
-steckley,prairie dog,out,2017-07-17,C3,2017,25,25,141.34
-steckley,prairie dog,out,2017-07-17,C4,2017,25,0,0.2799999999999976
-steckley,prairie dog,out,2017-07-17,Forb,2017,25,0,0.29999999999999716
-steckley,prairie dog,out,2017-07-17,SD,2017,25,0,0.0
-steckley,prairie dog,out,2017-07-17,Subshrub,2017,25,0,0.0
-steckley,prairie dog,out,2017-07-17,Total,2017,25,25,141.92000000000002
-steckley,prairie dog,out,2017-07-17,VUOC,2017,25,0,0.0
-steckley,prairie dog,out,2018-07-31,AnnGrass,2018,19,0,0.0
-steckley,prairie dog,out,2018-07-31,Brome,2018,19,0,0.0
-steckley,prairie dog,out,2018-07-31,C3,2018,19,18,267.36
-steckley,prairie dog,out,2018-07-31,C4,2018,19,0,0.0
-steckley,prairie dog,out,2018-07-31,Forb,2018,19,1,6.14
-steckley,prairie dog,out,2018-07-31,SD,2018,19,0,2.22
-steckley,prairie dog,out,2018-07-31,Subshrub,2018,19,0,0.0
-steckley,prairie dog,out,2018-07-31,Total,2018,19,19,275.72
-steckley,prairie dog,out,2018-07-31,VUOC,2018,19,0,0.0
-steckley,prairie dog,out,2019-07-29,AnnGrass,2019,28,0,4.3
-steckley,prairie dog,out,2019-07-29,Brome,2019,28,0,4.3
-steckley,prairie dog,out,2019-07-29,C3,2019,28,26,423.6
-steckley,prairie dog,out,2019-07-29,C4,2019,28,0,0.14
-steckley,prairie dog,out,2019-07-29,Forb,2019,28,2,4.92
-steckley,prairie dog,out,2019-07-29,SD,2019,28,0,1.2
-steckley,prairie dog,out,2019-07-29,Subshrub,2019,28,0,0.0
-steckley,prairie dog,out,2019-07-29,Total,2019,28,28,434.15999999999997
-steckley,prairie dog,out,2019-07-29,VUOC,2019,28,0,0.0
-steckley,prairie dog,out,2020-08-10,AnnGrass,2020,31,0,0.0
-steckley,prairie dog,out,2020-08-10,Brome,2020,31,0,0.0
-steckley,prairie dog,out,2020-08-10,C3,2020,31,8,62.2
-steckley,prairie dog,out,2020-08-10,C4,2020,31,0,0.0
-steckley,prairie dog,out,2020-08-10,Forb,2020,31,3,1.54
-steckley,prairie dog,out,2020-08-10,SD,2020,31,20,91.82
-steckley,prairie dog,out,2020-08-10,Subshrub,2020,31,0,0.0
-steckley,prairie dog,out,2020-08-10,Total,2020,31,31,155.56
-steckley,prairie dog,out,2020-08-10,VUOC,2020,31,0,0.0
-steckley,prairie dog,ungulate ex,2017-07-17,AnnGrass,2017,19,0,0.0
-steckley,prairie dog,ungulate ex,2017-07-17,Brome,2017,19,0,0.0
-steckley,prairie dog,ungulate ex,2017-07-17,C3,2017,19,19,205.64
-steckley,prairie dog,ungulate ex,2017-07-17,C4,2017,19,0,0.0
-steckley,prairie dog,ungulate ex,2017-07-17,Forb,2017,19,0,0.0
-steckley,prairie dog,ungulate ex,2017-07-17,SD,2017,19,0,0.0
-steckley,prairie dog,ungulate ex,2017-07-17,Subshrub,2017,19,0,0.0
-steckley,prairie dog,ungulate ex,2017-07-17,Total,2017,19,19,205.64
-steckley,prairie dog,ungulate ex,2017-07-17,VUOC,2017,19,0,0.0
-steckley,prairie dog,ungulate ex,2018-07-31,AnnGrass,2018,34,0,0.0
-steckley,prairie dog,ungulate ex,2018-07-31,Brome,2018,34,0,0.0
-steckley,prairie dog,ungulate ex,2018-07-31,C3,2018,34,17,299.8
-steckley,prairie dog,ungulate ex,2018-07-31,C4,2018,34,0,0.0
-steckley,prairie dog,ungulate ex,2018-07-31,Forb,2018,34,17,13.1
-steckley,prairie dog,ungulate ex,2018-07-31,SD,2018,34,0,11.12
-steckley,prairie dog,ungulate ex,2018-07-31,Subshrub,2018,34,0,0.0
-steckley,prairie dog,ungulate ex,2018-07-31,Total,2018,34,34,324.02000000000004
-steckley,prairie dog,ungulate ex,2018-07-31,VUOC,2018,34,0,0.0
-steckley,prairie dog,ungulate ex,2019-07-29,AnnGrass,2019,69,0,0.0
-steckley,prairie dog,ungulate ex,2019-07-29,Brome,2019,69,0,0.0
-steckley,prairie dog,ungulate ex,2019-07-29,C3,2019,69,52,426.2
-steckley,prairie dog,ungulate ex,2019-07-29,C4,2019,69,0,0.6
-steckley,prairie dog,ungulate ex,2019-07-29,Forb,2019,69,8,55.6
-steckley,prairie dog,ungulate ex,2019-07-29,SD,2019,69,9,3.2
-steckley,prairie dog,ungulate ex,2019-07-29,Subshrub,2019,69,0,0.0
-steckley,prairie dog,ungulate ex,2019-07-29,Total,2019,69,69,485.6
-steckley,prairie dog,ungulate ex,2019-07-29,VUOC,2019,69,0,0.0
-steckley,prairie dog,ungulate ex,2020-08-10,AnnGrass,2020,21,0,0.0
-steckley,prairie dog,ungulate ex,2020-08-10,Brome,2020,21,0,0.0
-steckley,prairie dog,ungulate ex,2020-08-10,C3,2020,21,12,59.72
-steckley,prairie dog,ungulate ex,2020-08-10,C4,2020,21,0,0.0
-steckley,prairie dog,ungulate ex,2020-08-10,Forb,2020,21,2,6.7
-steckley,prairie dog,ungulate ex,2020-08-10,SD,2020,21,7,15.58
-steckley,prairie dog,ungulate ex,2020-08-10,Subshrub,2020,21,0,0.0
-steckley,prairie dog,ungulate ex,2020-08-10,Total,2020,21,21,82.0
-steckley,prairie dog,ungulate ex,2020-08-10,VUOC,2020,21,0,0.0
-west fork,control,livestock ex,2017-07-19,AnnGrass,2017,20,1,2.5600000000000023
-west fork,control,livestock ex,2017-07-19,Brome,2017,20,1,2.5600000000000023
-west fork,control,livestock ex,2017-07-19,C3,2017,20,17,87.97999999999999
-west fork,control,livestock ex,2017-07-19,C4,2017,20,0,9.120000000000001
-west fork,control,livestock ex,2017-07-19,Forb,2017,20,2,9.879999999999999
-west fork,control,livestock ex,2017-07-19,SD,2017,20,0,0.0
-west fork,control,livestock ex,2017-07-19,Subshrub,2017,20,0,53.379999999999995
-west fork,control,livestock ex,2017-07-19,Total,2017,20,20,162.92
-west fork,control,livestock ex,2017-07-19,VUOC,2017,20,0,0.0
-west fork,control,livestock ex,2018-08-01,AnnGrass,2018,23,12,51.42
-west fork,control,livestock ex,2018-08-01,Brome,2018,23,12,51.42
-west fork,control,livestock ex,2018-08-01,C3,2018,23,2,103.94
-west fork,control,livestock ex,2018-08-01,C4,2018,23,4,6.82
-west fork,control,livestock ex,2018-08-01,Forb,2018,23,4,24.28
-west fork,control,livestock ex,2018-08-01,SD,2018,23,0,59.92
-west fork,control,livestock ex,2018-08-01,Subshrub,2018,23,0,0.04
-west fork,control,livestock ex,2018-08-01,Total,2018,23,22,246.42000000000002
-west fork,control,livestock ex,2018-08-01,VUOC,2018,23,0,0.0
-west fork,control,livestock ex,2019-08-07,AnnGrass,2019,29,18,7.9
-west fork,control,livestock ex,2019-08-07,Brome,2019,29,18,7.9
-west fork,control,livestock ex,2019-08-07,C3,2019,29,4,78.1
-west fork,control,livestock ex,2019-08-07,C4,2019,29,0,0.0
-west fork,control,livestock ex,2019-08-07,Forb,2019,29,2,34.1
-west fork,control,livestock ex,2019-08-07,SD,2019,29,2,22.8
-west fork,control,livestock ex,2019-08-07,Subshrub,2019,29,3,0.2
-west fork,control,livestock ex,2019-08-07,Total,2019,29,29,143.1
-west fork,control,livestock ex,2019-08-07,VUOC,2019,29,0,0.0
-west fork,control,livestock ex,2020-08-05,AnnGrass,2020,17,8,52.1
-west fork,control,livestock ex,2020-08-05,Brome,2020,17,8,52.1
-west fork,control,livestock ex,2020-08-05,C3,2020,17,0,3.96
-west fork,control,livestock ex,2020-08-05,C4,2020,17,0,0.0
-west fork,control,livestock ex,2020-08-05,Forb,2020,17,1,5.3
-west fork,control,livestock ex,2020-08-05,SD,2020,17,7,67.7
-west fork,control,livestock ex,2020-08-05,Subshrub,2020,17,1,28.3
-west fork,control,livestock ex,2020-08-05,Total,2020,17,17,157.36
-west fork,control,livestock ex,2020-08-05,VUOC,2020,17,0,0.0
-west fork,control,out,2017-07-19,AnnGrass,2017,26,0,1.799999999999999
-west fork,control,out,2017-07-19,Brome,2017,26,0,1.4399999999999977
-west fork,control,out,2017-07-19,C3,2017,26,16,93.18
-west fork,control,out,2017-07-19,C4,2017,26,0,1.8000000000000007
-west fork,control,out,2017-07-19,Forb,2017,26,0,0.9000000000000004
-west fork,control,out,2017-07-19,SD,2017,26,0,0.0
-west fork,control,out,2017-07-19,Subshrub,2017,26,10,88.16
-west fork,control,out,2017-07-19,Total,2017,26,26,185.84
-west fork,control,out,2017-07-19,VUOC,2017,26,0,0.3600000000000012
-west fork,control,out,2018-08-01,AnnGrass,2018,16,3,9.08
-west fork,control,out,2018-08-01,Brome,2018,16,3,8.88
-west fork,control,out,2018-08-01,C3,2018,16,13,95.36
-west fork,control,out,2018-08-01,C4,2018,16,0,23.88
-west fork,control,out,2018-08-01,Forb,2018,16,0,5.24
-west fork,control,out,2018-08-01,SD,2018,16,0,44.8
-west fork,control,out,2018-08-01,Subshrub,2018,16,0,9.1
-west fork,control,out,2018-08-01,Total,2018,16,16,187.45999999999998
-west fork,control,out,2018-08-01,VUOC,2018,16,0,0.2
-west fork,control,out,2019-08-07,AnnGrass,2019,14,0,0.5
-west fork,control,out,2019-08-07,Brome,2019,14,0,0.5
-west fork,control,out,2019-08-07,C3,2019,14,12,116.3
-west fork,control,out,2019-08-07,C4,2019,14,1,17.8
-west fork,control,out,2019-08-07,Forb,2019,14,1,3.5
-west fork,control,out,2019-08-07,SD,2019,14,0,71.2
-west fork,control,out,2019-08-07,Subshrub,2019,14,0,22.8
-west fork,control,out,2019-08-07,Total,2019,14,14,232.10000000000002
-west fork,control,out,2019-08-07,VUOC,2019,14,0,0.0
-west fork,control,out,2020-08-05,AnnGrass,2020,15,1,6.8344
-west fork,control,out,2020-08-05,Brome,2020,15,1,6.76
-west fork,control,out,2020-08-05,C3,2020,15,8,51.4
-west fork,control,out,2020-08-05,C4,2020,15,0,4.7
-west fork,control,out,2020-08-05,Forb,2020,15,0,0.54
-west fork,control,out,2020-08-05,SD,2020,15,6,48.28
-west fork,control,out,2020-08-05,Subshrub,2020,15,0,0.76
-west fork,control,out,2020-08-05,Total,2020,15,15,112.5144
-west fork,control,out,2020-08-05,VUOC,2020,15,0,0.0744
-west fork,control,ungulate ex,2017-07-19,AnnGrass,2017,22,0,6.4399999999999995
-west fork,control,ungulate ex,2017-07-19,Brome,2017,22,0,6.379999999999999
-west fork,control,ungulate ex,2017-07-19,C3,2017,22,7,80.6
-west fork,control,ungulate ex,2017-07-19,C4,2017,22,15,14.060000000000002
-west fork,control,ungulate ex,2017-07-19,Forb,2017,22,0,0.9000000000000004
-west fork,control,ungulate ex,2017-07-19,SD,2017,22,0,0.0
-west fork,control,ungulate ex,2017-07-19,Subshrub,2017,22,0,0.0
-west fork,control,ungulate ex,2017-07-19,Total,2017,22,22,102.0
-west fork,control,ungulate ex,2017-07-19,VUOC,2017,22,0,0.0600000000000005
-west fork,control,ungulate ex,2018-08-01,AnnGrass,2018,20,0,0.19999999999999998
-west fork,control,ungulate ex,2018-08-01,Brome,2018,20,0,0.18
-west fork,control,ungulate ex,2018-08-01,C3,2018,20,8,51.5
-west fork,control,ungulate ex,2018-08-01,C4,2018,20,2,11.2
-west fork,control,ungulate ex,2018-08-01,Forb,2018,20,0,1.24
-west fork,control,ungulate ex,2018-08-01,SD,2018,20,0,14.1
-west fork,control,ungulate ex,2018-08-01,Subshrub,2018,20,0,44.1
-west fork,control,ungulate ex,2018-08-01,Total,2018,20,10,122.34
-west fork,control,ungulate ex,2018-08-01,VUOC,2018,20,0,0.02
-west fork,control,ungulate ex,2019-08-07,AnnGrass,2019,27,1,
-west fork,control,ungulate ex,2019-08-07,Brome,2019,27,1,
-west fork,control,ungulate ex,2019-08-07,C3,2019,27,0,0.0
-west fork,control,ungulate ex,2019-08-07,C4,2019,27,0,6.2
-west fork,control,ungulate ex,2019-08-07,Forb,2019,27,3,3.0
-west fork,control,ungulate ex,2019-08-07,SD,2019,27,5,21.0
-west fork,control,ungulate ex,2019-08-07,Subshrub,2019,27,3,0.0
-west fork,control,ungulate ex,2019-08-07,Total,2019,27,12,30.22
-west fork,control,ungulate ex,2019-08-07,VUOC,2019,27,0,0.02
-west fork,control,ungulate ex,2020-08-05,AnnGrass,2020,10,2,11.5364
-west fork,control,ungulate ex,2020-08-05,Brome,2020,10,2,11.22
-west fork,control,ungulate ex,2020-08-05,C3,2020,10,2,24.44
-west fork,control,ungulate ex,2020-08-05,C4,2020,10,3,4.7
-west fork,control,ungulate ex,2020-08-05,Forb,2020,10,0,
-west fork,control,ungulate ex,2020-08-05,SD,2020,10,2,58.2
-west fork,control,ungulate ex,2020-08-05,Subshrub,2020,10,1,22.1
-west fork,control,ungulate ex,2020-08-05,Total,2020,10,10,121.57640000000002
-west fork,control,ungulate ex,2020-08-05,VUOC,2020,10,0,0.3164
-west fork,fire,livestock ex,2017-07-19,AnnGrass,2017,19,0,0.0
-west fork,fire,livestock ex,2017-07-19,Brome,2017,19,0,0.0
-west fork,fire,livestock ex,2017-07-19,C3,2017,19,19,115.9
-west fork,fire,livestock ex,2017-07-19,C4,2017,19,0,13.280000000000001
-west fork,fire,livestock ex,2017-07-19,Forb,2017,19,0,10.0
-west fork,fire,livestock ex,2017-07-19,SD,2017,19,0,0.0
-west fork,fire,livestock ex,2017-07-19,Subshrub,2017,19,0,0.0
-west fork,fire,livestock ex,2017-07-19,Total,2017,19,19,139.18
-west fork,fire,livestock ex,2017-07-19,VUOC,2017,19,0,0.0
-west fork,fire,livestock ex,2018-08-01,AnnGrass,2018,10,0,0.0
-west fork,fire,livestock ex,2018-08-01,Brome,2018,10,0,0.0
-west fork,fire,livestock ex,2018-08-01,C3,2018,10,7,107.24
-west fork,fire,livestock ex,2018-08-01,C4,2018,10,0,1.44
-west fork,fire,livestock ex,2018-08-01,Forb,2018,10,3,98.24
-west fork,fire,livestock ex,2018-08-01,SD,2018,10,0,27.06
-west fork,fire,livestock ex,2018-08-01,Subshrub,2018,10,0,1.86
-west fork,fire,livestock ex,2018-08-01,Total,2018,10,10,235.84
-west fork,fire,livestock ex,2018-08-01,VUOC,2018,10,0,0.0
-west fork,fire,livestock ex,2019-08-07,AnnGrass,2019,23,0,0.3
-west fork,fire,livestock ex,2019-08-07,Brome,2019,23,0,0.3
-west fork,fire,livestock ex,2019-08-07,C3,2019,23,20,153.8
-west fork,fire,livestock ex,2019-08-07,C4,2019,23,0,0.0
-west fork,fire,livestock ex,2019-08-07,Forb,2019,23,3,10.5
-west fork,fire,livestock ex,2019-08-07,SD,2019,23,0,34.1
-west fork,fire,livestock ex,2019-08-07,Subshrub,2019,23,0,0.0
-west fork,fire,livestock ex,2019-08-07,Total,2019,23,23,198.70000000000002
-west fork,fire,livestock ex,2019-08-07,VUOC,2019,23,0,0.0
-west fork,fire,livestock ex,2020-08-05,AnnGrass,2020,24,5,3.18
-west fork,fire,livestock ex,2020-08-05,Brome,2020,24,5,3.18
-west fork,fire,livestock ex,2020-08-05,C3,2020,24,17,78.8
-west fork,fire,livestock ex,2020-08-05,C4,2020,24,2,2.14
-west fork,fire,livestock ex,2020-08-05,Forb,2020,24,0,1.06
-west fork,fire,livestock ex,2020-08-05,SD,2020,24,0,70.1
-west fork,fire,livestock ex,2020-08-05,Subshrub,2020,24,0,0.0
-west fork,fire,livestock ex,2020-08-05,Total,2020,24,24,155.27999999999997
-west fork,fire,livestock ex,2020-08-05,VUOC,2020,24,0,0.0
-west fork,fire,out,2017-07-19,AnnGrass,2017,17,0,1.1400000000000006
-west fork,fire,out,2017-07-19,Brome,2017,17,0,1.1400000000000006
-west fork,fire,out,2017-07-19,C3,2017,17,13,94.78
-west fork,fire,out,2017-07-19,C4,2017,17,0,10.5
-west fork,fire,out,2017-07-19,Forb,2017,17,4,11.260000000000002
-west fork,fire,out,2017-07-19,SD,2017,17,0,0.0
-west fork,fire,out,2017-07-19,Subshrub,2017,17,0,0.0
-west fork,fire,out,2017-07-19,Total,2017,17,17,117.68
-west fork,fire,out,2017-07-19,VUOC,2017,17,0,0.0
-west fork,fire,out,2018-08-01,AnnGrass,2018,24,4,19.98
-west fork,fire,out,2018-08-01,Brome,2018,24,4,19.98
-west fork,fire,out,2018-08-01,C3,2018,24,9,142.38
-west fork,fire,out,2018-08-01,C4,2018,24,11,7.42
-west fork,fire,out,2018-08-01,Forb,2018,24,0,14.64
-west fork,fire,out,2018-08-01,SD,2018,24,0,42.9
-west fork,fire,out,2018-08-01,Subshrub,2018,24,0,0.0
-west fork,fire,out,2018-08-01,Total,2018,24,24,227.31999999999996
-west fork,fire,out,2018-08-01,VUOC,2018,24,0,0.0
-west fork,fire,out,2019-08-07,AnnGrass,2019,13,0,6.5
-west fork,fire,out,2019-08-07,Brome,2019,13,0,6.5
-west fork,fire,out,2019-08-07,C3,2019,13,9,84.5
-west fork,fire,out,2019-08-07,C4,2019,13,0,2.2
-west fork,fire,out,2019-08-07,Forb,2019,13,0,2.3
-west fork,fire,out,2019-08-07,SD,2019,13,0,26.3
-west fork,fire,out,2019-08-07,Subshrub,2019,13,4,5.5
-west fork,fire,out,2019-08-07,Total,2019,13,13,127.30000000000001
-west fork,fire,out,2019-08-07,VUOC,2019,13,0,0.0
-west fork,fire,out,2020-08-05,AnnGrass,2020,12,0,0.0
-west fork,fire,out,2020-08-05,Brome,2020,12,0,0.0
-west fork,fire,out,2020-08-05,C3,2020,12,7,44.14
-west fork,fire,out,2020-08-05,C4,2020,12,3,8.9
-west fork,fire,out,2020-08-05,Forb,2020,12,1,5.359999999999999
-west fork,fire,out,2020-08-05,SD,2020,12,1,15.3
-west fork,fire,out,2020-08-05,Subshrub,2020,12,0,3.12
-west fork,fire,out,2020-08-05,Total,2020,12,12,76.82000000000001
-west fork,fire,out,2020-08-05,VUOC,2020,12,0,0.0
-west fork,fire,ungulate ex,2017-07-19,AnnGrass,2017,20,2,5.859999999999999
-west fork,fire,ungulate ex,2017-07-19,Brome,2017,20,2,5.859999999999999
-west fork,fire,ungulate ex,2017-07-19,C3,2017,20,15,155.56
-west fork,fire,ungulate ex,2017-07-19,C4,2017,20,0,0.4599999999999973
-west fork,fire,ungulate ex,2017-07-19,Forb,2017,20,3,16.039999999999996
-west fork,fire,ungulate ex,2017-07-19,SD,2017,20,0,0.0
-west fork,fire,ungulate ex,2017-07-19,Subshrub,2017,20,0,0.0
-west fork,fire,ungulate ex,2017-07-19,Total,2017,20,20,177.92
-west fork,fire,ungulate ex,2017-07-19,VUOC,2017,20,0,0.0
-west fork,fire,ungulate ex,2018-08-01,AnnGrass,2018,26,6,11.1
-west fork,fire,ungulate ex,2018-08-01,Brome,2018,26,6,11.1
-west fork,fire,ungulate ex,2018-08-01,C3,2018,26,10,136.72
-west fork,fire,ungulate ex,2018-08-01,C4,2018,26,4,24.64
-west fork,fire,ungulate ex,2018-08-01,Forb,2018,26,3,22.0
-west fork,fire,ungulate ex,2018-08-01,SD,2018,26,3,30.08
-west fork,fire,ungulate ex,2018-08-01,Subshrub,2018,26,0,0.0
-west fork,fire,ungulate ex,2018-08-01,Total,2018,26,26,224.54000000000002
-west fork,fire,ungulate ex,2018-08-01,VUOC,2018,26,0,0.0
-west fork,fire,ungulate ex,2019-08-07,AnnGrass,2019,51,30,61.9
-west fork,fire,ungulate ex,2019-08-07,Brome,2019,51,30,61.9
-west fork,fire,ungulate ex,2019-08-07,C3,2019,51,19,150.9
-west fork,fire,ungulate ex,2019-08-07,C4,2019,51,0,9.5
-west fork,fire,ungulate ex,2019-08-07,Forb,2019,51,2,41.4
-west fork,fire,ungulate ex,2019-08-07,SD,2019,51,0,8.8
-west fork,fire,ungulate ex,2019-08-07,Subshrub,2019,51,0,0.0
-west fork,fire,ungulate ex,2019-08-07,Total,2019,51,51,272.50000000000006
-west fork,fire,ungulate ex,2019-08-07,VUOC,2019,51,0,0.0
-west fork,fire,ungulate ex,2020-08-05,AnnGrass,2020,24,8,18.28
-west fork,fire,ungulate ex,2020-08-05,Brome,2020,24,8,18.28
-west fork,fire,ungulate ex,2020-08-05,C3,2020,24,1,17.46
-west fork,fire,ungulate ex,2020-08-05,C4,2020,24,1,5.56
-west fork,fire,ungulate ex,2020-08-05,Forb,2020,24,1,5.1
-west fork,fire,ungulate ex,2020-08-05,SD,2020,24,5,27.28
-west fork,fire,ungulate ex,2020-08-05,Subshrub,2020,24,0,0.0
-west fork,fire,ungulate ex,2020-08-05,Total,2020,24,16,73.67999999999999
-west fork,fire,ungulate ex,2020-08-05,VUOC,2020,24,0,0.0
-west fork,prairie dog,livestock ex,2017-07-19,AnnGrass,2017,9,0,0.0
-west fork,prairie dog,livestock ex,2017-07-19,Brome,2017,9,0,0.0
-west fork,prairie dog,livestock ex,2017-07-19,C3,2017,9,9,84.66
-west fork,prairie dog,livestock ex,2017-07-19,C4,2017,9,0,0.0
-west fork,prairie dog,livestock ex,2017-07-19,Forb,2017,9,0,0.6400000000000006
-west fork,prairie dog,livestock ex,2017-07-19,SD,2017,9,0,0.0
-west fork,prairie dog,livestock ex,2017-07-19,Subshrub,2017,9,0,0.0
-west fork,prairie dog,livestock ex,2017-07-19,Total,2017,9,9,85.3
-west fork,prairie dog,livestock ex,2017-07-19,VUOC,2017,9,0,0.0
-west fork,prairie dog,livestock ex,2018-08-01,AnnGrass,2018,18,0,0.5
-west fork,prairie dog,livestock ex,2018-08-01,Brome,2018,18,0,0.5
-west fork,prairie dog,livestock ex,2018-08-01,C3,2018,18,10,103.36
-west fork,prairie dog,livestock ex,2018-08-01,C4,2018,18,2,0.88
-west fork,prairie dog,livestock ex,2018-08-01,Forb,2018,18,6,25.96
-west fork,prairie dog,livestock ex,2018-08-01,SD,2018,18,0,2.92
-west fork,prairie dog,livestock ex,2018-08-01,Subshrub,2018,18,0,0.0
-west fork,prairie dog,livestock ex,2018-08-01,Total,2018,18,18,133.61999999999998
-west fork,prairie dog,livestock ex,2018-08-01,VUOC,2018,18,0,0.0
-west fork,prairie dog,livestock ex,2019-08-07,AnnGrass,2019,24,0,0.0
-west fork,prairie dog,livestock ex,2019-08-07,Brome,2019,24,0,0.0
-west fork,prairie dog,livestock ex,2019-08-07,C3,2019,24,13,
-west fork,prairie dog,livestock ex,2019-08-07,C4,2019,24,0,0.0
-west fork,prairie dog,livestock ex,2019-08-07,Forb,2019,24,5,41.2
-west fork,prairie dog,livestock ex,2019-08-07,SD,2019,24,6,15.2
-west fork,prairie dog,livestock ex,2019-08-07,Subshrub,2019,24,0,0.0
-west fork,prairie dog,livestock ex,2019-08-07,Total,2019,24,24,56.400000000000006
-west fork,prairie dog,livestock ex,2019-08-07,VUOC,2019,24,0,0.0
-west fork,prairie dog,livestock ex,2020-08-05,AnnGrass,2020,22,0,0.0
-west fork,prairie dog,livestock ex,2020-08-05,Brome,2020,22,0,0.0
-west fork,prairie dog,livestock ex,2020-08-05,C3,2020,22,6,56.86
-west fork,prairie dog,livestock ex,2020-08-05,C4,2020,22,0,0.0
-west fork,prairie dog,livestock ex,2020-08-05,Forb,2020,22,2,6.4
-west fork,prairie dog,livestock ex,2020-08-05,SD,2020,22,14,81.8
-west fork,prairie dog,livestock ex,2020-08-05,Subshrub,2020,22,0,0.0
-west fork,prairie dog,livestock ex,2020-08-05,Total,2020,22,22,145.06
-west fork,prairie dog,livestock ex,2020-08-05,VUOC,2020,22,0,0.0
-west fork,prairie dog,out,2017-07-19,AnnGrass,2017,21,0,0.020000000000000018
-west fork,prairie dog,out,2017-07-19,Brome,2017,21,0,0.0
-west fork,prairie dog,out,2017-07-19,C3,2017,21,17,66.67999999999999
-west fork,prairie dog,out,2017-07-19,C4,2017,21,1,1.3399999999999999
-west fork,prairie dog,out,2017-07-19,Forb,2017,21,3,22.16
-west fork,prairie dog,out,2017-07-19,SD,2017,21,0,0.0
-west fork,prairie dog,out,2017-07-19,Subshrub,2017,21,0,0.0
-west fork,prairie dog,out,2017-07-19,Total,2017,21,21,90.19999999999999
-west fork,prairie dog,out,2017-07-19,VUOC,2017,21,0,0.020000000000000018
-west fork,prairie dog,out,2018-08-01,AnnGrass,2018,17,0,0.0
-west fork,prairie dog,out,2018-08-01,Brome,2018,17,0,0.0
-west fork,prairie dog,out,2018-08-01,C3,2018,17,4,96.62
-west fork,prairie dog,out,2018-08-01,C4,2018,17,10,5.92
-west fork,prairie dog,out,2018-08-01,Forb,2018,17,3,46.68
-west fork,prairie dog,out,2018-08-01,SD,2018,17,0,1.28
-west fork,prairie dog,out,2018-08-01,Subshrub,2018,17,0,0.1
-west fork,prairie dog,out,2018-08-01,Total,2018,17,17,150.6
-west fork,prairie dog,out,2018-08-01,VUOC,2018,17,0,0.0
-west fork,prairie dog,out,2019-08-07,AnnGrass,2019,26,0,0.4
-west fork,prairie dog,out,2019-08-07,Brome,2019,26,0,0.0
-west fork,prairie dog,out,2019-08-07,C3,2019,26,15,150.3
-west fork,prairie dog,out,2019-08-07,C4,2019,26,0,0.0
-west fork,prairie dog,out,2019-08-07,Forb,2019,26,9,50.199999999999996
-west fork,prairie dog,out,2019-08-07,SD,2019,26,2,7.1
-west fork,prairie dog,out,2019-08-07,Subshrub,2019,26,0,0.0
-west fork,prairie dog,out,2019-08-07,Total,2019,26,26,208.00000000000003
-west fork,prairie dog,out,2019-08-07,VUOC,2019,26,0,0.4
-west fork,prairie dog,out,2020-08-05,AnnGrass,2020,13,0,0.0
-west fork,prairie dog,out,2020-08-05,Brome,2020,13,0,0.0
-west fork,prairie dog,out,2020-08-05,C3,2020,13,4,33.5
-west fork,prairie dog,out,2020-08-05,C4,2020,13,0,0.0
-west fork,prairie dog,out,2020-08-05,Forb,2020,13,0,0.7999999999999999
-west fork,prairie dog,out,2020-08-05,SD,2020,13,9,79.02
-west fork,prairie dog,out,2020-08-05,Subshrub,2020,13,0,0.9
-west fork,prairie dog,out,2020-08-05,Total,2020,13,13,114.22
-west fork,prairie dog,out,2020-08-05,VUOC,2020,13,0,0.0
-west fork,prairie dog,ungulate ex,2017-07-19,AnnGrass,2017,8,0,0.0
-west fork,prairie dog,ungulate ex,2017-07-19,Brome,2017,8,0,0.0
-west fork,prairie dog,ungulate ex,2017-07-19,C3,2017,8,7,26.080000000000005
-west fork,prairie dog,ungulate ex,2017-07-19,C4,2017,8,0,0.3000000000000007
-west fork,prairie dog,ungulate ex,2017-07-19,Forb,2017,8,1,14.780000000000001
-west fork,prairie dog,ungulate ex,2017-07-19,SD,2017,8,0,0.0
-west fork,prairie dog,ungulate ex,2017-07-19,Subshrub,2017,8,0,0.0
-west fork,prairie dog,ungulate ex,2017-07-19,Total,2017,8,8,41.16000000000001
-west fork,prairie dog,ungulate ex,2017-07-19,VUOC,2017,8,0,0.0
-west fork,prairie dog,ungulate ex,2018-08-01,AnnGrass,2018,16,0,0.0
-west fork,prairie dog,ungulate ex,2018-08-01,Brome,2018,16,0,0.0
-west fork,prairie dog,ungulate ex,2018-08-01,C3,2018,16,10,117.7
-west fork,prairie dog,ungulate ex,2018-08-01,C4,2018,16,0,3.22
-west fork,prairie dog,ungulate ex,2018-08-01,Forb,2018,16,6,37.82
-west fork,prairie dog,ungulate ex,2018-08-01,SD,2018,16,0,6.7
-west fork,prairie dog,ungulate ex,2018-08-01,Subshrub,2018,16,0,0.0
-west fork,prairie dog,ungulate ex,2018-08-01,Total,2018,16,16,165.44
-west fork,prairie dog,ungulate ex,2018-08-01,VUOC,2018,16,0,0.0
-west fork,prairie dog,ungulate ex,2019-08-07,AnnGrass,2019,28,0,0.06
-west fork,prairie dog,ungulate ex,2019-08-07,Brome,2019,28,0,0.0
-west fork,prairie dog,ungulate ex,2019-08-07,C3,2019,28,22,253.7
-west fork,prairie dog,ungulate ex,2019-08-07,C4,2019,28,0,0.8
-west fork,prairie dog,ungulate ex,2019-08-07,Forb,2019,28,4,40.2
-west fork,prairie dog,ungulate ex,2019-08-07,SD,2019,28,2,14.3
-west fork,prairie dog,ungulate ex,2019-08-07,Subshrub,2019,28,0,0.0
-west fork,prairie dog,ungulate ex,2019-08-07,Total,2019,28,28,309.06
-west fork,prairie dog,ungulate ex,2019-08-07,VUOC,2019,28,0,0.06
-west fork,prairie dog,ungulate ex,2020-08-05,AnnGrass,2020,46,0,0.0
-west fork,prairie dog,ungulate ex,2020-08-05,Brome,2020,46,0,0.0
-west fork,prairie dog,ungulate ex,2020-08-05,C3,2020,46,22,63.2
-west fork,prairie dog,ungulate ex,2020-08-05,C4,2020,46,0,0.0
-west fork,prairie dog,ungulate ex,2020-08-05,Forb,2020,46,0,0.3296
-west fork,prairie dog,ungulate ex,2020-08-05,SD,2020,46,24,208.4
-west fork,prairie dog,ungulate ex,2020-08-05,Subshrub,2020,46,0,0.0
-west fork,prairie dog,ungulate ex,2020-08-05,Total,2020,46,46,271.9296
-west fork,prairie dog,ungulate ex,2020-08-05,VUOC,2020,46,0,0.0
-wildcat,control,livestock ex,2017-07-18,AnnGrass,2017,23,0,0.0
-wildcat,control,livestock ex,2017-07-18,Brome,2017,23,0,0.0
-wildcat,control,livestock ex,2017-07-18,C3,2017,23,23,59.379999999999995
-wildcat,control,livestock ex,2017-07-18,C4,2017,23,0,10.379999999999999
-wildcat,control,livestock ex,2017-07-18,Forb,2017,23,0,1.2200000000000006
-wildcat,control,livestock ex,2017-07-18,SD,2017,23,0,0.0
-wildcat,control,livestock ex,2017-07-18,Subshrub,2017,23,0,0.0
-wildcat,control,livestock ex,2017-07-18,Total,2017,23,23,70.97999999999999
-wildcat,control,livestock ex,2017-07-18,VUOC,2017,23,0,0.0
-wildcat,control,livestock ex,2018-08-02,AnnGrass,2018,32,0,4.2
-wildcat,control,livestock ex,2018-08-02,Brome,2018,32,0,3.3
-wildcat,control,livestock ex,2018-08-02,C3,2018,32,24,157.38
-wildcat,control,livestock ex,2018-08-02,C4,2018,32,8,48.9
-wildcat,control,livestock ex,2018-08-02,Forb,2018,32,0,4.2
-wildcat,control,livestock ex,2018-08-02,SD,2018,32,0,27.7
-wildcat,control,livestock ex,2018-08-02,Subshrub,2018,32,0,0.0
-wildcat,control,livestock ex,2018-08-02,Total,2018,32,32,242.38
-wildcat,control,livestock ex,2018-08-02,VUOC,2018,32,0,0.9
-wildcat,control,livestock ex,2019-08-05,AnnGrass,2019,47,0,0.06
-wildcat,control,livestock ex,2019-08-05,Brome,2019,47,0,0.06
-wildcat,control,livestock ex,2019-08-05,C3,2019,47,40,126.9
-wildcat,control,livestock ex,2019-08-05,C4,2019,47,5,36.3
-wildcat,control,livestock ex,2019-08-05,Forb,2019,47,0,2.9
-wildcat,control,livestock ex,2019-08-05,SD,2019,47,2,24.1
-wildcat,control,livestock ex,2019-08-05,Subshrub,2019,47,0,0.0
-wildcat,control,livestock ex,2019-08-05,Total,2019,47,47,190.26
-wildcat,control,livestock ex,2019-08-05,VUOC,2019,47,0,0.0
-wildcat,control,livestock ex,2020-08-06,AnnGrass,2020,15,0,0.0618
-wildcat,control,livestock ex,2020-08-06,Brome,2020,15,0,0.0218
-wildcat,control,livestock ex,2020-08-06,C3,2020,15,11,38.86
-wildcat,control,livestock ex,2020-08-06,C4,2020,15,4,11.46
-wildcat,control,livestock ex,2020-08-06,Forb,2020,15,0,
-wildcat,control,livestock ex,2020-08-06,SD,2020,15,0,18.74
-wildcat,control,livestock ex,2020-08-06,Subshrub,2020,15,0,0.0
-wildcat,control,livestock ex,2020-08-06,Total,2020,15,15,69.155
-wildcat,control,livestock ex,2020-08-06,VUOC,2020,15,0,0.04
-wildcat,control,out,2017-07-18,AnnGrass,2017,24,0,0.0
-wildcat,control,out,2017-07-18,Brome,2017,24,0,0.0
-wildcat,control,out,2017-07-18,C3,2017,24,12,40.26
-wildcat,control,out,2017-07-18,C4,2017,24,12,9.899999999999999
-wildcat,control,out,2017-07-18,Forb,2017,24,0,1.0399999999999991
-wildcat,control,out,2017-07-18,SD,2017,24,0,0.0
-wildcat,control,out,2017-07-18,Subshrub,2017,24,0,0.0
-wildcat,control,out,2017-07-18,Total,2017,24,24,51.199999999999996
-wildcat,control,out,2017-07-18,VUOC,2017,24,0,0.0
-wildcat,control,out,2018-08-02,AnnGrass,2018,29,0,0.6
-wildcat,control,out,2018-08-02,Brome,2018,29,0,0.22
-wildcat,control,out,2018-08-02,C3,2018,29,20,46.22
-wildcat,control,out,2018-08-02,C4,2018,29,9,45.54
-wildcat,control,out,2018-08-02,Forb,2018,29,0,2.36
-wildcat,control,out,2018-08-02,SD,2018,29,0,1.82
-wildcat,control,out,2018-08-02,Subshrub,2018,29,0,0.0
-wildcat,control,out,2018-08-02,Total,2018,29,29,96.53999999999998
-wildcat,control,out,2018-08-02,VUOC,2018,29,0,0.38
-wildcat,control,out,2019-08-05,AnnGrass,2019,9,0,0.02
-wildcat,control,out,2019-08-05,Brome,2019,9,0,0.02
-wildcat,control,out,2019-08-05,C3,2019,9,6,33.7
-wildcat,control,out,2019-08-05,C4,2019,9,3,18.1
-wildcat,control,out,2019-08-05,Forb,2019,9,0,3.8000000000000003
-wildcat,control,out,2019-08-05,SD,2019,9,0,1.1
-wildcat,control,out,2019-08-05,Subshrub,2019,9,0,0.0
-wildcat,control,out,2019-08-05,Total,2019,9,9,56.72000000000001
-wildcat,control,out,2019-08-05,VUOC,2019,9,0,0.0
-wildcat,control,out,2020-08-06,AnnGrass,2020,16,0,
-wildcat,control,out,2020-08-06,Brome,2020,16,0,0.0
-wildcat,control,out,2020-08-06,C3,2020,16,8,28.0
-wildcat,control,out,2020-08-06,C4,2020,16,5,6.76
-wildcat,control,out,2020-08-06,Forb,2020,16,0,3.6
-wildcat,control,out,2020-08-06,SD,2020,16,0,19.9
-wildcat,control,out,2020-08-06,Subshrub,2020,16,0,0.0
-wildcat,control,out,2020-08-06,Total,2020,16,13,58.26
-wildcat,control,out,2020-08-06,VUOC,2020,16,0,
-wildcat,control,ungulate ex,2017-07-18,AnnGrass,2017,18,0,0.6400000000000006
-wildcat,control,ungulate ex,2017-07-18,Brome,2017,18,0,0.6400000000000006
-wildcat,control,ungulate ex,2017-07-18,C3,2017,18,11,116.0
-wildcat,control,ungulate ex,2017-07-18,C4,2017,18,7,7.599999999999998
-wildcat,control,ungulate ex,2017-07-18,Forb,2017,18,0,1.9400000000000013
-wildcat,control,ungulate ex,2017-07-18,SD,2017,18,0,0.0
-wildcat,control,ungulate ex,2017-07-18,Subshrub,2017,18,0,0.0
-wildcat,control,ungulate ex,2017-07-18,Total,2017,18,18,126.17999999999999
-wildcat,control,ungulate ex,2017-07-18,VUOC,2017,18,0,0.0
-wildcat,control,ungulate ex,2018-08-02,AnnGrass,2018,16,1,9.3
-wildcat,control,ungulate ex,2018-08-02,Brome,2018,16,1,8.16
-wildcat,control,ungulate ex,2018-08-02,C3,2018,16,3,30.26
-wildcat,control,ungulate ex,2018-08-02,C4,2018,16,8,39.5
-wildcat,control,ungulate ex,2018-08-02,Forb,2018,16,0,13.4
-wildcat,control,ungulate ex,2018-08-02,SD,2018,16,4,8.12
-wildcat,control,ungulate ex,2018-08-02,Subshrub,2018,16,0,0.0
-wildcat,control,ungulate ex,2018-08-02,Total,2018,16,16,100.58000000000001
-wildcat,control,ungulate ex,2018-08-02,VUOC,2018,16,0,1.14
-wildcat,control,ungulate ex,2019-08-05,AnnGrass,2019,10,0,0.4
-wildcat,control,ungulate ex,2019-08-05,Brome,2019,10,0,0.4
-wildcat,control,ungulate ex,2019-08-05,C3,2019,10,0,0.6
-wildcat,control,ungulate ex,2019-08-05,C4,2019,10,0,0.0
-wildcat,control,ungulate ex,2019-08-05,Forb,2019,10,0,0.8
-wildcat,control,ungulate ex,2019-08-05,SD,2019,10,0,0.0
-wildcat,control,ungulate ex,2019-08-05,Subshrub,2019,10,10,25.1
-wildcat,control,ungulate ex,2019-08-05,Total,2019,10,10,26.900000000000002
-wildcat,control,ungulate ex,2019-08-05,VUOC,2019,10,0,0.0
-wildcat,control,ungulate ex,2020-08-06,AnnGrass,2020,9,0,1.1
-wildcat,control,ungulate ex,2020-08-06,Brome,2020,9,0,1.1
-wildcat,control,ungulate ex,2020-08-06,C3,2020,9,4,21.2
-wildcat,control,ungulate ex,2020-08-06,C4,2020,9,2,10.2
-wildcat,control,ungulate ex,2020-08-06,Forb,2020,9,0,1.16
-wildcat,control,ungulate ex,2020-08-06,SD,2020,9,3,26.3
-wildcat,control,ungulate ex,2020-08-06,Subshrub,2020,9,0,0.0
-wildcat,control,ungulate ex,2020-08-06,Total,2020,9,9,59.96000000000001
-wildcat,control,ungulate ex,2020-08-06,VUOC,2020,9,0,0.0
-wildcat,fire,livestock ex,2017-07-18,AnnGrass,2017,19,0,0.6600000000000001
-wildcat,fire,livestock ex,2017-07-18,Brome,2017,19,0,0.33999999999999986
-wildcat,fire,livestock ex,2017-07-18,C3,2017,19,1,63.88
-wildcat,fire,livestock ex,2017-07-18,C4,2017,19,18,30.800000000000004
-wildcat,fire,livestock ex,2017-07-18,Forb,2017,19,0,1.0
-wildcat,fire,livestock ex,2017-07-18,SD,2017,19,0,0.0
-wildcat,fire,livestock ex,2017-07-18,Subshrub,2017,19,0,0.0
-wildcat,fire,livestock ex,2017-07-18,Total,2017,19,19,96.34
-wildcat,fire,livestock ex,2017-07-18,VUOC,2017,19,0,0.3200000000000003
-wildcat,fire,livestock ex,2018-08-06,AnnGrass,2018,50,17,77.60000000000001
-wildcat,fire,livestock ex,2018-08-06,Brome,2018,50,12,74.76
-wildcat,fire,livestock ex,2018-08-06,C3,2018,50,17,108.12
-wildcat,fire,livestock ex,2018-08-06,C4,2018,50,16,71.78
-wildcat,fire,livestock ex,2018-08-06,Forb,2018,50,0,5.8
-wildcat,fire,livestock ex,2018-08-06,SD,2018,50,0,26.52
-wildcat,fire,livestock ex,2018-08-06,Subshrub,2018,50,0,0.0
-wildcat,fire,livestock ex,2018-08-06,Total,2018,50,50,289.82
-wildcat,fire,livestock ex,2018-08-06,VUOC,2018,50,5,2.84
-wildcat,fire,livestock ex,2019-08-05,AnnGrass,2019,35,6,23.04
-wildcat,fire,livestock ex,2019-08-05,Brome,2019,35,6,23.0
-wildcat,fire,livestock ex,2019-08-05,C3,2019,35,6,112.7
-wildcat,fire,livestock ex,2019-08-05,C4,2019,35,7,33.0
-wildcat,fire,livestock ex,2019-08-05,Forb,2019,35,3,11.3
-wildcat,fire,livestock ex,2019-08-05,SD,2019,35,13,85.1
-wildcat,fire,livestock ex,2019-08-05,Subshrub,2019,35,0,0.0
-wildcat,fire,livestock ex,2019-08-05,Total,2019,35,35,265.14
-wildcat,fire,livestock ex,2019-08-05,VUOC,2019,35,0,0.04
-wildcat,fire,livestock ex,2020-08-06,AnnGrass,2020,22,1,7.103199999999999
-wildcat,fire,livestock ex,2020-08-06,Brome,2020,22,1,7.1
-wildcat,fire,livestock ex,2020-08-06,C3,2020,22,4,27.6
-wildcat,fire,livestock ex,2020-08-06,C4,2020,22,7,20.4
-wildcat,fire,livestock ex,2020-08-06,Forb,2020,22,0,0.1
-wildcat,fire,livestock ex,2020-08-06,SD,2020,22,10,75.68
-wildcat,fire,livestock ex,2020-08-06,Subshrub,2020,22,0,0.0
-wildcat,fire,livestock ex,2020-08-06,Total,2020,22,22,130.88320000000002
-wildcat,fire,livestock ex,2020-08-06,VUOC,2020,22,0,0.0032
-wildcat,fire,out,2017-07-18,AnnGrass,2017,11,0,0.41999999999999815
-wildcat,fire,out,2017-07-18,Brome,2017,11,0,0.41999999999999815
-wildcat,fire,out,2017-07-18,C3,2017,11,11,120.41999999999999
-wildcat,fire,out,2017-07-18,C4,2017,11,0,2.6400000000000006
-wildcat,fire,out,2017-07-18,Forb,2017,11,0,0.0
-wildcat,fire,out,2017-07-18,SD,2017,11,0,0.0
-wildcat,fire,out,2017-07-18,Subshrub,2017,11,0,0.6000000000000014
-wildcat,fire,out,2017-07-18,Total,2017,11,11,124.07999999999998
-wildcat,fire,out,2017-07-18,VUOC,2017,11,0,0.0
-wildcat,fire,out,2018-08-06,AnnGrass,2018,24,14,19.439999999999998
-wildcat,fire,out,2018-08-06,Brome,2018,24,6,6.16
-wildcat,fire,out,2018-08-06,C3,2018,24,7,260.28
-wildcat,fire,out,2018-08-06,C4,2018,24,3,16.74
-wildcat,fire,out,2018-08-06,Forb,2018,24,0,1.86
-wildcat,fire,out,2018-08-06,SD,2018,24,0,19.26
-wildcat,fire,out,2018-08-06,Subshrub,2018,24,0,0.0
-wildcat,fire,out,2018-08-06,Total,2018,24,24,317.58
-wildcat,fire,out,2018-08-06,VUOC,2018,24,8,13.28
-wildcat,fire,out,2019-08-05,AnnGrass,2019,33,17,34.300000000000004
-wildcat,fire,out,2019-08-05,Brome,2019,33,17,33.7
-wildcat,fire,out,2019-08-05,C3,2019,33,8,86.6
-wildcat,fire,out,2019-08-05,C4,2019,33,6,42.7
-wildcat,fire,out,2019-08-05,Forb,2019,33,2,2.6
-wildcat,fire,out,2019-08-05,SD,2019,33,0,36.9
-wildcat,fire,out,2019-08-05,Subshrub,2019,33,0,0.0
-wildcat,fire,out,2019-08-05,Total,2019,33,33,203.1
-wildcat,fire,out,2019-08-05,VUOC,2019,33,0,0.6
-wildcat,fire,out,2020-08-06,AnnGrass,2020,22,1,12.88
-wildcat,fire,out,2020-08-06,Brome,2020,22,1,12.88
-wildcat,fire,out,2020-08-06,C3,2020,22,4,21.4
-wildcat,fire,out,2020-08-06,C4,2020,22,7,10.4
-wildcat,fire,out,2020-08-06,Forb,2020,22,0,0.0
-wildcat,fire,out,2020-08-06,SD,2020,22,0,15.84
-wildcat,fire,out,2020-08-06,Subshrub,2020,22,0,0.0
-wildcat,fire,out,2020-08-06,Total,2020,22,22,60.52
-wildcat,fire,out,2020-08-06,VUOC,2020,22,0,0.0
-wildcat,fire,ungulate ex,2017-07-18,AnnGrass,2017,22,0,0.3000000000000007
-wildcat,fire,ungulate ex,2017-07-18,Brome,2017,22,0,0.3000000000000007
-wildcat,fire,ungulate ex,2017-07-18,C3,2017,22,22,120.72
-wildcat,fire,ungulate ex,2017-07-18,C4,2017,22,0,0.0
-wildcat,fire,ungulate ex,2017-07-18,Forb,2017,22,0,0.2400000000000002
-wildcat,fire,ungulate ex,2017-07-18,SD,2017,22,0,0.0
-wildcat,fire,ungulate ex,2017-07-18,Subshrub,2017,22,0,0.0
-wildcat,fire,ungulate ex,2017-07-18,Total,2017,22,22,121.25999999999999
-wildcat,fire,ungulate ex,2017-07-18,VUOC,2017,22,0,0.0
-wildcat,fire,ungulate ex,2018-08-06,AnnGrass,2018,12,1,76.94
-wildcat,fire,ungulate ex,2018-08-06,Brome,2018,12,1,76.88
-wildcat,fire,ungulate ex,2018-08-06,C3,2018,12,9,400.2
-wildcat,fire,ungulate ex,2018-08-06,C4,2018,12,0,0.0
-wildcat,fire,ungulate ex,2018-08-06,Forb,2018,12,0,3.58
-wildcat,fire,ungulate ex,2018-08-06,SD,2018,12,2,60.46
-wildcat,fire,ungulate ex,2018-08-06,Subshrub,2018,12,0,0.0
-wildcat,fire,ungulate ex,2018-08-06,Total,2018,12,12,541.18
-wildcat,fire,ungulate ex,2018-08-06,VUOC,2018,12,0,0.06
-wildcat,fire,ungulate ex,2019-08-05,AnnGrass,2019,41,7,11.1
-wildcat,fire,ungulate ex,2019-08-05,Brome,2019,41,5,10.2
-wildcat,fire,ungulate ex,2019-08-05,C3,2019,41,11,220.2
-wildcat,fire,ungulate ex,2019-08-05,C4,2019,41,1,2.9
-wildcat,fire,ungulate ex,2019-08-05,Forb,2019,41,4,18.0
-wildcat,fire,ungulate ex,2019-08-05,SD,2019,41,18,116.1
-wildcat,fire,ungulate ex,2019-08-05,Subshrub,2019,41,0,0.0
-wildcat,fire,ungulate ex,2019-08-05,Total,2019,41,41,368.29999999999995
-wildcat,fire,ungulate ex,2019-08-05,VUOC,2019,41,2,0.9
-wildcat,fire,ungulate ex,2020-08-06,AnnGrass,2020,16,4,3.5
-wildcat,fire,ungulate ex,2020-08-06,Brome,2020,16,4,3.5
-wildcat,fire,ungulate ex,2020-08-06,C3,2020,16,7,80.04
-wildcat,fire,ungulate ex,2020-08-06,C4,2020,16,0,0.0
-wildcat,fire,ungulate ex,2020-08-06,Forb,2020,16,0,0.0
-wildcat,fire,ungulate ex,2020-08-06,SD,2020,16,5,20.52
-wildcat,fire,ungulate ex,2020-08-06,Subshrub,2020,16,0,0.0
-wildcat,fire,ungulate ex,2020-08-06,Total,2020,16,16,104.06
-wildcat,fire,ungulate ex,2020-08-06,VUOC,2020,16,0,0.0
-wildcat,prairie dog,livestock ex,2017-07-18,AnnGrass,2017,3,0,0.0
-wildcat,prairie dog,livestock ex,2017-07-18,Brome,2017,3,0,0.0
-wildcat,prairie dog,livestock ex,2017-07-18,C3,2017,3,3,29.080000000000005
-wildcat,prairie dog,livestock ex,2017-07-18,C4,2017,3,0,0.0
-wildcat,prairie dog,livestock ex,2017-07-18,Forb,2017,3,0,9.66
-wildcat,prairie dog,livestock ex,2017-07-18,SD,2017,3,0,0.0
-wildcat,prairie dog,livestock ex,2017-07-18,Subshrub,2017,3,0,0.0
-wildcat,prairie dog,livestock ex,2017-07-18,Total,2017,3,3,38.74000000000001
-wildcat,prairie dog,livestock ex,2017-07-18,VUOC,2017,3,0,0.0
-wildcat,prairie dog,livestock ex,2018-08-02,AnnGrass,2018,37,0,0.8200000000000001
-wildcat,prairie dog,livestock ex,2018-08-02,Brome,2018,37,0,0.8
-wildcat,prairie dog,livestock ex,2018-08-02,C3,2018,37,31,154.84
-wildcat,prairie dog,livestock ex,2018-08-02,C4,2018,37,0,0.0
-wildcat,prairie dog,livestock ex,2018-08-02,Forb,2018,37,6,28.34
-wildcat,prairie dog,livestock ex,2018-08-02,SD,2018,37,0,0.22
-wildcat,prairie dog,livestock ex,2018-08-02,Subshrub,2018,37,0,0.0
-wildcat,prairie dog,livestock ex,2018-08-02,Total,2018,37,37,184.22000000000003
-wildcat,prairie dog,livestock ex,2018-08-02,VUOC,2018,37,0,0.02
-wildcat,prairie dog,livestock ex,2019-08-05,AnnGrass,2019,24,0,0.0
-wildcat,prairie dog,livestock ex,2019-08-05,Brome,2019,24,0,0.0
-wildcat,prairie dog,livestock ex,2019-08-05,C3,2019,24,0,0.0
-wildcat,prairie dog,livestock ex,2019-08-05,C4,2019,24,0,0.0
-wildcat,prairie dog,livestock ex,2019-08-05,Forb,2019,24,24,216.5
-wildcat,prairie dog,livestock ex,2019-08-05,SD,2019,24,0,6.3
-wildcat,prairie dog,livestock ex,2019-08-05,Subshrub,2019,24,0,0.0
-wildcat,prairie dog,livestock ex,2019-08-05,Total,2019,24,24,222.8
-wildcat,prairie dog,livestock ex,2019-08-05,VUOC,2019,24,0,0.0
-wildcat,prairie dog,livestock ex,2020-08-06,AnnGrass,2020,4,0,0.0
-wildcat,prairie dog,livestock ex,2020-08-06,Brome,2020,4,0,0.0
-wildcat,prairie dog,livestock ex,2020-08-06,C3,2020,4,1,57.76
-wildcat,prairie dog,livestock ex,2020-08-06,C4,2020,4,0,0.48
-wildcat,prairie dog,livestock ex,2020-08-06,Forb,2020,4,3,23.060000000000002
-wildcat,prairie dog,livestock ex,2020-08-06,SD,2020,4,0,76.86
-wildcat,prairie dog,livestock ex,2020-08-06,Subshrub,2020,4,0,0.0
-wildcat,prairie dog,livestock ex,2020-08-06,Total,2020,4,4,158.16
-wildcat,prairie dog,livestock ex,2020-08-06,VUOC,2020,4,0,0.0
-wildcat,prairie dog,out,2017-07-18,AnnGrass,2017,5,0,0.0
-wildcat,prairie dog,out,2017-07-18,Brome,2017,5,0,0.0
-wildcat,prairie dog,out,2017-07-18,C3,2017,5,5,34.76
-wildcat,prairie dog,out,2017-07-18,C4,2017,5,0,0.0
-wildcat,prairie dog,out,2017-07-18,Forb,2017,5,0,2.3000000000000007
-wildcat,prairie dog,out,2017-07-18,SD,2017,5,0,0.0
-wildcat,prairie dog,out,2017-07-18,Subshrub,2017,5,0,0.0
-wildcat,prairie dog,out,2017-07-18,Total,2017,5,5,37.06
-wildcat,prairie dog,out,2017-07-18,VUOC,2017,5,0,0.0
-wildcat,prairie dog,out,2018-08-02,AnnGrass,2018,51,0,0.08
-wildcat,prairie dog,out,2018-08-02,Brome,2018,51,0,0.0
-wildcat,prairie dog,out,2018-08-02,C3,2018,51,38,397.18
-wildcat,prairie dog,out,2018-08-02,C4,2018,51,0,0.0
-wildcat,prairie dog,out,2018-08-02,Forb,2018,51,13,14.78
-wildcat,prairie dog,out,2018-08-02,SD,2018,51,0,2.58
-wildcat,prairie dog,out,2018-08-02,Subshrub,2018,51,0,0.0
-wildcat,prairie dog,out,2018-08-02,Total,2018,51,51,414.61999999999995
-wildcat,prairie dog,out,2018-08-02,VUOC,2018,51,0,0.08
-wildcat,prairie dog,out,2019-08-05,AnnGrass,2019,36,1,6.6
-wildcat,prairie dog,out,2019-08-05,Brome,2019,36,0,0.0
-wildcat,prairie dog,out,2019-08-05,C3,2019,36,21,210.9
-wildcat,prairie dog,out,2019-08-05,C4,2019,36,0,0.0
-wildcat,prairie dog,out,2019-08-05,Forb,2019,36,5,49.0
-wildcat,prairie dog,out,2019-08-05,SD,2019,36,9,36.7
-wildcat,prairie dog,out,2019-08-05,Subshrub,2019,36,0,0.0
-wildcat,prairie dog,out,2019-08-05,Total,2019,36,36,303.2
-wildcat,prairie dog,out,2019-08-05,VUOC,2019,36,1,6.6
-wildcat,prairie dog,out,2020-08-06,AnnGrass,2020,16,5,4.5282
-wildcat,prairie dog,out,2020-08-06,Brome,2020,16,0,0.0482
-wildcat,prairie dog,out,2020-08-06,C3,2020,16,1,40.9
-wildcat,prairie dog,out,2020-08-06,C4,2020,16,0,0.4
-wildcat,prairie dog,out,2020-08-06,Forb,2020,16,0,2.3438
-wildcat,prairie dog,out,2020-08-06,SD,2020,16,10,109.06
-wildcat,prairie dog,out,2020-08-06,Subshrub,2020,16,0,0.0
-wildcat,prairie dog,out,2020-08-06,Total,2020,16,16,157.232
-wildcat,prairie dog,out,2020-08-06,VUOC,2020,16,5,4.48
-wildcat,prairie dog,ungulate ex,2017-07-18,AnnGrass,2017,17,0,0.0
-wildcat,prairie dog,ungulate ex,2017-07-18,Brome,2017,17,0,0.0
-wildcat,prairie dog,ungulate ex,2017-07-18,C3,2017,17,17,123.29999999999998
-wildcat,prairie dog,ungulate ex,2017-07-18,C4,2017,17,0,0.0
-wildcat,prairie dog,ungulate ex,2017-07-18,Forb,2017,17,0,0.0
-wildcat,prairie dog,ungulate ex,2017-07-18,SD,2017,17,0,0.0
-wildcat,prairie dog,ungulate ex,2017-07-18,Subshrub,2017,17,0,0.0
-wildcat,prairie dog,ungulate ex,2017-07-18,Total,2017,17,17,123.29999999999998
-wildcat,prairie dog,ungulate ex,2017-07-18,VUOC,2017,17,0,0.0
-wildcat,prairie dog,ungulate ex,2018-08-02,AnnGrass,2018,46,0,0.54
-wildcat,prairie dog,ungulate ex,2018-08-02,Brome,2018,46,0,0.0
-wildcat,prairie dog,ungulate ex,2018-08-02,C3,2018,46,40,439.06
-wildcat,prairie dog,ungulate ex,2018-08-02,C4,2018,46,0,0.0
-wildcat,prairie dog,ungulate ex,2018-08-02,Forb,2018,46,6,16.18
-wildcat,prairie dog,ungulate ex,2018-08-02,SD,2018,46,0,75.12
-wildcat,prairie dog,ungulate ex,2018-08-02,Subshrub,2018,46,0,0.0
-wildcat,prairie dog,ungulate ex,2018-08-02,Total,2018,46,46,530.9000000000001
-wildcat,prairie dog,ungulate ex,2018-08-02,VUOC,2018,46,0,0.54
-wildcat,prairie dog,ungulate ex,2019-08-05,AnnGrass,2019,37,0,0.5
-wildcat,prairie dog,ungulate ex,2019-08-05,Brome,2019,37,0,0.0
-wildcat,prairie dog,ungulate ex,2019-08-05,C3,2019,37,17,284.2
-wildcat,prairie dog,ungulate ex,2019-08-05,C4,2019,37,0,0.0
-wildcat,prairie dog,ungulate ex,2019-08-05,Forb,2019,37,6,21.3
-wildcat,prairie dog,ungulate ex,2019-08-05,SD,2019,37,14,46.9
-wildcat,prairie dog,ungulate ex,2019-08-05,Subshrub,2019,37,0,0.0
-wildcat,prairie dog,ungulate ex,2019-08-05,Total,2019,37,37,352.9
-wildcat,prairie dog,ungulate ex,2019-08-05,VUOC,2019,37,0,0.5
-wildcat,prairie dog,ungulate ex,2020-08-06,AnnGrass,2020,49,1,0.36
-wildcat,prairie dog,ungulate ex,2020-08-06,Brome,2020,49,0,0.0
-wildcat,prairie dog,ungulate ex,2020-08-06,C3,2020,49,2,53.8
-wildcat,prairie dog,ungulate ex,2020-08-06,C4,2020,49,0,0.0
-wildcat,prairie dog,ungulate ex,2020-08-06,Forb,2020,49,8,47.74
-wildcat,prairie dog,ungulate ex,2020-08-06,SD,2020,49,38,225.76
-wildcat,prairie dog,ungulate ex,2020-08-06,Subshrub,2020,49,0,0.0
-wildcat,prairie dog,ungulate ex,2020-08-06,Total,2020,49,49,327.65999999999997
-wildcat,prairie dog,ungulate ex,2020-08-06,VUOC,2020,49,1,0.36
+Site,Disturbance,Exclosure,Date,FG,Total Hits,Year,hits,weight
+lake creek,control,livestock ex,2017-07-25,AnnGrass,18,2017,10,33.54
+lake creek,control,livestock ex,2017-07-25,Brome,18,2017,10,22.68
+lake creek,control,livestock ex,2017-07-25,C3,18,2017,1,21.479999999999997
+lake creek,control,livestock ex,2017-07-25,C4,18,2017,6,29.959999999999997
+lake creek,control,livestock ex,2017-07-25,Forb,18,2017,1,18.06
+lake creek,control,livestock ex,2017-07-25,SD,18,2017,0,0.0
+lake creek,control,livestock ex,2017-07-25,Subshrub,18,2017,0,0.0
+lake creek,control,livestock ex,2017-07-25,Total,18,2017,18,103.04
+lake creek,control,livestock ex,2017-07-25,VUOC,18,2017,0,10.86
+lake creek,control,livestock ex,2018-08-06,AnnGrass,36,2018,17,44.9
+lake creek,control,livestock ex,2018-08-06,Brome,36,2018,17,44.9
+lake creek,control,livestock ex,2018-08-06,C3,36,2018,6,40.66
+lake creek,control,livestock ex,2018-08-06,C4,36,2018,5,34.38
+lake creek,control,livestock ex,2018-08-06,Forb,36,2018,8,35.8
+lake creek,control,livestock ex,2018-08-06,SD,36,2018,0,33.14
+lake creek,control,livestock ex,2018-08-06,Subshrub,36,2018,0,0.0
+lake creek,control,livestock ex,2018-08-06,Total,36,2018,36,188.88
+lake creek,control,livestock ex,2018-08-06,VUOC,36,2018,0,0.0
+lake creek,control,livestock ex,2019-07-31,AnnGrass,23,2019,20,44.92
+lake creek,control,livestock ex,2019-07-31,Brome,23,2019,20,44.9
+lake creek,control,livestock ex,2019-07-31,C3,23,2019,0,0.0
+lake creek,control,livestock ex,2019-07-31,C4,23,2019,1,71.3
+lake creek,control,livestock ex,2019-07-31,Forb,23,2019,2,18.7
+lake creek,control,livestock ex,2019-07-31,SD,23,2019,0,3.6
+lake creek,control,livestock ex,2019-07-31,Subshrub,23,2019,0,0.0
+lake creek,control,livestock ex,2019-07-31,Total,23,2019,23,138.52
+lake creek,control,livestock ex,2019-07-31,VUOC,23,2019,0,0.02
+lake creek,control,livestock ex,2020-08-03,AnnGrass,13,2020,7,13.9
+lake creek,control,livestock ex,2020-08-03,Brome,13,2020,7,13.9
+lake creek,control,livestock ex,2020-08-03,C3,13,2020,0,0.0
+lake creek,control,livestock ex,2020-08-03,C4,13,2020,3,45.36
+lake creek,control,livestock ex,2020-08-03,Forb,13,2020,0,0.3
+lake creek,control,livestock ex,2020-08-03,SD,13,2020,3,23.8
+lake creek,control,livestock ex,2020-08-03,Subshrub,13,2020,0,0.0
+lake creek,control,livestock ex,2020-08-03,Total,13,2020,13,83.36
+lake creek,control,livestock ex,2020-08-03,VUOC,13,2020,0,0.0
+lake creek,control,out,2017-07-25,AnnGrass,11,2017,2,22.120000000000005
+lake creek,control,out,2017-07-25,Brome,11,2017,2,11.220000000000002
+lake creek,control,out,2017-07-25,C3,11,2017,3,24.160000000000004
+lake creek,control,out,2017-07-25,C4,11,2017,6,28.2
+lake creek,control,out,2017-07-25,Forb,11,2017,0,11.46
+lake creek,control,out,2017-07-25,SD,11,2017,0,0.0
+lake creek,control,out,2017-07-25,Subshrub,11,2017,0,0.0
+lake creek,control,out,2017-07-25,Total,11,2017,11,85.94
+lake creek,control,out,2017-07-25,VUOC,11,2017,0,10.9
+lake creek,control,out,2018-08-06,AnnGrass,23,2018,3,3.38
+lake creek,control,out,2018-08-06,Brome,23,2018,3,3.38
+lake creek,control,out,2018-08-06,C3,23,2018,0,13.44
+lake creek,control,out,2018-08-06,C4,23,2018,16,22.64
+lake creek,control,out,2018-08-06,Forb,23,2018,4,29.56
+lake creek,control,out,2018-08-06,SD,23,2018,0,6.5
+lake creek,control,out,2018-08-06,Subshrub,23,2018,0,0.0
+lake creek,control,out,2018-08-06,Total,23,2018,23,75.52
+lake creek,control,out,2018-08-06,VUOC,23,2018,0,0.0
+lake creek,control,out,2019-07-31,AnnGrass,32,2019,13,43.2
+lake creek,control,out,2019-07-31,Brome,32,2019,13,43.2
+lake creek,control,out,2019-07-31,C3,32,2019,5,20.5
+lake creek,control,out,2019-07-31,C4,32,2019,0,14.0
+lake creek,control,out,2019-07-31,Forb,32,2019,7,22.2
+lake creek,control,out,2019-07-31,SD,32,2019,0,2.3
+lake creek,control,out,2019-07-31,Subshrub,32,2019,0,0.0
+lake creek,control,out,2019-07-31,Total,32,2019,25,102.2
+lake creek,control,out,2019-07-31,VUOC,32,2019,0,0.0
+lake creek,control,out,2020-08-03,AnnGrass,4,2020,1,2.0218
+lake creek,control,out,2020-08-03,Brome,4,2020,1,2.02
+lake creek,control,out,2020-08-03,C3,4,2020,0,1.72
+lake creek,control,out,2020-08-03,C4,4,2020,1,19.66
+lake creek,control,out,2020-08-03,Forb,4,2020,0,0.04
+lake creek,control,out,2020-08-03,SD,4,2020,2,15.98
+lake creek,control,out,2020-08-03,Subshrub,4,2020,0,0.0
+lake creek,control,out,2020-08-03,Total,4,2020,4,39.4218
+lake creek,control,out,2020-08-03,VUOC,4,2020,0,0.0018
+lake creek,control,ungulate ex,2017-07-25,AnnGrass,37,2017,7,11.160000000000004
+lake creek,control,ungulate ex,2017-07-25,Brome,37,2017,7,11.160000000000004
+lake creek,control,ungulate ex,2017-07-25,C3,37,2017,3,64.11999999999999
+lake creek,control,ungulate ex,2017-07-25,C4,37,2017,23,39.78000000000001
+lake creek,control,ungulate ex,2017-07-25,Forb,37,2017,4,23.2
+lake creek,control,ungulate ex,2017-07-25,SD,37,2017,0,0.0
+lake creek,control,ungulate ex,2017-07-25,Subshrub,37,2017,0,0.0
+lake creek,control,ungulate ex,2017-07-25,Total,37,2017,37,138.26
+lake creek,control,ungulate ex,2017-07-25,VUOC,37,2017,0,0.0
+lake creek,control,ungulate ex,2018-08-06,AnnGrass,28,2018,11,32.46
+lake creek,control,ungulate ex,2018-08-06,Brome,28,2018,11,32.46
+lake creek,control,ungulate ex,2018-08-06,C3,28,2018,11,140.56
+lake creek,control,ungulate ex,2018-08-06,C4,28,2018,0,15.58
+lake creek,control,ungulate ex,2018-08-06,Forb,28,2018,2,39.6
+lake creek,control,ungulate ex,2018-08-06,SD,28,2018,4,41.16
+lake creek,control,ungulate ex,2018-08-06,Subshrub,28,2018,0,0.0
+lake creek,control,ungulate ex,2018-08-06,Total,28,2018,28,269.36
+lake creek,control,ungulate ex,2018-08-06,VUOC,28,2018,0,0.0
+lake creek,control,ungulate ex,2019-07-31,AnnGrass,47,2019,18,77.3
+lake creek,control,ungulate ex,2019-07-31,Brome,47,2019,18,77.3
+lake creek,control,ungulate ex,2019-07-31,C3,47,2019,9,57.2
+lake creek,control,ungulate ex,2019-07-31,C4,47,2019,1,9.1
+lake creek,control,ungulate ex,2019-07-31,Forb,47,2019,14,65.7
+lake creek,control,ungulate ex,2019-07-31,SD,47,2019,5,2.2
+lake creek,control,ungulate ex,2019-07-31,Subshrub,47,2019,0,0.0
+lake creek,control,ungulate ex,2019-07-31,Total,47,2019,47,211.5
+lake creek,control,ungulate ex,2019-07-31,VUOC,47,2019,0,0.0
+lake creek,control,ungulate ex,2020-08-03,AnnGrass,29,2020,18,39.7
+lake creek,control,ungulate ex,2020-08-03,Brome,29,2020,18,39.7
+lake creek,control,ungulate ex,2020-08-03,C3,29,2020,6,45.3
+lake creek,control,ungulate ex,2020-08-03,C4,29,2020,0,10.1
+lake creek,control,ungulate ex,2020-08-03,Forb,29,2020,0,1.4
+lake creek,control,ungulate ex,2020-08-03,SD,29,2020,5,53.5
+lake creek,control,ungulate ex,2020-08-03,Subshrub,29,2020,0,0.0
+lake creek,control,ungulate ex,2020-08-03,Total,29,2020,29,150.0
+lake creek,control,ungulate ex,2020-08-03,VUOC,29,2020,0,0.0
+lake creek,fire,livestock ex,2017-07-20,AnnGrass,18,2017,0,13.48
+lake creek,fire,livestock ex,2017-07-20,Brome,18,2017,0,0.0
+lake creek,fire,livestock ex,2017-07-20,C3,18,2017,7,53.00000000000001
+lake creek,fire,livestock ex,2017-07-20,C4,18,2017,11,46.699999999999996
+lake creek,fire,livestock ex,2017-07-20,Forb,18,2017,0,22.06
+lake creek,fire,livestock ex,2017-07-20,SD,18,2017,0,0.0
+lake creek,fire,livestock ex,2017-07-20,Subshrub,18,2017,0,0.0
+lake creek,fire,livestock ex,2017-07-20,Total,18,2017,18,135.24
+lake creek,fire,livestock ex,2017-07-20,VUOC,18,2017,0,13.48
+lake creek,fire,livestock ex,2018-07-30,AnnGrass,38,2018,10,19.02
+lake creek,fire,livestock ex,2018-07-30,Brome,38,2018,1,2.7
+lake creek,fire,livestock ex,2018-07-30,C3,38,2018,9,47.72
+lake creek,fire,livestock ex,2018-07-30,C4,38,2018,2,31.82
+lake creek,fire,livestock ex,2018-07-30,Forb,38,2018,11,114.44
+lake creek,fire,livestock ex,2018-07-30,SD,38,2018,6,21.96
+lake creek,fire,livestock ex,2018-07-30,Subshrub,38,2018,0,0.0
+lake creek,fire,livestock ex,2018-07-30,Total,38,2018,38,234.96
+lake creek,fire,livestock ex,2018-07-30,VUOC,38,2018,9,16.32
+lake creek,fire,livestock ex,2019-07-31,AnnGrass,48,2019,18,30.0
+lake creek,fire,livestock ex,2019-07-31,Brome,48,2019,18,29.2
+lake creek,fire,livestock ex,2019-07-31,C3,48,2019,0,4.7
+lake creek,fire,livestock ex,2019-07-31,C4,48,2019,20,88.7
+lake creek,fire,livestock ex,2019-07-31,Forb,48,2019,10,34.0
+lake creek,fire,livestock ex,2019-07-31,SD,48,2019,0,1.3
+lake creek,fire,livestock ex,2019-07-31,Subshrub,48,2019,0,0.0
+lake creek,fire,livestock ex,2019-07-31,Total,48,2019,48,158.70000000000005
+lake creek,fire,livestock ex,2019-07-31,VUOC,48,2019,0,0.8
+lake creek,fire,livestock ex,2020-08-03,AnnGrass,25,2020,6,17.3
+lake creek,fire,livestock ex,2020-08-03,Brome,25,2020,6,17.3
+lake creek,fire,livestock ex,2020-08-03,C3,25,2020,2,8.68
+lake creek,fire,livestock ex,2020-08-03,C4,25,2020,4,26.16
+lake creek,fire,livestock ex,2020-08-03,Forb,25,2020,0,0.86
+lake creek,fire,livestock ex,2020-08-03,SD,25,2020,13,53.2
+lake creek,fire,livestock ex,2020-08-03,Subshrub,25,2020,0,0.0
+lake creek,fire,livestock ex,2020-08-03,Total,25,2020,25,106.2
+lake creek,fire,livestock ex,2020-08-03,VUOC,25,2020,0,0.0
+lake creek,fire,out,2017-07-20,AnnGrass,25,2017,4,6.979999999999997
+lake creek,fire,out,2017-07-20,Brome,25,2017,0,3.1199999999999974
+lake creek,fire,out,2017-07-20,C3,25,2017,9,75.22
+lake creek,fire,out,2017-07-20,C4,25,2017,0,0.35999999999999943
+lake creek,fire,out,2017-07-20,Forb,25,2017,12,53.1
+lake creek,fire,out,2017-07-20,SD,25,2017,0,0.0
+lake creek,fire,out,2017-07-20,Subshrub,25,2017,0,0.0
+lake creek,fire,out,2017-07-20,Total,25,2017,25,135.65999999999997
+lake creek,fire,out,2017-07-20,VUOC,25,2017,4,3.8599999999999994
+lake creek,fire,out,2018-07-30,AnnGrass,26,2018,0,1.92
+lake creek,fire,out,2018-07-30,Brome,26,2018,0,1.64
+lake creek,fire,out,2018-07-30,C3,26,2018,2,8.66
+lake creek,fire,out,2018-07-30,C4,26,2018,13,31.22
+lake creek,fire,out,2018-07-30,Forb,26,2018,11,81.02
+lake creek,fire,out,2018-07-30,SD,26,2018,0,4.2
+lake creek,fire,out,2018-07-30,Subshrub,26,2018,0,0.0
+lake creek,fire,out,2018-07-30,Total,26,2018,26,127.02
+lake creek,fire,out,2018-07-30,VUOC,26,2018,0,0.28
+lake creek,fire,out,2019-07-31,AnnGrass,23,2019,1,0.62
+lake creek,fire,out,2019-07-31,Brome,23,2019,1,0.6
+lake creek,fire,out,2019-07-31,C3,23,2019,12,79.2
+lake creek,fire,out,2019-07-31,C4,23,2019,5,39.6
+lake creek,fire,out,2019-07-31,Forb,23,2019,3,62.1
+lake creek,fire,out,2019-07-31,SD,23,2019,0,1.2
+lake creek,fire,out,2019-07-31,Subshrub,23,2019,0,0.0
+lake creek,fire,out,2019-07-31,Total,23,2019,21,182.72
+lake creek,fire,out,2019-07-31,VUOC,23,2019,0,0.02
+lake creek,fire,out,2020-08-03,AnnGrass,10,2020,1,9.12
+lake creek,fire,out,2020-08-03,Brome,10,2020,1,9.12
+lake creek,fire,out,2020-08-03,C3,10,2020,8,63.9
+lake creek,fire,out,2020-08-03,C4,10,2020,0,0.36
+lake creek,fire,out,2020-08-03,Forb,10,2020,0,0.22
+lake creek,fire,out,2020-08-03,SD,10,2020,1,50.9
+lake creek,fire,out,2020-08-03,Subshrub,10,2020,0,0.0
+lake creek,fire,out,2020-08-03,Total,10,2020,10,124.49999999999999
+lake creek,fire,out,2020-08-03,VUOC,10,2020,0,0.0
+lake creek,fire,ungulate ex,2017-07-20,AnnGrass,22,2017,1,11.84
+lake creek,fire,ungulate ex,2017-07-20,Brome,22,2017,0,0.1800000000000015
+lake creek,fire,ungulate ex,2017-07-20,C3,22,2017,4,12.620000000000001
+lake creek,fire,ungulate ex,2017-07-20,C4,22,2017,6,27.839999999999996
+lake creek,fire,ungulate ex,2017-07-20,Forb,22,2017,11,67.69999999999999
+lake creek,fire,ungulate ex,2017-07-20,SD,22,2017,0,0.0
+lake creek,fire,ungulate ex,2017-07-20,Subshrub,22,2017,0,0.0
+lake creek,fire,ungulate ex,2017-07-20,Total,22,2017,22,119.99999999999997
+lake creek,fire,ungulate ex,2017-07-20,VUOC,22,2017,1,11.659999999999998
+lake creek,fire,ungulate ex,2018-07-30,AnnGrass,34,2018,0,0.22
+lake creek,fire,ungulate ex,2018-07-30,Brome,34,2018,0,0.0
+lake creek,fire,ungulate ex,2018-07-30,C3,34,2018,0,8.28
+lake creek,fire,ungulate ex,2018-07-30,C4,34,2018,7,25.62
+lake creek,fire,ungulate ex,2018-07-30,Forb,34,2018,21,81.58
+lake creek,fire,ungulate ex,2018-07-30,SD,34,2018,6,11.7
+lake creek,fire,ungulate ex,2018-07-30,Subshrub,34,2018,0,0.0
+lake creek,fire,ungulate ex,2018-07-30,Total,34,2018,34,127.39999999999999
+lake creek,fire,ungulate ex,2018-07-30,VUOC,34,2018,0,0.22
+lake creek,fire,ungulate ex,2019-07-31,AnnGrass,14,2019,0,1.5
+lake creek,fire,ungulate ex,2019-07-31,Brome,14,2019,0,1.5
+lake creek,fire,ungulate ex,2019-07-31,C3,14,2019,7,87.0
+lake creek,fire,ungulate ex,2019-07-31,C4,14,2019,5,28.7
+lake creek,fire,ungulate ex,2019-07-31,Forb,14,2019,2,54.6
+lake creek,fire,ungulate ex,2019-07-31,SD,14,2019,0,1.5
+lake creek,fire,ungulate ex,2019-07-31,Subshrub,14,2019,0,0.0
+lake creek,fire,ungulate ex,2019-07-31,Total,14,2019,14,173.3
+lake creek,fire,ungulate ex,2019-07-31,VUOC,14,2019,0,0.0
+lake creek,fire,ungulate ex,2020-08-03,AnnGrass,16,2020,0,0.44
+lake creek,fire,ungulate ex,2020-08-03,Brome,16,2020,0,0.44
+lake creek,fire,ungulate ex,2020-08-03,C3,16,2020,4,64.02
+lake creek,fire,ungulate ex,2020-08-03,C4,16,2020,0,4.26
+lake creek,fire,ungulate ex,2020-08-03,Forb,16,2020,0,0.0
+lake creek,fire,ungulate ex,2020-08-03,SD,16,2020,12,94.74
+lake creek,fire,ungulate ex,2020-08-03,Subshrub,16,2020,0,0.0
+lake creek,fire,ungulate ex,2020-08-03,Total,16,2020,16,163.45999999999998
+lake creek,fire,ungulate ex,2020-08-03,VUOC,16,2020,0,0.0
+lake creek,prairie dog,livestock ex,2017-07-25,AnnGrass,24,2017,5,32.919999999999995
+lake creek,prairie dog,livestock ex,2017-07-25,Brome,24,2017,5,17.619999999999997
+lake creek,prairie dog,livestock ex,2017-07-25,C3,24,2017,3,25.200000000000003
+lake creek,prairie dog,livestock ex,2017-07-25,C4,24,2017,2,21.759999999999998
+lake creek,prairie dog,livestock ex,2017-07-25,Forb,24,2017,7,56.760000000000005
+lake creek,prairie dog,livestock ex,2017-07-25,SD,24,2017,0,0.0
+lake creek,prairie dog,livestock ex,2017-07-25,Subshrub,24,2017,0,0.0
+lake creek,prairie dog,livestock ex,2017-07-25,Total,24,2017,17,136.64000000000001
+lake creek,prairie dog,livestock ex,2017-07-25,VUOC,24,2017,0,15.299999999999999
+lake creek,prairie dog,livestock ex,2018-07-30,AnnGrass,27,2018,8,31.12
+lake creek,prairie dog,livestock ex,2018-07-30,Brome,27,2018,8,30.8
+lake creek,prairie dog,livestock ex,2018-07-30,C3,27,2018,1,4.5
+lake creek,prairie dog,livestock ex,2018-07-30,C4,27,2018,3,17.12
+lake creek,prairie dog,livestock ex,2018-07-30,Forb,27,2018,15,41.28
+lake creek,prairie dog,livestock ex,2018-07-30,SD,27,2018,0,7.14
+lake creek,prairie dog,livestock ex,2018-07-30,Subshrub,27,2018,0,0.0
+lake creek,prairie dog,livestock ex,2018-07-30,Total,27,2018,27,101.16
+lake creek,prairie dog,livestock ex,2018-07-30,VUOC,27,2018,0,0.32
+lake creek,prairie dog,livestock ex,2019-07-31,AnnGrass,37,2019,26,55.5
+lake creek,prairie dog,livestock ex,2019-07-31,Brome,37,2019,26,53.6
+lake creek,prairie dog,livestock ex,2019-07-31,C3,37,2019,3,37.7
+lake creek,prairie dog,livestock ex,2019-07-31,C4,37,2019,4,59.7
+lake creek,prairie dog,livestock ex,2019-07-31,Forb,37,2019,3,56.3
+lake creek,prairie dog,livestock ex,2019-07-31,SD,37,2019,0,2.4
+lake creek,prairie dog,livestock ex,2019-07-31,Subshrub,37,2019,0,0.0
+lake creek,prairie dog,livestock ex,2019-07-31,Total,37,2019,36,211.60000000000002
+lake creek,prairie dog,livestock ex,2019-07-31,VUOC,37,2019,0,1.9
+lake creek,prairie dog,livestock ex,2020-08-03,AnnGrass,14,2020,7,17.5
+lake creek,prairie dog,livestock ex,2020-08-03,Brome,14,2020,7,17.4
+lake creek,prairie dog,livestock ex,2020-08-03,C3,14,2020,0,21.1
+lake creek,prairie dog,livestock ex,2020-08-03,C4,14,2020,0,2.36
+lake creek,prairie dog,livestock ex,2020-08-03,Forb,14,2020,0,0.68
+lake creek,prairie dog,livestock ex,2020-08-03,SD,14,2020,7,25.0
+lake creek,prairie dog,livestock ex,2020-08-03,Subshrub,14,2020,0,0.0
+lake creek,prairie dog,livestock ex,2020-08-03,Total,14,2020,14,66.64
+lake creek,prairie dog,livestock ex,2020-08-03,VUOC,14,2020,0,0.1
+lake creek,prairie dog,out,2017-07-25,AnnGrass,18,2017,0,0.0
+lake creek,prairie dog,out,2017-07-25,Brome,18,2017,0,0.0
+lake creek,prairie dog,out,2017-07-25,C3,18,2017,4,24.340000000000003
+lake creek,prairie dog,out,2017-07-25,C4,18,2017,0,25.479999999999997
+lake creek,prairie dog,out,2017-07-25,Forb,18,2017,14,75.96000000000001
+lake creek,prairie dog,out,2017-07-25,SD,18,2017,0,0.0
+lake creek,prairie dog,out,2017-07-25,Subshrub,18,2017,0,0.0
+lake creek,prairie dog,out,2017-07-25,Total,18,2017,18,125.78
+lake creek,prairie dog,out,2017-07-25,VUOC,18,2017,0,0.0
+lake creek,prairie dog,out,2018-07-30,AnnGrass,21,2018,2,2.42
+lake creek,prairie dog,out,2018-07-30,Brome,21,2018,0,0.0
+lake creek,prairie dog,out,2018-07-30,C3,21,2018,2,22.12
+lake creek,prairie dog,out,2018-07-30,C4,21,2018,8,26.58
+lake creek,prairie dog,out,2018-07-30,Forb,21,2018,9,127.58
+lake creek,prairie dog,out,2018-07-30,SD,21,2018,0,0.1
+lake creek,prairie dog,out,2018-07-30,Subshrub,21,2018,0,0.0
+lake creek,prairie dog,out,2018-07-30,Total,21,2018,21,178.79999999999998
+lake creek,prairie dog,out,2018-07-30,VUOC,21,2018,2,2.42
+lake creek,prairie dog,out,2019-07-31,AnnGrass,26,2019,1,0.8200000000000001
+lake creek,prairie dog,out,2019-07-31,Brome,26,2019,1,0.02
+lake creek,prairie dog,out,2019-07-31,C3,26,2019,3,29.8
+lake creek,prairie dog,out,2019-07-31,C4,26,2019,9,31.1
+lake creek,prairie dog,out,2019-07-31,Forb,26,2019,7,99.89999999999999
+lake creek,prairie dog,out,2019-07-31,SD,26,2019,0,0.9
+lake creek,prairie dog,out,2019-07-31,Subshrub,26,2019,0,3.2
+lake creek,prairie dog,out,2019-07-31,Total,26,2019,20,165.72
+lake creek,prairie dog,out,2019-07-31,VUOC,26,2019,0,0.8
+lake creek,prairie dog,out,2020-08-03,AnnGrass,21,2020,7,6.666
+lake creek,prairie dog,out,2020-08-03,Brome,21,2020,7,6.66
+lake creek,prairie dog,out,2020-08-03,C3,21,2020,0,6.64
+lake creek,prairie dog,out,2020-08-03,C4,21,2020,8,18.46
+lake creek,prairie dog,out,2020-08-03,Forb,21,2020,0,0.5
+lake creek,prairie dog,out,2020-08-03,SD,21,2020,6,15.62
+lake creek,prairie dog,out,2020-08-03,Subshrub,21,2020,0,0.0
+lake creek,prairie dog,out,2020-08-03,Total,21,2020,21,47.886
+lake creek,prairie dog,out,2020-08-03,VUOC,21,2020,0,0.006
+lake creek,prairie dog,ungulate ex,2017-07-25,AnnGrass,11,2017,0,19.58
+lake creek,prairie dog,ungulate ex,2017-07-25,Brome,11,2017,0,0.0
+lake creek,prairie dog,ungulate ex,2017-07-25,C3,11,2017,0,19.42
+lake creek,prairie dog,ungulate ex,2017-07-25,C4,11,2017,7,11.719999999999999
+lake creek,prairie dog,ungulate ex,2017-07-25,Forb,11,2017,4,85.18
+lake creek,prairie dog,ungulate ex,2017-07-25,SD,11,2017,0,0.0
+lake creek,prairie dog,ungulate ex,2017-07-25,Subshrub,11,2017,0,0.0
+lake creek,prairie dog,ungulate ex,2017-07-25,Total,11,2017,11,135.9
+lake creek,prairie dog,ungulate ex,2017-07-25,VUOC,11,2017,0,19.58
+lake creek,prairie dog,ungulate ex,2018-07-30,AnnGrass,34,2018,0,0.54
+lake creek,prairie dog,ungulate ex,2018-07-30,Brome,34,2018,0,0.06
+lake creek,prairie dog,ungulate ex,2018-07-30,C3,34,2018,0,0.88
+lake creek,prairie dog,ungulate ex,2018-07-30,C4,34,2018,11,32.18
+lake creek,prairie dog,ungulate ex,2018-07-30,Forb,34,2018,23,106.02
+lake creek,prairie dog,ungulate ex,2018-07-30,SD,34,2018,0,0.24
+lake creek,prairie dog,ungulate ex,2018-07-30,Subshrub,34,2018,0,0.0
+lake creek,prairie dog,ungulate ex,2018-07-30,Total,34,2018,34,139.85999999999999
+lake creek,prairie dog,ungulate ex,2018-07-30,VUOC,34,2018,0,0.48
+lake creek,prairie dog,ungulate ex,2019-07-31,AnnGrass,30,2019,1,18.6
+lake creek,prairie dog,ungulate ex,2019-07-31,Brome,30,2019,0,0.8
+lake creek,prairie dog,ungulate ex,2019-07-31,C3,30,2019,0,2.9
+lake creek,prairie dog,ungulate ex,2019-07-31,C4,30,2019,24,91.7
+lake creek,prairie dog,ungulate ex,2019-07-31,Forb,30,2019,5,90.3
+lake creek,prairie dog,ungulate ex,2019-07-31,SD,30,2019,0,2.0
+lake creek,prairie dog,ungulate ex,2019-07-31,Subshrub,30,2019,0,0.0
+lake creek,prairie dog,ungulate ex,2019-07-31,Total,30,2019,30,205.5
+lake creek,prairie dog,ungulate ex,2019-07-31,VUOC,30,2019,1,17.8
+lake creek,prairie dog,ungulate ex,2020-08-03,AnnGrass,28,2020,2,1.4200000000000002
+lake creek,prairie dog,ungulate ex,2020-08-03,Brome,28,2020,2,1.34
+lake creek,prairie dog,ungulate ex,2020-08-03,C3,28,2020,1,0.8
+lake creek,prairie dog,ungulate ex,2020-08-03,C4,28,2020,4,32.12
+lake creek,prairie dog,ungulate ex,2020-08-03,Forb,28,2020,8,39.9
+lake creek,prairie dog,ungulate ex,2020-08-03,SD,28,2020,13,28.3
+lake creek,prairie dog,ungulate ex,2020-08-03,Subshrub,28,2020,0,0.0
+lake creek,prairie dog,ungulate ex,2020-08-03,Total,28,2020,28,102.53999999999999
+lake creek,prairie dog,ungulate ex,2020-08-03,VUOC,28,2020,0,0.08
+steckley,control,livestock ex,2017-07-17,AnnGrass,29,2017,1,3.9400000000000013
+steckley,control,livestock ex,2017-07-17,Brome,29,2017,1,3.9400000000000013
+steckley,control,livestock ex,2017-07-17,C3,29,2017,10,72.25999999999999
+steckley,control,livestock ex,2017-07-17,C4,29,2017,0,0.0
+steckley,control,livestock ex,2017-07-17,Forb,29,2017,0,0.22000000000000064
+steckley,control,livestock ex,2017-07-17,SD,29,2017,0,0.0
+steckley,control,livestock ex,2017-07-17,Subshrub,29,2017,0,0.0
+steckley,control,livestock ex,2017-07-17,Total,29,2017,11,76.41999999999999
+steckley,control,livestock ex,2017-07-17,VUOC,29,2017,0,0.0
+steckley,control,livestock ex,2018-07-31,AnnGrass,21,2018,3,22.62
+steckley,control,livestock ex,2018-07-31,Brome,21,2018,3,22.62
+steckley,control,livestock ex,2018-07-31,C3,21,2018,13,125.3
+steckley,control,livestock ex,2018-07-31,C4,21,2018,0,0.0
+steckley,control,livestock ex,2018-07-31,Forb,21,2018,1,2.54
+steckley,control,livestock ex,2018-07-31,SD,21,2018,4,9.44
+steckley,control,livestock ex,2018-07-31,Subshrub,21,2018,0,0.0
+steckley,control,livestock ex,2018-07-31,Total,21,2018,21,159.89999999999998
+steckley,control,livestock ex,2018-07-31,VUOC,21,2018,0,0.0
+steckley,control,livestock ex,2019-07-29,AnnGrass,34,2019,15,126.1
+steckley,control,livestock ex,2019-07-29,Brome,34,2019,15,126.1
+steckley,control,livestock ex,2019-07-29,C3,34,2019,19,134.4
+steckley,control,livestock ex,2019-07-29,C4,34,2019,0,0.2
+steckley,control,livestock ex,2019-07-29,Forb,34,2019,0,3.8200000000000003
+steckley,control,livestock ex,2019-07-29,SD,34,2019,0,12.6
+steckley,control,livestock ex,2019-07-29,Subshrub,34,2019,0,0.0
+steckley,control,livestock ex,2019-07-29,Total,34,2019,34,277.12
+steckley,control,livestock ex,2019-07-29,VUOC,34,2019,0,0.0
+steckley,control,livestock ex,2020-08-10,AnnGrass,21,2020,2,6.08
+steckley,control,livestock ex,2020-08-10,Brome,21,2020,2,6.08
+steckley,control,livestock ex,2020-08-10,C3,21,2020,19,30.42
+steckley,control,livestock ex,2020-08-10,C4,21,2020,0,0.1
+steckley,control,livestock ex,2020-08-10,Forb,21,2020,0,0.24
+steckley,control,livestock ex,2020-08-10,SD,21,2020,0,32.56
+steckley,control,livestock ex,2020-08-10,Subshrub,21,2020,0,0.0
+steckley,control,livestock ex,2020-08-10,Total,21,2020,21,69.4
+steckley,control,livestock ex,2020-08-10,VUOC,21,2020,0,0.0
+steckley,control,out,2017-07-17,AnnGrass,17,2017,7,8.379999999999999
+steckley,control,out,2017-07-17,Brome,17,2017,7,8.379999999999999
+steckley,control,out,2017-07-17,C3,17,2017,10,78.12
+steckley,control,out,2017-07-17,C4,17,2017,0,0.0
+steckley,control,out,2017-07-17,Forb,17,2017,0,0.52
+steckley,control,out,2017-07-17,SD,17,2017,0,0.0
+steckley,control,out,2017-07-17,Subshrub,17,2017,0,0.0
+steckley,control,out,2017-07-17,Total,17,2017,17,87.02
+steckley,control,out,2017-07-17,VUOC,17,2017,0,0.0
+steckley,control,out,2018-07-31,AnnGrass,43,2018,17,62.42
+steckley,control,out,2018-07-31,Brome,43,2018,17,62.42
+steckley,control,out,2018-07-31,C3,43,2018,12,96.5
+steckley,control,out,2018-07-31,C4,43,2018,13,31.16
+steckley,control,out,2018-07-31,Forb,43,2018,0,3.52
+steckley,control,out,2018-07-31,SD,43,2018,0,20.54
+steckley,control,out,2018-07-31,Subshrub,43,2018,0,0.0
+steckley,control,out,2018-07-31,Total,43,2018,42,214.14
+steckley,control,out,2018-07-31,VUOC,43,2018,0,0.0
+steckley,control,out,2019-07-29,AnnGrass,75,2019,40,132.5
+steckley,control,out,2019-07-29,Brome,75,2019,40,132.5
+steckley,control,out,2019-07-29,C3,75,2019,25,221.1
+steckley,control,out,2019-07-29,C4,75,2019,0,1.3
+steckley,control,out,2019-07-29,Forb,75,2019,1,7.6000000000000005
+steckley,control,out,2019-07-29,SD,75,2019,9,0.9
+steckley,control,out,2019-07-29,Subshrub,75,2019,0,0.0
+steckley,control,out,2019-07-29,Total,75,2019,75,363.3999999999999
+steckley,control,out,2019-07-29,VUOC,75,2019,0,0.0
+steckley,control,out,2020-08-10,AnnGrass,8,2020,4,13.3
+steckley,control,out,2020-08-10,Brome,8,2020,4,13.3
+steckley,control,out,2020-08-10,C3,8,2020,1,31.2
+steckley,control,out,2020-08-10,C4,8,2020,3,3.64
+steckley,control,out,2020-08-10,Forb,8,2020,0,0.58
+steckley,control,out,2020-08-10,SD,8,2020,0,9.0
+steckley,control,out,2020-08-10,Subshrub,8,2020,0,0.0
+steckley,control,out,2020-08-10,Total,8,2020,8,57.72
+steckley,control,out,2020-08-10,VUOC,8,2020,0,0.0
+steckley,control,ungulate ex,2017-07-17,AnnGrass,0,2017,0,0.0
+steckley,control,ungulate ex,2017-07-17,Brome,0,2017,0,0.0
+steckley,control,ungulate ex,2017-07-17,C3,0,2017,0,3.7600000000000016
+steckley,control,ungulate ex,2017-07-17,C4,0,2017,0,31.640000000000008
+steckley,control,ungulate ex,2017-07-17,Forb,0,2017,0,0.0
+steckley,control,ungulate ex,2017-07-17,SD,0,2017,0,0.0
+steckley,control,ungulate ex,2017-07-17,Subshrub,0,2017,0,2.400000000000002
+steckley,control,ungulate ex,2017-07-17,Total,0,2017,0,37.80000000000001
+steckley,control,ungulate ex,2017-07-17,VUOC,0,2017,0,0.0
+steckley,control,ungulate ex,2018-07-31,AnnGrass,22,2018,0,0.16923
+steckley,control,ungulate ex,2018-07-31,Brome,22,2018,0,0.16
+steckley,control,ungulate ex,2018-07-31,C3,22,2018,2,23.44
+steckley,control,ungulate ex,2018-07-31,C4,22,2018,20,86.06
+steckley,control,ungulate ex,2018-07-31,Forb,22,2018,0,0.3
+steckley,control,ungulate ex,2018-07-31,SD,22,2018,0,8.54
+steckley,control,ungulate ex,2018-07-31,Subshrub,22,2018,0,0.0
+steckley,control,ungulate ex,2018-07-31,Total,22,2018,22,118.50923
+steckley,control,ungulate ex,2018-07-31,VUOC,22,2018,0,0.00923
+steckley,control,ungulate ex,2019-07-29,AnnGrass,34,2019,0,0.08
+steckley,control,ungulate ex,2019-07-29,Brome,34,2019,0,0.0
+steckley,control,ungulate ex,2019-07-29,C3,34,2019,1,14.3
+steckley,control,ungulate ex,2019-07-29,C4,34,2019,33,59.4
+steckley,control,ungulate ex,2019-07-29,Forb,34,2019,0,1.7999999999999998
+steckley,control,ungulate ex,2019-07-29,SD,34,2019,0,0.6
+steckley,control,ungulate ex,2019-07-29,Subshrub,34,2019,0,0.0
+steckley,control,ungulate ex,2019-07-29,Total,34,2019,34,76.18
+steckley,control,ungulate ex,2019-07-29,VUOC,34,2019,0,0.08
+steckley,control,ungulate ex,2020-08-10,AnnGrass,8,2020,0,0.455
+steckley,control,ungulate ex,2020-08-10,Brome,8,2020,0,0.44
+steckley,control,ungulate ex,2020-08-10,C3,8,2020,1,1.8
+steckley,control,ungulate ex,2020-08-10,C4,8,2020,7,19.32
+steckley,control,ungulate ex,2020-08-10,Forb,8,2020,0,0.0256
+steckley,control,ungulate ex,2020-08-10,SD,8,2020,0,12.48
+steckley,control,ungulate ex,2020-08-10,Subshrub,8,2020,0,0.0
+steckley,control,ungulate ex,2020-08-10,Total,8,2020,8,34.080600000000004
+steckley,control,ungulate ex,2020-08-10,VUOC,8,2020,0,0.015
+steckley,fire,livestock ex,2017-07-17,AnnGrass,2,2017,0,40.31999999999999
+steckley,fire,livestock ex,2017-07-17,Brome,2,2017,0,40.31999999999999
+steckley,fire,livestock ex,2017-07-17,C3,2,2017,2,47.519999999999996
+steckley,fire,livestock ex,2017-07-17,C4,2,2017,0,148.06
+steckley,fire,livestock ex,2017-07-17,Forb,2,2017,0,0.0
+steckley,fire,livestock ex,2017-07-17,SD,2,2017,0,0.0
+steckley,fire,livestock ex,2017-07-17,Subshrub,2,2017,0,0.0
+steckley,fire,livestock ex,2017-07-17,Total,2,2017,2,235.89999999999998
+steckley,fire,livestock ex,2017-07-17,VUOC,2,2017,0,0.0
+steckley,fire,livestock ex,2018-07-31,AnnGrass,49,2018,6,60.02
+steckley,fire,livestock ex,2018-07-31,Brome,49,2018,6,59.24
+steckley,fire,livestock ex,2018-07-31,C3,49,2018,7,24.74
+steckley,fire,livestock ex,2018-07-31,C4,49,2018,29,102.5
+steckley,fire,livestock ex,2018-07-31,Forb,49,2018,1,14.18
+steckley,fire,livestock ex,2018-07-31,SD,49,2018,6,74.92
+steckley,fire,livestock ex,2018-07-31,Subshrub,49,2018,0,0.0
+steckley,fire,livestock ex,2018-07-31,Total,49,2018,49,276.36
+steckley,fire,livestock ex,2018-07-31,VUOC,49,2018,0,0.78
+steckley,fire,livestock ex,2019-07-30,AnnGrass,39,2019,24,94.89999999999999
+steckley,fire,livestock ex,2019-07-30,Brome,39,2019,24,94.3
+steckley,fire,livestock ex,2019-07-30,C3,39,2019,3,10.4
+steckley,fire,livestock ex,2019-07-30,C4,39,2019,11,62.3
+steckley,fire,livestock ex,2019-07-30,Forb,39,2019,1,10.5
+steckley,fire,livestock ex,2019-07-30,SD,39,2019,0,2.1
+steckley,fire,livestock ex,2019-07-30,Subshrub,39,2019,0,0.0
+steckley,fire,livestock ex,2019-07-30,Total,39,2019,39,180.2
+steckley,fire,livestock ex,2019-07-30,VUOC,39,2019,0,0.6
+steckley,fire,out,2017-07-17,AnnGrass,8,2017,0,0.5800000000000001
+steckley,fire,out,2017-07-17,Brome,8,2017,0,0.5800000000000001
+steckley,fire,out,2017-07-17,C3,8,2017,8,53.6
+steckley,fire,out,2017-07-17,C4,8,2017,0,99.63999999999999
+steckley,fire,out,2017-07-17,Forb,8,2017,0,0.0
+steckley,fire,out,2017-07-17,SD,8,2017,0,0.0
+steckley,fire,out,2017-07-17,Subshrub,8,2017,0,0.0
+steckley,fire,out,2017-07-17,Total,8,2017,8,153.82
+steckley,fire,out,2017-07-17,VUOC,8,2017,0,0.0
+steckley,fire,out,2018-07-31,AnnGrass,62,2018,0,72.84
+steckley,fire,out,2018-07-31,Brome,62,2018,0,72.58
+steckley,fire,out,2018-07-31,C3,62,2018,7,118.46
+steckley,fire,out,2018-07-31,C4,62,2018,47,20.46
+steckley,fire,out,2018-07-31,Forb,62,2018,0,12.3
+steckley,fire,out,2018-07-31,SD,62,2018,8,67.9
+steckley,fire,out,2018-07-31,Subshrub,62,2018,0,0.0
+steckley,fire,out,2018-07-31,Total,62,2018,62,291.96000000000004
+steckley,fire,out,2018-07-31,VUOC,62,2018,0,0.26
+steckley,fire,out,2019-07-30,AnnGrass,22,2019,9,20.7
+steckley,fire,out,2019-07-30,Brome,22,2019,9,20.7
+steckley,fire,out,2019-07-30,C3,22,2019,5,30.7
+steckley,fire,out,2019-07-30,C4,22,2019,7,37.9
+steckley,fire,out,2019-07-30,Forb,22,2019,1,6.72
+steckley,fire,out,2019-07-30,SD,22,2019,0,0.3
+steckley,fire,out,2019-07-30,Subshrub,22,2019,0,0.0
+steckley,fire,out,2019-07-30,Total,22,2019,22,96.32
+steckley,fire,out,2019-07-30,VUOC,22,2019,0,0.0
+steckley,fire,ungulate ex,2017-07-17,AnnGrass,21,2017,8,33.440000000000005
+steckley,fire,ungulate ex,2017-07-17,Brome,21,2017,8,33.440000000000005
+steckley,fire,ungulate ex,2017-07-17,C3,21,2017,13,229.26000000000002
+steckley,fire,ungulate ex,2017-07-17,C4,21,2017,0,0.0
+steckley,fire,ungulate ex,2017-07-17,Forb,21,2017,0,1.3600000000000012
+steckley,fire,ungulate ex,2017-07-17,SD,21,2017,0,0.0
+steckley,fire,ungulate ex,2017-07-17,Subshrub,21,2017,0,0.0
+steckley,fire,ungulate ex,2017-07-17,Total,21,2017,21,264.06000000000006
+steckley,fire,ungulate ex,2017-07-17,VUOC,21,2017,0,0.0
+steckley,fire,ungulate ex,2018-07-31,AnnGrass,50,2018,37,114.67999999999999
+steckley,fire,ungulate ex,2018-07-31,Brome,50,2018,37,113.94
+steckley,fire,ungulate ex,2018-07-31,C3,50,2018,0,7.44
+steckley,fire,ungulate ex,2018-07-31,C4,50,2018,12,58.88
+steckley,fire,ungulate ex,2018-07-31,Forb,50,2018,1,8.36
+steckley,fire,ungulate ex,2018-07-31,SD,50,2018,0,42.04
+steckley,fire,ungulate ex,2018-07-31,Subshrub,50,2018,0,0.0
+steckley,fire,ungulate ex,2018-07-31,Total,50,2018,50,231.4
+steckley,fire,ungulate ex,2018-07-31,VUOC,50,2018,0,0.74
+steckley,fire,ungulate ex,2019-07-30,AnnGrass,74,2019,21,45.1
+steckley,fire,ungulate ex,2019-07-30,Brome,74,2019,21,45.1
+steckley,fire,ungulate ex,2019-07-30,C3,74,2019,47,384.0
+steckley,fire,ungulate ex,2019-07-30,C4,74,2019,0,13.6
+steckley,fire,ungulate ex,2019-07-30,Forb,74,2019,6,4.1
+steckley,fire,ungulate ex,2019-07-30,SD,74,2019,0,0.26
+steckley,fire,ungulate ex,2019-07-30,Subshrub,74,2019,0,0.0
+steckley,fire,ungulate ex,2019-07-30,Total,74,2019,74,447.06
+steckley,fire,ungulate ex,2019-07-30,VUOC,74,2019,0,0.0
+steckley,prairie dog,livestock ex,2017-07-17,AnnGrass,24,2017,0,0.0
+steckley,prairie dog,livestock ex,2017-07-17,Brome,24,2017,0,0.0
+steckley,prairie dog,livestock ex,2017-07-17,C3,24,2017,24,90.91999999999999
+steckley,prairie dog,livestock ex,2017-07-17,C4,24,2017,0,0.0
+steckley,prairie dog,livestock ex,2017-07-17,Forb,24,2017,0,1.42
+steckley,prairie dog,livestock ex,2017-07-17,SD,24,2017,0,0.0
+steckley,prairie dog,livestock ex,2017-07-17,Subshrub,24,2017,0,0.0
+steckley,prairie dog,livestock ex,2017-07-17,Total,24,2017,24,92.33999999999999
+steckley,prairie dog,livestock ex,2017-07-17,VUOC,24,2017,0,0.0
+steckley,prairie dog,livestock ex,2018-07-31,AnnGrass,22,2018,0,0.04
+steckley,prairie dog,livestock ex,2018-07-31,Brome,22,2018,0,0.0
+steckley,prairie dog,livestock ex,2018-07-31,C3,22,2018,19,246.12
+steckley,prairie dog,livestock ex,2018-07-31,C4,22,2018,0,0.0
+steckley,prairie dog,livestock ex,2018-07-31,Forb,22,2018,3,4.98
+steckley,prairie dog,livestock ex,2018-07-31,SD,22,2018,0,0.52
+steckley,prairie dog,livestock ex,2018-07-31,Subshrub,22,2018,0,0.0
+steckley,prairie dog,livestock ex,2018-07-31,Total,22,2018,22,251.66
+steckley,prairie dog,livestock ex,2018-07-31,VUOC,22,2018,0,0.04
+steckley,prairie dog,livestock ex,2019-07-29,AnnGrass,66,2019,0,0.92
+steckley,prairie dog,livestock ex,2019-07-29,Brome,66,2019,0,0.9
+steckley,prairie dog,livestock ex,2019-07-29,C3,66,2019,55,430.2
+steckley,prairie dog,livestock ex,2019-07-29,C4,66,2019,0,0.2
+steckley,prairie dog,livestock ex,2019-07-29,Forb,66,2019,9,12.8
+steckley,prairie dog,livestock ex,2019-07-29,SD,66,2019,2,0.5
+steckley,prairie dog,livestock ex,2019-07-29,Subshrub,66,2019,0,0.0
+steckley,prairie dog,livestock ex,2019-07-29,Total,66,2019,66,444.6199999999999
+steckley,prairie dog,livestock ex,2019-07-29,VUOC,66,2019,0,0.02
+steckley,prairie dog,livestock ex,2020-08-10,AnnGrass,56,2020,0,0.0
+steckley,prairie dog,livestock ex,2020-08-10,Brome,56,2020,0,0.0
+steckley,prairie dog,livestock ex,2020-08-10,C3,56,2020,10,29.5
+steckley,prairie dog,livestock ex,2020-08-10,C4,56,2020,0,0.0
+steckley,prairie dog,livestock ex,2020-08-10,Forb,56,2020,0,0.0
+steckley,prairie dog,livestock ex,2020-08-10,SD,56,2020,46,78.18
+steckley,prairie dog,livestock ex,2020-08-10,Subshrub,56,2020,0,0.0
+steckley,prairie dog,livestock ex,2020-08-10,Total,56,2020,56,107.68
+steckley,prairie dog,livestock ex,2020-08-10,VUOC,56,2020,0,0.0
+steckley,prairie dog,out,2017-07-17,AnnGrass,25,2017,0,0.0
+steckley,prairie dog,out,2017-07-17,Brome,25,2017,0,0.0
+steckley,prairie dog,out,2017-07-17,C3,25,2017,25,141.34
+steckley,prairie dog,out,2017-07-17,C4,25,2017,0,0.2799999999999976
+steckley,prairie dog,out,2017-07-17,Forb,25,2017,0,0.29999999999999716
+steckley,prairie dog,out,2017-07-17,SD,25,2017,0,0.0
+steckley,prairie dog,out,2017-07-17,Subshrub,25,2017,0,0.0
+steckley,prairie dog,out,2017-07-17,Total,25,2017,25,141.92000000000002
+steckley,prairie dog,out,2017-07-17,VUOC,25,2017,0,0.0
+steckley,prairie dog,out,2018-07-31,AnnGrass,19,2018,0,0.0
+steckley,prairie dog,out,2018-07-31,Brome,19,2018,0,0.0
+steckley,prairie dog,out,2018-07-31,C3,19,2018,18,267.36
+steckley,prairie dog,out,2018-07-31,C4,19,2018,0,0.0
+steckley,prairie dog,out,2018-07-31,Forb,19,2018,1,6.14
+steckley,prairie dog,out,2018-07-31,SD,19,2018,0,2.22
+steckley,prairie dog,out,2018-07-31,Subshrub,19,2018,0,0.0
+steckley,prairie dog,out,2018-07-31,Total,19,2018,19,275.72
+steckley,prairie dog,out,2018-07-31,VUOC,19,2018,0,0.0
+steckley,prairie dog,out,2019-07-29,AnnGrass,28,2019,0,4.3
+steckley,prairie dog,out,2019-07-29,Brome,28,2019,0,4.3
+steckley,prairie dog,out,2019-07-29,C3,28,2019,26,423.6
+steckley,prairie dog,out,2019-07-29,C4,28,2019,0,0.14
+steckley,prairie dog,out,2019-07-29,Forb,28,2019,2,4.92
+steckley,prairie dog,out,2019-07-29,SD,28,2019,0,1.2
+steckley,prairie dog,out,2019-07-29,Subshrub,28,2019,0,0.0
+steckley,prairie dog,out,2019-07-29,Total,28,2019,28,434.15999999999997
+steckley,prairie dog,out,2019-07-29,VUOC,28,2019,0,0.0
+steckley,prairie dog,out,2020-08-10,AnnGrass,31,2020,0,0.0
+steckley,prairie dog,out,2020-08-10,Brome,31,2020,0,0.0
+steckley,prairie dog,out,2020-08-10,C3,31,2020,8,62.2
+steckley,prairie dog,out,2020-08-10,C4,31,2020,0,0.0
+steckley,prairie dog,out,2020-08-10,Forb,31,2020,3,1.54
+steckley,prairie dog,out,2020-08-10,SD,31,2020,20,91.82
+steckley,prairie dog,out,2020-08-10,Subshrub,31,2020,0,0.0
+steckley,prairie dog,out,2020-08-10,Total,31,2020,31,155.56
+steckley,prairie dog,out,2020-08-10,VUOC,31,2020,0,0.0
+steckley,prairie dog,ungulate ex,2017-07-17,AnnGrass,19,2017,0,0.0
+steckley,prairie dog,ungulate ex,2017-07-17,Brome,19,2017,0,0.0
+steckley,prairie dog,ungulate ex,2017-07-17,C3,19,2017,19,205.64
+steckley,prairie dog,ungulate ex,2017-07-17,C4,19,2017,0,0.0
+steckley,prairie dog,ungulate ex,2017-07-17,Forb,19,2017,0,0.0
+steckley,prairie dog,ungulate ex,2017-07-17,SD,19,2017,0,0.0
+steckley,prairie dog,ungulate ex,2017-07-17,Subshrub,19,2017,0,0.0
+steckley,prairie dog,ungulate ex,2017-07-17,Total,19,2017,19,205.64
+steckley,prairie dog,ungulate ex,2017-07-17,VUOC,19,2017,0,0.0
+steckley,prairie dog,ungulate ex,2018-07-31,AnnGrass,34,2018,0,0.0
+steckley,prairie dog,ungulate ex,2018-07-31,Brome,34,2018,0,0.0
+steckley,prairie dog,ungulate ex,2018-07-31,C3,34,2018,17,299.8
+steckley,prairie dog,ungulate ex,2018-07-31,C4,34,2018,0,0.0
+steckley,prairie dog,ungulate ex,2018-07-31,Forb,34,2018,17,13.1
+steckley,prairie dog,ungulate ex,2018-07-31,SD,34,2018,0,11.12
+steckley,prairie dog,ungulate ex,2018-07-31,Subshrub,34,2018,0,0.0
+steckley,prairie dog,ungulate ex,2018-07-31,Total,34,2018,34,324.02000000000004
+steckley,prairie dog,ungulate ex,2018-07-31,VUOC,34,2018,0,0.0
+steckley,prairie dog,ungulate ex,2019-07-29,AnnGrass,69,2019,0,0.0
+steckley,prairie dog,ungulate ex,2019-07-29,Brome,69,2019,0,0.0
+steckley,prairie dog,ungulate ex,2019-07-29,C3,69,2019,52,426.2
+steckley,prairie dog,ungulate ex,2019-07-29,C4,69,2019,0,0.6
+steckley,prairie dog,ungulate ex,2019-07-29,Forb,69,2019,8,55.6
+steckley,prairie dog,ungulate ex,2019-07-29,SD,69,2019,9,3.2
+steckley,prairie dog,ungulate ex,2019-07-29,Subshrub,69,2019,0,0.0
+steckley,prairie dog,ungulate ex,2019-07-29,Total,69,2019,69,485.6
+steckley,prairie dog,ungulate ex,2019-07-29,VUOC,69,2019,0,0.0
+steckley,prairie dog,ungulate ex,2020-08-10,AnnGrass,21,2020,0,0.0
+steckley,prairie dog,ungulate ex,2020-08-10,Brome,21,2020,0,0.0
+steckley,prairie dog,ungulate ex,2020-08-10,C3,21,2020,12,59.72
+steckley,prairie dog,ungulate ex,2020-08-10,C4,21,2020,0,0.0
+steckley,prairie dog,ungulate ex,2020-08-10,Forb,21,2020,2,6.7
+steckley,prairie dog,ungulate ex,2020-08-10,SD,21,2020,7,15.58
+steckley,prairie dog,ungulate ex,2020-08-10,Subshrub,21,2020,0,0.0
+steckley,prairie dog,ungulate ex,2020-08-10,Total,21,2020,21,82.0
+steckley,prairie dog,ungulate ex,2020-08-10,VUOC,21,2020,0,0.0
+west fork,control,livestock ex,2017-07-19,AnnGrass,20,2017,1,2.5600000000000023
+west fork,control,livestock ex,2017-07-19,Brome,20,2017,1,2.5600000000000023
+west fork,control,livestock ex,2017-07-19,C3,20,2017,17,87.97999999999999
+west fork,control,livestock ex,2017-07-19,C4,20,2017,0,9.120000000000001
+west fork,control,livestock ex,2017-07-19,Forb,20,2017,2,9.879999999999999
+west fork,control,livestock ex,2017-07-19,SD,20,2017,0,0.0
+west fork,control,livestock ex,2017-07-19,Subshrub,20,2017,0,53.379999999999995
+west fork,control,livestock ex,2017-07-19,Total,20,2017,20,162.92
+west fork,control,livestock ex,2017-07-19,VUOC,20,2017,0,0.0
+west fork,control,livestock ex,2018-08-01,AnnGrass,23,2018,12,51.42
+west fork,control,livestock ex,2018-08-01,Brome,23,2018,12,51.42
+west fork,control,livestock ex,2018-08-01,C3,23,2018,2,103.94
+west fork,control,livestock ex,2018-08-01,C4,23,2018,4,6.82
+west fork,control,livestock ex,2018-08-01,Forb,23,2018,4,24.28
+west fork,control,livestock ex,2018-08-01,SD,23,2018,0,59.92
+west fork,control,livestock ex,2018-08-01,Subshrub,23,2018,0,0.04
+west fork,control,livestock ex,2018-08-01,Total,23,2018,22,246.42000000000002
+west fork,control,livestock ex,2018-08-01,VUOC,23,2018,0,0.0
+west fork,control,livestock ex,2019-08-07,AnnGrass,29,2019,18,7.9
+west fork,control,livestock ex,2019-08-07,Brome,29,2019,18,7.9
+west fork,control,livestock ex,2019-08-07,C3,29,2019,4,78.1
+west fork,control,livestock ex,2019-08-07,C4,29,2019,0,0.0
+west fork,control,livestock ex,2019-08-07,Forb,29,2019,2,34.1
+west fork,control,livestock ex,2019-08-07,SD,29,2019,2,22.8
+west fork,control,livestock ex,2019-08-07,Subshrub,29,2019,3,0.2
+west fork,control,livestock ex,2019-08-07,Total,29,2019,29,143.1
+west fork,control,livestock ex,2019-08-07,VUOC,29,2019,0,0.0
+west fork,control,livestock ex,2020-08-05,AnnGrass,17,2020,8,52.1
+west fork,control,livestock ex,2020-08-05,Brome,17,2020,8,52.1
+west fork,control,livestock ex,2020-08-05,C3,17,2020,0,3.96
+west fork,control,livestock ex,2020-08-05,C4,17,2020,0,0.0
+west fork,control,livestock ex,2020-08-05,Forb,17,2020,1,5.3
+west fork,control,livestock ex,2020-08-05,SD,17,2020,7,67.7
+west fork,control,livestock ex,2020-08-05,Subshrub,17,2020,1,28.3
+west fork,control,livestock ex,2020-08-05,Total,17,2020,17,157.36
+west fork,control,livestock ex,2020-08-05,VUOC,17,2020,0,0.0
+west fork,control,out,2017-07-19,AnnGrass,26,2017,0,1.799999999999999
+west fork,control,out,2017-07-19,Brome,26,2017,0,1.4399999999999977
+west fork,control,out,2017-07-19,C3,26,2017,16,93.18
+west fork,control,out,2017-07-19,C4,26,2017,0,1.8000000000000007
+west fork,control,out,2017-07-19,Forb,26,2017,0,0.9000000000000004
+west fork,control,out,2017-07-19,SD,26,2017,0,0.0
+west fork,control,out,2017-07-19,Subshrub,26,2017,10,88.16
+west fork,control,out,2017-07-19,Total,26,2017,26,185.84
+west fork,control,out,2017-07-19,VUOC,26,2017,0,0.3600000000000012
+west fork,control,out,2018-08-01,AnnGrass,16,2018,3,9.08
+west fork,control,out,2018-08-01,Brome,16,2018,3,8.88
+west fork,control,out,2018-08-01,C3,16,2018,13,95.36
+west fork,control,out,2018-08-01,C4,16,2018,0,23.88
+west fork,control,out,2018-08-01,Forb,16,2018,0,5.24
+west fork,control,out,2018-08-01,SD,16,2018,0,44.8
+west fork,control,out,2018-08-01,Subshrub,16,2018,0,9.1
+west fork,control,out,2018-08-01,Total,16,2018,16,187.45999999999998
+west fork,control,out,2018-08-01,VUOC,16,2018,0,0.2
+west fork,control,out,2019-08-07,AnnGrass,14,2019,0,0.5
+west fork,control,out,2019-08-07,Brome,14,2019,0,0.5
+west fork,control,out,2019-08-07,C3,14,2019,12,116.3
+west fork,control,out,2019-08-07,C4,14,2019,1,17.8
+west fork,control,out,2019-08-07,Forb,14,2019,1,3.5
+west fork,control,out,2019-08-07,SD,14,2019,0,71.2
+west fork,control,out,2019-08-07,Subshrub,14,2019,0,22.8
+west fork,control,out,2019-08-07,Total,14,2019,14,232.10000000000002
+west fork,control,out,2019-08-07,VUOC,14,2019,0,0.0
+west fork,control,out,2020-08-05,AnnGrass,15,2020,1,6.8344
+west fork,control,out,2020-08-05,Brome,15,2020,1,6.76
+west fork,control,out,2020-08-05,C3,15,2020,8,51.4
+west fork,control,out,2020-08-05,C4,15,2020,0,4.7
+west fork,control,out,2020-08-05,Forb,15,2020,0,0.54
+west fork,control,out,2020-08-05,SD,15,2020,6,48.28
+west fork,control,out,2020-08-05,Subshrub,15,2020,0,0.76
+west fork,control,out,2020-08-05,Total,15,2020,15,112.5144
+west fork,control,out,2020-08-05,VUOC,15,2020,0,0.0744
+west fork,control,ungulate ex,2017-07-19,AnnGrass,22,2017,0,6.4399999999999995
+west fork,control,ungulate ex,2017-07-19,Brome,22,2017,0,6.379999999999999
+west fork,control,ungulate ex,2017-07-19,C3,22,2017,7,80.6
+west fork,control,ungulate ex,2017-07-19,C4,22,2017,15,14.060000000000002
+west fork,control,ungulate ex,2017-07-19,Forb,22,2017,0,0.9000000000000004
+west fork,control,ungulate ex,2017-07-19,SD,22,2017,0,0.0
+west fork,control,ungulate ex,2017-07-19,Subshrub,22,2017,0,0.0
+west fork,control,ungulate ex,2017-07-19,Total,22,2017,22,102.0
+west fork,control,ungulate ex,2017-07-19,VUOC,22,2017,0,0.0600000000000005
+west fork,control,ungulate ex,2018-08-01,AnnGrass,20,2018,0,0.19999999999999998
+west fork,control,ungulate ex,2018-08-01,Brome,20,2018,0,0.18
+west fork,control,ungulate ex,2018-08-01,C3,20,2018,8,51.5
+west fork,control,ungulate ex,2018-08-01,C4,20,2018,2,11.2
+west fork,control,ungulate ex,2018-08-01,Forb,20,2018,0,1.24
+west fork,control,ungulate ex,2018-08-01,SD,20,2018,0,14.1
+west fork,control,ungulate ex,2018-08-01,Subshrub,20,2018,0,44.1
+west fork,control,ungulate ex,2018-08-01,Total,20,2018,10,122.34
+west fork,control,ungulate ex,2018-08-01,VUOC,20,2018,0,0.02
+west fork,control,ungulate ex,2019-08-07,AnnGrass,27,2019,1,
+west fork,control,ungulate ex,2019-08-07,Brome,27,2019,1,
+west fork,control,ungulate ex,2019-08-07,C3,27,2019,0,0.0
+west fork,control,ungulate ex,2019-08-07,C4,27,2019,0,6.2
+west fork,control,ungulate ex,2019-08-07,Forb,27,2019,3,3.0
+west fork,control,ungulate ex,2019-08-07,SD,27,2019,5,21.0
+west fork,control,ungulate ex,2019-08-07,Subshrub,27,2019,3,0.0
+west fork,control,ungulate ex,2019-08-07,Total,27,2019,12,30.22
+west fork,control,ungulate ex,2019-08-07,VUOC,27,2019,0,0.02
+west fork,control,ungulate ex,2020-08-05,AnnGrass,10,2020,2,11.5364
+west fork,control,ungulate ex,2020-08-05,Brome,10,2020,2,11.22
+west fork,control,ungulate ex,2020-08-05,C3,10,2020,2,24.44
+west fork,control,ungulate ex,2020-08-05,C4,10,2020,3,4.7
+west fork,control,ungulate ex,2020-08-05,Forb,10,2020,0,
+west fork,control,ungulate ex,2020-08-05,SD,10,2020,2,58.2
+west fork,control,ungulate ex,2020-08-05,Subshrub,10,2020,1,22.1
+west fork,control,ungulate ex,2020-08-05,Total,10,2020,10,121.57640000000002
+west fork,control,ungulate ex,2020-08-05,VUOC,10,2020,0,0.3164
+west fork,fire,livestock ex,2017-07-19,AnnGrass,19,2017,0,0.0
+west fork,fire,livestock ex,2017-07-19,Brome,19,2017,0,0.0
+west fork,fire,livestock ex,2017-07-19,C3,19,2017,19,115.9
+west fork,fire,livestock ex,2017-07-19,C4,19,2017,0,13.280000000000001
+west fork,fire,livestock ex,2017-07-19,Forb,19,2017,0,10.0
+west fork,fire,livestock ex,2017-07-19,SD,19,2017,0,0.0
+west fork,fire,livestock ex,2017-07-19,Subshrub,19,2017,0,0.0
+west fork,fire,livestock ex,2017-07-19,Total,19,2017,19,139.18
+west fork,fire,livestock ex,2017-07-19,VUOC,19,2017,0,0.0
+west fork,fire,livestock ex,2018-08-01,AnnGrass,10,2018,0,0.0
+west fork,fire,livestock ex,2018-08-01,Brome,10,2018,0,0.0
+west fork,fire,livestock ex,2018-08-01,C3,10,2018,7,107.24
+west fork,fire,livestock ex,2018-08-01,C4,10,2018,0,1.44
+west fork,fire,livestock ex,2018-08-01,Forb,10,2018,3,98.24
+west fork,fire,livestock ex,2018-08-01,SD,10,2018,0,27.06
+west fork,fire,livestock ex,2018-08-01,Subshrub,10,2018,0,1.86
+west fork,fire,livestock ex,2018-08-01,Total,10,2018,10,235.84
+west fork,fire,livestock ex,2018-08-01,VUOC,10,2018,0,0.0
+west fork,fire,livestock ex,2019-08-07,AnnGrass,23,2019,0,0.3
+west fork,fire,livestock ex,2019-08-07,Brome,23,2019,0,0.3
+west fork,fire,livestock ex,2019-08-07,C3,23,2019,20,153.8
+west fork,fire,livestock ex,2019-08-07,C4,23,2019,0,0.0
+west fork,fire,livestock ex,2019-08-07,Forb,23,2019,3,10.5
+west fork,fire,livestock ex,2019-08-07,SD,23,2019,0,34.1
+west fork,fire,livestock ex,2019-08-07,Subshrub,23,2019,0,0.0
+west fork,fire,livestock ex,2019-08-07,Total,23,2019,23,198.70000000000002
+west fork,fire,livestock ex,2019-08-07,VUOC,23,2019,0,0.0
+west fork,fire,livestock ex,2020-08-05,AnnGrass,24,2020,5,3.18
+west fork,fire,livestock ex,2020-08-05,Brome,24,2020,5,3.18
+west fork,fire,livestock ex,2020-08-05,C3,24,2020,17,78.8
+west fork,fire,livestock ex,2020-08-05,C4,24,2020,2,2.14
+west fork,fire,livestock ex,2020-08-05,Forb,24,2020,0,1.06
+west fork,fire,livestock ex,2020-08-05,SD,24,2020,0,70.1
+west fork,fire,livestock ex,2020-08-05,Subshrub,24,2020,0,0.0
+west fork,fire,livestock ex,2020-08-05,Total,24,2020,24,155.27999999999997
+west fork,fire,livestock ex,2020-08-05,VUOC,24,2020,0,0.0
+west fork,fire,out,2017-07-19,AnnGrass,17,2017,0,1.1400000000000006
+west fork,fire,out,2017-07-19,Brome,17,2017,0,1.1400000000000006
+west fork,fire,out,2017-07-19,C3,17,2017,13,94.78
+west fork,fire,out,2017-07-19,C4,17,2017,0,10.5
+west fork,fire,out,2017-07-19,Forb,17,2017,4,11.260000000000002
+west fork,fire,out,2017-07-19,SD,17,2017,0,0.0
+west fork,fire,out,2017-07-19,Subshrub,17,2017,0,0.0
+west fork,fire,out,2017-07-19,Total,17,2017,17,117.68
+west fork,fire,out,2017-07-19,VUOC,17,2017,0,0.0
+west fork,fire,out,2018-08-01,AnnGrass,24,2018,4,19.98
+west fork,fire,out,2018-08-01,Brome,24,2018,4,19.98
+west fork,fire,out,2018-08-01,C3,24,2018,9,142.38
+west fork,fire,out,2018-08-01,C4,24,2018,11,7.42
+west fork,fire,out,2018-08-01,Forb,24,2018,0,14.64
+west fork,fire,out,2018-08-01,SD,24,2018,0,42.9
+west fork,fire,out,2018-08-01,Subshrub,24,2018,0,0.0
+west fork,fire,out,2018-08-01,Total,24,2018,24,227.31999999999996
+west fork,fire,out,2018-08-01,VUOC,24,2018,0,0.0
+west fork,fire,out,2019-08-07,AnnGrass,13,2019,0,6.5
+west fork,fire,out,2019-08-07,Brome,13,2019,0,6.5
+west fork,fire,out,2019-08-07,C3,13,2019,9,84.5
+west fork,fire,out,2019-08-07,C4,13,2019,0,2.2
+west fork,fire,out,2019-08-07,Forb,13,2019,0,2.3
+west fork,fire,out,2019-08-07,SD,13,2019,0,26.3
+west fork,fire,out,2019-08-07,Subshrub,13,2019,4,5.5
+west fork,fire,out,2019-08-07,Total,13,2019,13,127.30000000000001
+west fork,fire,out,2019-08-07,VUOC,13,2019,0,0.0
+west fork,fire,out,2020-08-05,AnnGrass,12,2020,0,0.0
+west fork,fire,out,2020-08-05,Brome,12,2020,0,0.0
+west fork,fire,out,2020-08-05,C3,12,2020,7,44.14
+west fork,fire,out,2020-08-05,C4,12,2020,3,8.9
+west fork,fire,out,2020-08-05,Forb,12,2020,1,5.359999999999999
+west fork,fire,out,2020-08-05,SD,12,2020,1,15.3
+west fork,fire,out,2020-08-05,Subshrub,12,2020,0,3.12
+west fork,fire,out,2020-08-05,Total,12,2020,12,76.82000000000001
+west fork,fire,out,2020-08-05,VUOC,12,2020,0,0.0
+west fork,fire,ungulate ex,2017-07-19,AnnGrass,20,2017,2,5.859999999999999
+west fork,fire,ungulate ex,2017-07-19,Brome,20,2017,2,5.859999999999999
+west fork,fire,ungulate ex,2017-07-19,C3,20,2017,15,155.56
+west fork,fire,ungulate ex,2017-07-19,C4,20,2017,0,0.4599999999999973
+west fork,fire,ungulate ex,2017-07-19,Forb,20,2017,3,16.039999999999996
+west fork,fire,ungulate ex,2017-07-19,SD,20,2017,0,0.0
+west fork,fire,ungulate ex,2017-07-19,Subshrub,20,2017,0,0.0
+west fork,fire,ungulate ex,2017-07-19,Total,20,2017,20,177.92
+west fork,fire,ungulate ex,2017-07-19,VUOC,20,2017,0,0.0
+west fork,fire,ungulate ex,2018-08-01,AnnGrass,26,2018,6,11.1
+west fork,fire,ungulate ex,2018-08-01,Brome,26,2018,6,11.1
+west fork,fire,ungulate ex,2018-08-01,C3,26,2018,10,136.72
+west fork,fire,ungulate ex,2018-08-01,C4,26,2018,4,24.64
+west fork,fire,ungulate ex,2018-08-01,Forb,26,2018,3,22.0
+west fork,fire,ungulate ex,2018-08-01,SD,26,2018,3,30.08
+west fork,fire,ungulate ex,2018-08-01,Subshrub,26,2018,0,0.0
+west fork,fire,ungulate ex,2018-08-01,Total,26,2018,26,224.54000000000002
+west fork,fire,ungulate ex,2018-08-01,VUOC,26,2018,0,0.0
+west fork,fire,ungulate ex,2019-08-07,AnnGrass,51,2019,30,61.9
+west fork,fire,ungulate ex,2019-08-07,Brome,51,2019,30,61.9
+west fork,fire,ungulate ex,2019-08-07,C3,51,2019,19,150.9
+west fork,fire,ungulate ex,2019-08-07,C4,51,2019,0,9.5
+west fork,fire,ungulate ex,2019-08-07,Forb,51,2019,2,41.4
+west fork,fire,ungulate ex,2019-08-07,SD,51,2019,0,8.8
+west fork,fire,ungulate ex,2019-08-07,Subshrub,51,2019,0,0.0
+west fork,fire,ungulate ex,2019-08-07,Total,51,2019,51,272.50000000000006
+west fork,fire,ungulate ex,2019-08-07,VUOC,51,2019,0,0.0
+west fork,fire,ungulate ex,2020-08-05,AnnGrass,24,2020,8,18.28
+west fork,fire,ungulate ex,2020-08-05,Brome,24,2020,8,18.28
+west fork,fire,ungulate ex,2020-08-05,C3,24,2020,1,17.46
+west fork,fire,ungulate ex,2020-08-05,C4,24,2020,1,5.56
+west fork,fire,ungulate ex,2020-08-05,Forb,24,2020,1,5.1
+west fork,fire,ungulate ex,2020-08-05,SD,24,2020,5,27.28
+west fork,fire,ungulate ex,2020-08-05,Subshrub,24,2020,0,0.0
+west fork,fire,ungulate ex,2020-08-05,Total,24,2020,16,73.67999999999999
+west fork,fire,ungulate ex,2020-08-05,VUOC,24,2020,0,0.0
+west fork,prairie dog,livestock ex,2017-07-19,AnnGrass,9,2017,0,0.0
+west fork,prairie dog,livestock ex,2017-07-19,Brome,9,2017,0,0.0
+west fork,prairie dog,livestock ex,2017-07-19,C3,9,2017,9,84.66
+west fork,prairie dog,livestock ex,2017-07-19,C4,9,2017,0,0.0
+west fork,prairie dog,livestock ex,2017-07-19,Forb,9,2017,0,0.6400000000000006
+west fork,prairie dog,livestock ex,2017-07-19,SD,9,2017,0,0.0
+west fork,prairie dog,livestock ex,2017-07-19,Subshrub,9,2017,0,0.0
+west fork,prairie dog,livestock ex,2017-07-19,Total,9,2017,9,85.3
+west fork,prairie dog,livestock ex,2017-07-19,VUOC,9,2017,0,0.0
+west fork,prairie dog,livestock ex,2018-08-01,AnnGrass,18,2018,0,0.5
+west fork,prairie dog,livestock ex,2018-08-01,Brome,18,2018,0,0.5
+west fork,prairie dog,livestock ex,2018-08-01,C3,18,2018,10,103.36
+west fork,prairie dog,livestock ex,2018-08-01,C4,18,2018,2,0.88
+west fork,prairie dog,livestock ex,2018-08-01,Forb,18,2018,6,25.96
+west fork,prairie dog,livestock ex,2018-08-01,SD,18,2018,0,2.92
+west fork,prairie dog,livestock ex,2018-08-01,Subshrub,18,2018,0,0.0
+west fork,prairie dog,livestock ex,2018-08-01,Total,18,2018,18,133.61999999999998
+west fork,prairie dog,livestock ex,2018-08-01,VUOC,18,2018,0,0.0
+west fork,prairie dog,livestock ex,2019-08-07,AnnGrass,24,2019,0,0.0
+west fork,prairie dog,livestock ex,2019-08-07,Brome,24,2019,0,0.0
+west fork,prairie dog,livestock ex,2019-08-07,C3,24,2019,13,
+west fork,prairie dog,livestock ex,2019-08-07,C4,24,2019,0,0.0
+west fork,prairie dog,livestock ex,2019-08-07,Forb,24,2019,5,41.2
+west fork,prairie dog,livestock ex,2019-08-07,SD,24,2019,6,15.2
+west fork,prairie dog,livestock ex,2019-08-07,Subshrub,24,2019,0,0.0
+west fork,prairie dog,livestock ex,2019-08-07,Total,24,2019,24,56.400000000000006
+west fork,prairie dog,livestock ex,2019-08-07,VUOC,24,2019,0,0.0
+west fork,prairie dog,livestock ex,2020-08-05,AnnGrass,22,2020,0,0.0
+west fork,prairie dog,livestock ex,2020-08-05,Brome,22,2020,0,0.0
+west fork,prairie dog,livestock ex,2020-08-05,C3,22,2020,6,56.86
+west fork,prairie dog,livestock ex,2020-08-05,C4,22,2020,0,0.0
+west fork,prairie dog,livestock ex,2020-08-05,Forb,22,2020,2,6.4
+west fork,prairie dog,livestock ex,2020-08-05,SD,22,2020,14,81.8
+west fork,prairie dog,livestock ex,2020-08-05,Subshrub,22,2020,0,0.0
+west fork,prairie dog,livestock ex,2020-08-05,Total,22,2020,22,145.06
+west fork,prairie dog,livestock ex,2020-08-05,VUOC,22,2020,0,0.0
+west fork,prairie dog,out,2017-07-19,AnnGrass,21,2017,0,0.020000000000000018
+west fork,prairie dog,out,2017-07-19,Brome,21,2017,0,0.0
+west fork,prairie dog,out,2017-07-19,C3,21,2017,17,66.67999999999999
+west fork,prairie dog,out,2017-07-19,C4,21,2017,1,1.3399999999999999
+west fork,prairie dog,out,2017-07-19,Forb,21,2017,3,22.16
+west fork,prairie dog,out,2017-07-19,SD,21,2017,0,0.0
+west fork,prairie dog,out,2017-07-19,Subshrub,21,2017,0,0.0
+west fork,prairie dog,out,2017-07-19,Total,21,2017,21,90.19999999999999
+west fork,prairie dog,out,2017-07-19,VUOC,21,2017,0,0.020000000000000018
+west fork,prairie dog,out,2018-08-01,AnnGrass,17,2018,0,0.0
+west fork,prairie dog,out,2018-08-01,Brome,17,2018,0,0.0
+west fork,prairie dog,out,2018-08-01,C3,17,2018,4,96.62
+west fork,prairie dog,out,2018-08-01,C4,17,2018,10,5.92
+west fork,prairie dog,out,2018-08-01,Forb,17,2018,3,46.68
+west fork,prairie dog,out,2018-08-01,SD,17,2018,0,1.28
+west fork,prairie dog,out,2018-08-01,Subshrub,17,2018,0,0.1
+west fork,prairie dog,out,2018-08-01,Total,17,2018,17,150.6
+west fork,prairie dog,out,2018-08-01,VUOC,17,2018,0,0.0
+west fork,prairie dog,out,2019-08-07,AnnGrass,26,2019,0,0.4
+west fork,prairie dog,out,2019-08-07,Brome,26,2019,0,0.0
+west fork,prairie dog,out,2019-08-07,C3,26,2019,15,150.3
+west fork,prairie dog,out,2019-08-07,C4,26,2019,0,0.0
+west fork,prairie dog,out,2019-08-07,Forb,26,2019,9,50.199999999999996
+west fork,prairie dog,out,2019-08-07,SD,26,2019,2,7.1
+west fork,prairie dog,out,2019-08-07,Subshrub,26,2019,0,0.0
+west fork,prairie dog,out,2019-08-07,Total,26,2019,26,208.00000000000003
+west fork,prairie dog,out,2019-08-07,VUOC,26,2019,0,0.4
+west fork,prairie dog,out,2020-08-05,AnnGrass,13,2020,0,0.0
+west fork,prairie dog,out,2020-08-05,Brome,13,2020,0,0.0
+west fork,prairie dog,out,2020-08-05,C3,13,2020,4,33.5
+west fork,prairie dog,out,2020-08-05,C4,13,2020,0,0.0
+west fork,prairie dog,out,2020-08-05,Forb,13,2020,0,0.7999999999999999
+west fork,prairie dog,out,2020-08-05,SD,13,2020,9,79.02
+west fork,prairie dog,out,2020-08-05,Subshrub,13,2020,0,0.9
+west fork,prairie dog,out,2020-08-05,Total,13,2020,13,114.22
+west fork,prairie dog,out,2020-08-05,VUOC,13,2020,0,0.0
+west fork,prairie dog,ungulate ex,2017-07-19,AnnGrass,8,2017,0,0.0
+west fork,prairie dog,ungulate ex,2017-07-19,Brome,8,2017,0,0.0
+west fork,prairie dog,ungulate ex,2017-07-19,C3,8,2017,7,26.080000000000005
+west fork,prairie dog,ungulate ex,2017-07-19,C4,8,2017,0,0.3000000000000007
+west fork,prairie dog,ungulate ex,2017-07-19,Forb,8,2017,1,14.780000000000001
+west fork,prairie dog,ungulate ex,2017-07-19,SD,8,2017,0,0.0
+west fork,prairie dog,ungulate ex,2017-07-19,Subshrub,8,2017,0,0.0
+west fork,prairie dog,ungulate ex,2017-07-19,Total,8,2017,8,41.16000000000001
+west fork,prairie dog,ungulate ex,2017-07-19,VUOC,8,2017,0,0.0
+west fork,prairie dog,ungulate ex,2018-08-01,AnnGrass,16,2018,0,0.0
+west fork,prairie dog,ungulate ex,2018-08-01,Brome,16,2018,0,0.0
+west fork,prairie dog,ungulate ex,2018-08-01,C3,16,2018,10,117.7
+west fork,prairie dog,ungulate ex,2018-08-01,C4,16,2018,0,3.22
+west fork,prairie dog,ungulate ex,2018-08-01,Forb,16,2018,6,37.82
+west fork,prairie dog,ungulate ex,2018-08-01,SD,16,2018,0,6.7
+west fork,prairie dog,ungulate ex,2018-08-01,Subshrub,16,2018,0,0.0
+west fork,prairie dog,ungulate ex,2018-08-01,Total,16,2018,16,165.44
+west fork,prairie dog,ungulate ex,2018-08-01,VUOC,16,2018,0,0.0
+west fork,prairie dog,ungulate ex,2019-08-07,AnnGrass,28,2019,0,0.06
+west fork,prairie dog,ungulate ex,2019-08-07,Brome,28,2019,0,0.0
+west fork,prairie dog,ungulate ex,2019-08-07,C3,28,2019,22,253.7
+west fork,prairie dog,ungulate ex,2019-08-07,C4,28,2019,0,0.8
+west fork,prairie dog,ungulate ex,2019-08-07,Forb,28,2019,4,40.2
+west fork,prairie dog,ungulate ex,2019-08-07,SD,28,2019,2,14.3
+west fork,prairie dog,ungulate ex,2019-08-07,Subshrub,28,2019,0,0.0
+west fork,prairie dog,ungulate ex,2019-08-07,Total,28,2019,28,309.06
+west fork,prairie dog,ungulate ex,2019-08-07,VUOC,28,2019,0,0.06
+west fork,prairie dog,ungulate ex,2020-08-05,AnnGrass,46,2020,0,0.0
+west fork,prairie dog,ungulate ex,2020-08-05,Brome,46,2020,0,0.0
+west fork,prairie dog,ungulate ex,2020-08-05,C3,46,2020,22,63.2
+west fork,prairie dog,ungulate ex,2020-08-05,C4,46,2020,0,0.0
+west fork,prairie dog,ungulate ex,2020-08-05,Forb,46,2020,0,0.3296
+west fork,prairie dog,ungulate ex,2020-08-05,SD,46,2020,24,208.4
+west fork,prairie dog,ungulate ex,2020-08-05,Subshrub,46,2020,0,0.0
+west fork,prairie dog,ungulate ex,2020-08-05,Total,46,2020,46,271.9296
+west fork,prairie dog,ungulate ex,2020-08-05,VUOC,46,2020,0,0.0
+wildcat,control,livestock ex,2017-07-18,AnnGrass,23,2017,0,0.0
+wildcat,control,livestock ex,2017-07-18,Brome,23,2017,0,0.0
+wildcat,control,livestock ex,2017-07-18,C3,23,2017,23,59.379999999999995
+wildcat,control,livestock ex,2017-07-18,C4,23,2017,0,10.379999999999999
+wildcat,control,livestock ex,2017-07-18,Forb,23,2017,0,1.2200000000000006
+wildcat,control,livestock ex,2017-07-18,SD,23,2017,0,0.0
+wildcat,control,livestock ex,2017-07-18,Subshrub,23,2017,0,0.0
+wildcat,control,livestock ex,2017-07-18,Total,23,2017,23,70.97999999999999
+wildcat,control,livestock ex,2017-07-18,VUOC,23,2017,0,0.0
+wildcat,control,livestock ex,2018-08-02,AnnGrass,32,2018,0,4.2
+wildcat,control,livestock ex,2018-08-02,Brome,32,2018,0,3.3
+wildcat,control,livestock ex,2018-08-02,C3,32,2018,24,157.38
+wildcat,control,livestock ex,2018-08-02,C4,32,2018,8,48.9
+wildcat,control,livestock ex,2018-08-02,Forb,32,2018,0,4.2
+wildcat,control,livestock ex,2018-08-02,SD,32,2018,0,27.7
+wildcat,control,livestock ex,2018-08-02,Subshrub,32,2018,0,0.0
+wildcat,control,livestock ex,2018-08-02,Total,32,2018,32,242.38
+wildcat,control,livestock ex,2018-08-02,VUOC,32,2018,0,0.9
+wildcat,control,livestock ex,2019-08-05,AnnGrass,47,2019,0,0.06
+wildcat,control,livestock ex,2019-08-05,Brome,47,2019,0,0.06
+wildcat,control,livestock ex,2019-08-05,C3,47,2019,40,126.9
+wildcat,control,livestock ex,2019-08-05,C4,47,2019,5,36.3
+wildcat,control,livestock ex,2019-08-05,Forb,47,2019,0,2.9
+wildcat,control,livestock ex,2019-08-05,SD,47,2019,2,24.1
+wildcat,control,livestock ex,2019-08-05,Subshrub,47,2019,0,0.0
+wildcat,control,livestock ex,2019-08-05,Total,47,2019,47,190.26
+wildcat,control,livestock ex,2019-08-05,VUOC,47,2019,0,0.0
+wildcat,control,livestock ex,2020-08-06,AnnGrass,15,2020,0,0.0618
+wildcat,control,livestock ex,2020-08-06,Brome,15,2020,0,0.0218
+wildcat,control,livestock ex,2020-08-06,C3,15,2020,11,38.86
+wildcat,control,livestock ex,2020-08-06,C4,15,2020,4,11.46
+wildcat,control,livestock ex,2020-08-06,Forb,15,2020,0,
+wildcat,control,livestock ex,2020-08-06,SD,15,2020,0,18.74
+wildcat,control,livestock ex,2020-08-06,Subshrub,15,2020,0,0.0
+wildcat,control,livestock ex,2020-08-06,Total,15,2020,15,69.155
+wildcat,control,livestock ex,2020-08-06,VUOC,15,2020,0,0.04
+wildcat,control,out,2017-07-18,AnnGrass,24,2017,0,0.0
+wildcat,control,out,2017-07-18,Brome,24,2017,0,0.0
+wildcat,control,out,2017-07-18,C3,24,2017,12,40.26
+wildcat,control,out,2017-07-18,C4,24,2017,12,9.899999999999999
+wildcat,control,out,2017-07-18,Forb,24,2017,0,1.0399999999999991
+wildcat,control,out,2017-07-18,SD,24,2017,0,0.0
+wildcat,control,out,2017-07-18,Subshrub,24,2017,0,0.0
+wildcat,control,out,2017-07-18,Total,24,2017,24,51.199999999999996
+wildcat,control,out,2017-07-18,VUOC,24,2017,0,0.0
+wildcat,control,out,2018-08-02,AnnGrass,29,2018,0,0.6
+wildcat,control,out,2018-08-02,Brome,29,2018,0,0.22
+wildcat,control,out,2018-08-02,C3,29,2018,20,46.22
+wildcat,control,out,2018-08-02,C4,29,2018,9,45.54
+wildcat,control,out,2018-08-02,Forb,29,2018,0,2.36
+wildcat,control,out,2018-08-02,SD,29,2018,0,1.82
+wildcat,control,out,2018-08-02,Subshrub,29,2018,0,0.0
+wildcat,control,out,2018-08-02,Total,29,2018,29,96.53999999999998
+wildcat,control,out,2018-08-02,VUOC,29,2018,0,0.38
+wildcat,control,out,2019-08-05,AnnGrass,9,2019,0,0.02
+wildcat,control,out,2019-08-05,Brome,9,2019,0,0.02
+wildcat,control,out,2019-08-05,C3,9,2019,6,33.7
+wildcat,control,out,2019-08-05,C4,9,2019,3,18.1
+wildcat,control,out,2019-08-05,Forb,9,2019,0,3.8000000000000003
+wildcat,control,out,2019-08-05,SD,9,2019,0,1.1
+wildcat,control,out,2019-08-05,Subshrub,9,2019,0,0.0
+wildcat,control,out,2019-08-05,Total,9,2019,9,56.72000000000001
+wildcat,control,out,2019-08-05,VUOC,9,2019,0,0.0
+wildcat,control,out,2020-08-06,AnnGrass,16,2020,0,
+wildcat,control,out,2020-08-06,Brome,16,2020,0,0.0
+wildcat,control,out,2020-08-06,C3,16,2020,8,28.0
+wildcat,control,out,2020-08-06,C4,16,2020,5,6.76
+wildcat,control,out,2020-08-06,Forb,16,2020,0,3.6
+wildcat,control,out,2020-08-06,SD,16,2020,0,19.9
+wildcat,control,out,2020-08-06,Subshrub,16,2020,0,0.0
+wildcat,control,out,2020-08-06,Total,16,2020,13,58.26
+wildcat,control,out,2020-08-06,VUOC,16,2020,0,
+wildcat,control,ungulate ex,2017-07-18,AnnGrass,18,2017,0,0.6400000000000006
+wildcat,control,ungulate ex,2017-07-18,Brome,18,2017,0,0.6400000000000006
+wildcat,control,ungulate ex,2017-07-18,C3,18,2017,11,116.0
+wildcat,control,ungulate ex,2017-07-18,C4,18,2017,7,7.599999999999998
+wildcat,control,ungulate ex,2017-07-18,Forb,18,2017,0,1.9400000000000013
+wildcat,control,ungulate ex,2017-07-18,SD,18,2017,0,0.0
+wildcat,control,ungulate ex,2017-07-18,Subshrub,18,2017,0,0.0
+wildcat,control,ungulate ex,2017-07-18,Total,18,2017,18,126.17999999999999
+wildcat,control,ungulate ex,2017-07-18,VUOC,18,2017,0,0.0
+wildcat,control,ungulate ex,2018-08-02,AnnGrass,16,2018,1,9.3
+wildcat,control,ungulate ex,2018-08-02,Brome,16,2018,1,8.16
+wildcat,control,ungulate ex,2018-08-02,C3,16,2018,3,30.26
+wildcat,control,ungulate ex,2018-08-02,C4,16,2018,8,39.5
+wildcat,control,ungulate ex,2018-08-02,Forb,16,2018,0,13.4
+wildcat,control,ungulate ex,2018-08-02,SD,16,2018,4,8.12
+wildcat,control,ungulate ex,2018-08-02,Subshrub,16,2018,0,0.0
+wildcat,control,ungulate ex,2018-08-02,Total,16,2018,16,100.58000000000001
+wildcat,control,ungulate ex,2018-08-02,VUOC,16,2018,0,1.14
+wildcat,control,ungulate ex,2019-08-05,AnnGrass,10,2019,0,0.4
+wildcat,control,ungulate ex,2019-08-05,Brome,10,2019,0,0.4
+wildcat,control,ungulate ex,2019-08-05,C3,10,2019,0,0.6
+wildcat,control,ungulate ex,2019-08-05,C4,10,2019,0,0.0
+wildcat,control,ungulate ex,2019-08-05,Forb,10,2019,0,0.8
+wildcat,control,ungulate ex,2019-08-05,SD,10,2019,0,0.0
+wildcat,control,ungulate ex,2019-08-05,Subshrub,10,2019,10,25.1
+wildcat,control,ungulate ex,2019-08-05,Total,10,2019,10,26.900000000000002
+wildcat,control,ungulate ex,2019-08-05,VUOC,10,2019,0,0.0
+wildcat,control,ungulate ex,2020-08-06,AnnGrass,9,2020,0,1.1
+wildcat,control,ungulate ex,2020-08-06,Brome,9,2020,0,1.1
+wildcat,control,ungulate ex,2020-08-06,C3,9,2020,4,21.2
+wildcat,control,ungulate ex,2020-08-06,C4,9,2020,2,10.2
+wildcat,control,ungulate ex,2020-08-06,Forb,9,2020,0,1.16
+wildcat,control,ungulate ex,2020-08-06,SD,9,2020,3,26.3
+wildcat,control,ungulate ex,2020-08-06,Subshrub,9,2020,0,0.0
+wildcat,control,ungulate ex,2020-08-06,Total,9,2020,9,59.96000000000001
+wildcat,control,ungulate ex,2020-08-06,VUOC,9,2020,0,0.0
+wildcat,fire,livestock ex,2017-07-18,AnnGrass,19,2017,0,0.6600000000000001
+wildcat,fire,livestock ex,2017-07-18,Brome,19,2017,0,0.33999999999999986
+wildcat,fire,livestock ex,2017-07-18,C3,19,2017,1,63.88
+wildcat,fire,livestock ex,2017-07-18,C4,19,2017,18,30.800000000000004
+wildcat,fire,livestock ex,2017-07-18,Forb,19,2017,0,1.0
+wildcat,fire,livestock ex,2017-07-18,SD,19,2017,0,0.0
+wildcat,fire,livestock ex,2017-07-18,Subshrub,19,2017,0,0.0
+wildcat,fire,livestock ex,2017-07-18,Total,19,2017,19,96.34
+wildcat,fire,livestock ex,2017-07-18,VUOC,19,2017,0,0.3200000000000003
+wildcat,fire,livestock ex,2018-08-06,AnnGrass,50,2018,17,77.60000000000001
+wildcat,fire,livestock ex,2018-08-06,Brome,50,2018,12,74.76
+wildcat,fire,livestock ex,2018-08-06,C3,50,2018,17,108.12
+wildcat,fire,livestock ex,2018-08-06,C4,50,2018,16,71.78
+wildcat,fire,livestock ex,2018-08-06,Forb,50,2018,0,5.8
+wildcat,fire,livestock ex,2018-08-06,SD,50,2018,0,26.52
+wildcat,fire,livestock ex,2018-08-06,Subshrub,50,2018,0,0.0
+wildcat,fire,livestock ex,2018-08-06,Total,50,2018,50,289.82
+wildcat,fire,livestock ex,2018-08-06,VUOC,50,2018,5,2.84
+wildcat,fire,livestock ex,2019-08-05,AnnGrass,35,2019,6,23.04
+wildcat,fire,livestock ex,2019-08-05,Brome,35,2019,6,23.0
+wildcat,fire,livestock ex,2019-08-05,C3,35,2019,6,112.7
+wildcat,fire,livestock ex,2019-08-05,C4,35,2019,7,33.0
+wildcat,fire,livestock ex,2019-08-05,Forb,35,2019,3,11.3
+wildcat,fire,livestock ex,2019-08-05,SD,35,2019,13,85.1
+wildcat,fire,livestock ex,2019-08-05,Subshrub,35,2019,0,0.0
+wildcat,fire,livestock ex,2019-08-05,Total,35,2019,35,265.14
+wildcat,fire,livestock ex,2019-08-05,VUOC,35,2019,0,0.04
+wildcat,fire,livestock ex,2020-08-06,AnnGrass,22,2020,1,7.103199999999999
+wildcat,fire,livestock ex,2020-08-06,Brome,22,2020,1,7.1
+wildcat,fire,livestock ex,2020-08-06,C3,22,2020,4,27.6
+wildcat,fire,livestock ex,2020-08-06,C4,22,2020,7,20.4
+wildcat,fire,livestock ex,2020-08-06,Forb,22,2020,0,0.1
+wildcat,fire,livestock ex,2020-08-06,SD,22,2020,10,75.68
+wildcat,fire,livestock ex,2020-08-06,Subshrub,22,2020,0,0.0
+wildcat,fire,livestock ex,2020-08-06,Total,22,2020,22,130.88320000000002
+wildcat,fire,livestock ex,2020-08-06,VUOC,22,2020,0,0.0032
+wildcat,fire,out,2017-07-18,AnnGrass,11,2017,0,0.41999999999999815
+wildcat,fire,out,2017-07-18,Brome,11,2017,0,0.41999999999999815
+wildcat,fire,out,2017-07-18,C3,11,2017,11,120.41999999999999
+wildcat,fire,out,2017-07-18,C4,11,2017,0,2.6400000000000006
+wildcat,fire,out,2017-07-18,Forb,11,2017,0,0.0
+wildcat,fire,out,2017-07-18,SD,11,2017,0,0.0
+wildcat,fire,out,2017-07-18,Subshrub,11,2017,0,0.6000000000000014
+wildcat,fire,out,2017-07-18,Total,11,2017,11,124.07999999999998
+wildcat,fire,out,2017-07-18,VUOC,11,2017,0,0.0
+wildcat,fire,out,2018-08-06,AnnGrass,24,2018,14,19.439999999999998
+wildcat,fire,out,2018-08-06,Brome,24,2018,6,6.16
+wildcat,fire,out,2018-08-06,C3,24,2018,7,260.28
+wildcat,fire,out,2018-08-06,C4,24,2018,3,16.74
+wildcat,fire,out,2018-08-06,Forb,24,2018,0,1.86
+wildcat,fire,out,2018-08-06,SD,24,2018,0,19.26
+wildcat,fire,out,2018-08-06,Subshrub,24,2018,0,0.0
+wildcat,fire,out,2018-08-06,Total,24,2018,24,317.58
+wildcat,fire,out,2018-08-06,VUOC,24,2018,8,13.28
+wildcat,fire,out,2019-08-05,AnnGrass,33,2019,17,34.300000000000004
+wildcat,fire,out,2019-08-05,Brome,33,2019,17,33.7
+wildcat,fire,out,2019-08-05,C3,33,2019,8,86.6
+wildcat,fire,out,2019-08-05,C4,33,2019,6,42.7
+wildcat,fire,out,2019-08-05,Forb,33,2019,2,2.6
+wildcat,fire,out,2019-08-05,SD,33,2019,0,36.9
+wildcat,fire,out,2019-08-05,Subshrub,33,2019,0,0.0
+wildcat,fire,out,2019-08-05,Total,33,2019,33,203.1
+wildcat,fire,out,2019-08-05,VUOC,33,2019,0,0.6
+wildcat,fire,out,2020-08-06,AnnGrass,22,2020,1,12.88
+wildcat,fire,out,2020-08-06,Brome,22,2020,1,12.88
+wildcat,fire,out,2020-08-06,C3,22,2020,4,21.4
+wildcat,fire,out,2020-08-06,C4,22,2020,7,10.4
+wildcat,fire,out,2020-08-06,Forb,22,2020,0,0.0
+wildcat,fire,out,2020-08-06,SD,22,2020,0,15.84
+wildcat,fire,out,2020-08-06,Subshrub,22,2020,0,0.0
+wildcat,fire,out,2020-08-06,Total,22,2020,22,60.52
+wildcat,fire,out,2020-08-06,VUOC,22,2020,0,0.0
+wildcat,fire,ungulate ex,2017-07-18,AnnGrass,22,2017,0,0.3000000000000007
+wildcat,fire,ungulate ex,2017-07-18,Brome,22,2017,0,0.3000000000000007
+wildcat,fire,ungulate ex,2017-07-18,C3,22,2017,22,120.72
+wildcat,fire,ungulate ex,2017-07-18,C4,22,2017,0,0.0
+wildcat,fire,ungulate ex,2017-07-18,Forb,22,2017,0,0.2400000000000002
+wildcat,fire,ungulate ex,2017-07-18,SD,22,2017,0,0.0
+wildcat,fire,ungulate ex,2017-07-18,Subshrub,22,2017,0,0.0
+wildcat,fire,ungulate ex,2017-07-18,Total,22,2017,22,121.25999999999999
+wildcat,fire,ungulate ex,2017-07-18,VUOC,22,2017,0,0.0
+wildcat,fire,ungulate ex,2018-08-06,AnnGrass,12,2018,1,76.94
+wildcat,fire,ungulate ex,2018-08-06,Brome,12,2018,1,76.88
+wildcat,fire,ungulate ex,2018-08-06,C3,12,2018,9,400.2
+wildcat,fire,ungulate ex,2018-08-06,C4,12,2018,0,0.0
+wildcat,fire,ungulate ex,2018-08-06,Forb,12,2018,0,3.58
+wildcat,fire,ungulate ex,2018-08-06,SD,12,2018,2,60.46
+wildcat,fire,ungulate ex,2018-08-06,Subshrub,12,2018,0,0.0
+wildcat,fire,ungulate ex,2018-08-06,Total,12,2018,12,541.18
+wildcat,fire,ungulate ex,2018-08-06,VUOC,12,2018,0,0.06
+wildcat,fire,ungulate ex,2019-08-05,AnnGrass,41,2019,7,11.1
+wildcat,fire,ungulate ex,2019-08-05,Brome,41,2019,5,10.2
+wildcat,fire,ungulate ex,2019-08-05,C3,41,2019,11,220.2
+wildcat,fire,ungulate ex,2019-08-05,C4,41,2019,1,2.9
+wildcat,fire,ungulate ex,2019-08-05,Forb,41,2019,4,18.0
+wildcat,fire,ungulate ex,2019-08-05,SD,41,2019,18,116.1
+wildcat,fire,ungulate ex,2019-08-05,Subshrub,41,2019,0,0.0
+wildcat,fire,ungulate ex,2019-08-05,Total,41,2019,41,368.29999999999995
+wildcat,fire,ungulate ex,2019-08-05,VUOC,41,2019,2,0.9
+wildcat,fire,ungulate ex,2020-08-06,AnnGrass,16,2020,4,3.5
+wildcat,fire,ungulate ex,2020-08-06,Brome,16,2020,4,3.5
+wildcat,fire,ungulate ex,2020-08-06,C3,16,2020,7,80.04
+wildcat,fire,ungulate ex,2020-08-06,C4,16,2020,0,0.0
+wildcat,fire,ungulate ex,2020-08-06,Forb,16,2020,0,0.0
+wildcat,fire,ungulate ex,2020-08-06,SD,16,2020,5,20.52
+wildcat,fire,ungulate ex,2020-08-06,Subshrub,16,2020,0,0.0
+wildcat,fire,ungulate ex,2020-08-06,Total,16,2020,16,104.06
+wildcat,fire,ungulate ex,2020-08-06,VUOC,16,2020,0,0.0
+wildcat,prairie dog,livestock ex,2017-07-18,AnnGrass,3,2017,0,0.0
+wildcat,prairie dog,livestock ex,2017-07-18,Brome,3,2017,0,0.0
+wildcat,prairie dog,livestock ex,2017-07-18,C3,3,2017,3,29.080000000000005
+wildcat,prairie dog,livestock ex,2017-07-18,C4,3,2017,0,0.0
+wildcat,prairie dog,livestock ex,2017-07-18,Forb,3,2017,0,9.66
+wildcat,prairie dog,livestock ex,2017-07-18,SD,3,2017,0,0.0
+wildcat,prairie dog,livestock ex,2017-07-18,Subshrub,3,2017,0,0.0
+wildcat,prairie dog,livestock ex,2017-07-18,Total,3,2017,3,38.74000000000001
+wildcat,prairie dog,livestock ex,2017-07-18,VUOC,3,2017,0,0.0
+wildcat,prairie dog,livestock ex,2018-08-02,AnnGrass,37,2018,0,0.8200000000000001
+wildcat,prairie dog,livestock ex,2018-08-02,Brome,37,2018,0,0.8
+wildcat,prairie dog,livestock ex,2018-08-02,C3,37,2018,31,154.84
+wildcat,prairie dog,livestock ex,2018-08-02,C4,37,2018,0,0.0
+wildcat,prairie dog,livestock ex,2018-08-02,Forb,37,2018,6,28.34
+wildcat,prairie dog,livestock ex,2018-08-02,SD,37,2018,0,0.22
+wildcat,prairie dog,livestock ex,2018-08-02,Subshrub,37,2018,0,0.0
+wildcat,prairie dog,livestock ex,2018-08-02,Total,37,2018,37,184.22000000000003
+wildcat,prairie dog,livestock ex,2018-08-02,VUOC,37,2018,0,0.02
+wildcat,prairie dog,livestock ex,2019-08-05,AnnGrass,24,2019,0,0.0
+wildcat,prairie dog,livestock ex,2019-08-05,Brome,24,2019,0,0.0
+wildcat,prairie dog,livestock ex,2019-08-05,C3,24,2019,0,0.0
+wildcat,prairie dog,livestock ex,2019-08-05,C4,24,2019,0,0.0
+wildcat,prairie dog,livestock ex,2019-08-05,Forb,24,2019,24,216.5
+wildcat,prairie dog,livestock ex,2019-08-05,SD,24,2019,0,6.3
+wildcat,prairie dog,livestock ex,2019-08-05,Subshrub,24,2019,0,0.0
+wildcat,prairie dog,livestock ex,2019-08-05,Total,24,2019,24,222.8
+wildcat,prairie dog,livestock ex,2019-08-05,VUOC,24,2019,0,0.0
+wildcat,prairie dog,livestock ex,2020-08-06,AnnGrass,4,2020,0,0.0
+wildcat,prairie dog,livestock ex,2020-08-06,Brome,4,2020,0,0.0
+wildcat,prairie dog,livestock ex,2020-08-06,C3,4,2020,1,57.76
+wildcat,prairie dog,livestock ex,2020-08-06,C4,4,2020,0,0.48
+wildcat,prairie dog,livestock ex,2020-08-06,Forb,4,2020,3,23.060000000000002
+wildcat,prairie dog,livestock ex,2020-08-06,SD,4,2020,0,76.86
+wildcat,prairie dog,livestock ex,2020-08-06,Subshrub,4,2020,0,0.0
+wildcat,prairie dog,livestock ex,2020-08-06,Total,4,2020,4,158.16
+wildcat,prairie dog,livestock ex,2020-08-06,VUOC,4,2020,0,0.0
+wildcat,prairie dog,out,2017-07-18,AnnGrass,5,2017,0,0.0
+wildcat,prairie dog,out,2017-07-18,Brome,5,2017,0,0.0
+wildcat,prairie dog,out,2017-07-18,C3,5,2017,5,34.76
+wildcat,prairie dog,out,2017-07-18,C4,5,2017,0,0.0
+wildcat,prairie dog,out,2017-07-18,Forb,5,2017,0,2.3000000000000007
+wildcat,prairie dog,out,2017-07-18,SD,5,2017,0,0.0
+wildcat,prairie dog,out,2017-07-18,Subshrub,5,2017,0,0.0
+wildcat,prairie dog,out,2017-07-18,Total,5,2017,5,37.06
+wildcat,prairie dog,out,2017-07-18,VUOC,5,2017,0,0.0
+wildcat,prairie dog,out,2018-08-02,AnnGrass,51,2018,0,0.08
+wildcat,prairie dog,out,2018-08-02,Brome,51,2018,0,0.0
+wildcat,prairie dog,out,2018-08-02,C3,51,2018,38,397.18
+wildcat,prairie dog,out,2018-08-02,C4,51,2018,0,0.0
+wildcat,prairie dog,out,2018-08-02,Forb,51,2018,13,14.78
+wildcat,prairie dog,out,2018-08-02,SD,51,2018,0,2.58
+wildcat,prairie dog,out,2018-08-02,Subshrub,51,2018,0,0.0
+wildcat,prairie dog,out,2018-08-02,Total,51,2018,51,414.61999999999995
+wildcat,prairie dog,out,2018-08-02,VUOC,51,2018,0,0.08
+wildcat,prairie dog,out,2019-08-05,AnnGrass,36,2019,1,6.6
+wildcat,prairie dog,out,2019-08-05,Brome,36,2019,0,0.0
+wildcat,prairie dog,out,2019-08-05,C3,36,2019,21,210.9
+wildcat,prairie dog,out,2019-08-05,C4,36,2019,0,0.0
+wildcat,prairie dog,out,2019-08-05,Forb,36,2019,5,49.0
+wildcat,prairie dog,out,2019-08-05,SD,36,2019,9,36.7
+wildcat,prairie dog,out,2019-08-05,Subshrub,36,2019,0,0.0
+wildcat,prairie dog,out,2019-08-05,Total,36,2019,36,303.2
+wildcat,prairie dog,out,2019-08-05,VUOC,36,2019,1,6.6
+wildcat,prairie dog,out,2020-08-06,AnnGrass,16,2020,5,4.5282
+wildcat,prairie dog,out,2020-08-06,Brome,16,2020,0,0.0482
+wildcat,prairie dog,out,2020-08-06,C3,16,2020,1,40.9
+wildcat,prairie dog,out,2020-08-06,C4,16,2020,0,0.4
+wildcat,prairie dog,out,2020-08-06,Forb,16,2020,0,2.3438
+wildcat,prairie dog,out,2020-08-06,SD,16,2020,10,109.06
+wildcat,prairie dog,out,2020-08-06,Subshrub,16,2020,0,0.0
+wildcat,prairie dog,out,2020-08-06,Total,16,2020,16,157.232
+wildcat,prairie dog,out,2020-08-06,VUOC,16,2020,5,4.48
+wildcat,prairie dog,ungulate ex,2017-07-18,AnnGrass,17,2017,0,0.0
+wildcat,prairie dog,ungulate ex,2017-07-18,Brome,17,2017,0,0.0
+wildcat,prairie dog,ungulate ex,2017-07-18,C3,17,2017,17,123.29999999999998
+wildcat,prairie dog,ungulate ex,2017-07-18,C4,17,2017,0,0.0
+wildcat,prairie dog,ungulate ex,2017-07-18,Forb,17,2017,0,0.0
+wildcat,prairie dog,ungulate ex,2017-07-18,SD,17,2017,0,0.0
+wildcat,prairie dog,ungulate ex,2017-07-18,Subshrub,17,2017,0,0.0
+wildcat,prairie dog,ungulate ex,2017-07-18,Total,17,2017,17,123.29999999999998
+wildcat,prairie dog,ungulate ex,2017-07-18,VUOC,17,2017,0,0.0
+wildcat,prairie dog,ungulate ex,2018-08-02,AnnGrass,46,2018,0,0.54
+wildcat,prairie dog,ungulate ex,2018-08-02,Brome,46,2018,0,0.0
+wildcat,prairie dog,ungulate ex,2018-08-02,C3,46,2018,40,439.06
+wildcat,prairie dog,ungulate ex,2018-08-02,C4,46,2018,0,0.0
+wildcat,prairie dog,ungulate ex,2018-08-02,Forb,46,2018,6,16.18
+wildcat,prairie dog,ungulate ex,2018-08-02,SD,46,2018,0,75.12
+wildcat,prairie dog,ungulate ex,2018-08-02,Subshrub,46,2018,0,0.0
+wildcat,prairie dog,ungulate ex,2018-08-02,Total,46,2018,46,530.9000000000001
+wildcat,prairie dog,ungulate ex,2018-08-02,VUOC,46,2018,0,0.54
+wildcat,prairie dog,ungulate ex,2019-08-05,AnnGrass,37,2019,0,0.5
+wildcat,prairie dog,ungulate ex,2019-08-05,Brome,37,2019,0,0.0
+wildcat,prairie dog,ungulate ex,2019-08-05,C3,37,2019,17,284.2
+wildcat,prairie dog,ungulate ex,2019-08-05,C4,37,2019,0,0.0
+wildcat,prairie dog,ungulate ex,2019-08-05,Forb,37,2019,6,21.3
+wildcat,prairie dog,ungulate ex,2019-08-05,SD,37,2019,14,46.9
+wildcat,prairie dog,ungulate ex,2019-08-05,Subshrub,37,2019,0,0.0
+wildcat,prairie dog,ungulate ex,2019-08-05,Total,37,2019,37,352.9
+wildcat,prairie dog,ungulate ex,2019-08-05,VUOC,37,2019,0,0.5
+wildcat,prairie dog,ungulate ex,2020-08-06,AnnGrass,49,2020,1,0.36
+wildcat,prairie dog,ungulate ex,2020-08-06,Brome,49,2020,0,0.0
+wildcat,prairie dog,ungulate ex,2020-08-06,C3,49,2020,2,53.8
+wildcat,prairie dog,ungulate ex,2020-08-06,C4,49,2020,0,0.0
+wildcat,prairie dog,ungulate ex,2020-08-06,Forb,49,2020,8,47.74
+wildcat,prairie dog,ungulate ex,2020-08-06,SD,49,2020,38,225.76
+wildcat,prairie dog,ungulate ex,2020-08-06,Subshrub,49,2020,0,0.0
+wildcat,prairie dog,ungulate ex,2020-08-06,Total,49,2020,49,327.65999999999997
+wildcat,prairie dog,ungulate ex,2020-08-06,VUOC,49,2020,1,0.36
