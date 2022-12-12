@@ -1,0 +1,44 @@
+name: py_geo_env_v02
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy
+  - certifi
+  - dask
+  - distributed
+  - fiona
+  - fsspec
+  - geopandas
+  - google-api-core
+  - google-auth
+  - google-cloud-core
+  - google-cloud-storage
+  - hdf4
+  - hdf5
+  - holoviews
+  - hvplot
+  - ipykernel
+  - ipython
+  - jupyterlab
+  - openpyxl
+  - pandas
+  - panel
+  - param
+  - pip
+  - python=3.10.4
+  - rasterio
+  - rioxarray
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - seaborn
+  - shapely
+  - stackstac
+  - statsmodels
+  - tifffile
+  - tqdm
+  - xarray
+  - pip:
+    - gdal
+    - pysptools
