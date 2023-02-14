@@ -42,3 +42,4 @@ dependencies:
   - pip:
     - gdal
     - pysptools
+    - git+https://github.com/kearney-sp/hls_nrt_utils.git
